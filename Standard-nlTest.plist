@@ -1,0 +1,1970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Onboarding</key>
+	<dict>
+		<key>BottomButtonContinue</key>
+		
+		<key>BottomButtonNext</key>
+		
+		<key>SkipButtonText</key>
+		
+		<key>ScreenTitle0</key>
+		
+		<key>ScreenTitle6</key>
+		
+		<key>ScreenTitle1</key>
+		
+		<key>ScreenTitle5</key>
+		
+		<key>ScreenTitle2</key>
+		
+		<key>ScreenTitle3</key>
+		
+		<key>ScreenTitle4</key>
+		
+	</dict>
+	<key>MultiShelf</key>
+	<dict>
+		<key>NavBarTitle</key>
+		
+		<key>FilterButtonText</key>
+		
+	</dict>
+	<key>SupportingViews</key>
+	<dict>
+		<key>BasketView</key>
+		<dict>
+			<key>ProductsCountSingle</key>
+			
+			<key>ProductsCountPlural</key>
+			
+			<key>CartNameLabel</key>
+			
+			<key>AddNewCartNameLabel</key>
+			
+		</dict>
+		<key>ScalledCollectionView</key>
+		<dict>
+			<key>Delete</key>
+			
+			<key>LabelText</key>
+			
+			<key>DeleteAll</key>
+			
+		</dict>
+		<key>ShopView</key>
+		<dict>
+			<key>BuyButtonTitle</key>
+			
+			<key>ClickToContinue</key>
+			
+		</dict>
+		<key>DatePickerView</key>
+		<dict>
+			<key>DialogCancelButton</key>
+			
+			<key>Next</key>
+			
+			<key>MonthArray</key>
+			<dict>
+				<key>January</key>
+				
+				<key>November</key>
+				
+				<key>July</key>
+				
+				<key>December</key>
+				
+				<key>August</key>
+				
+				<key>May</key>
+				
+				<key>February</key>
+				
+				<key>June</key>
+				
+				<key>April</key>
+				
+				<key>March</key>
+				
+				<key>October</key>
+				
+				<key>September</key>
+				
+			</dict>
+			<key>DialogDoneButton</key>
+			
+		</dict>
+		<key>ImagePicker</key>
+		<dict>
+			<key>Cancel</key>
+			
+			<key>SelectItemsPt1</key>
+			
+			<key>OrVideo</key>
+			
+			<key>SnapPhoto</key>
+			
+			<key>SelectItemsPt2</key>
+			
+			<key>SingleSelectionLabel</key>
+			
+		</dict>
+		<key>GMSAutocompleteView</key>
+		<dict>
+			<key>SearchBarPlaceholder</key>
+			
+		</dict>
+		<key>MaterialLikeTextField</key>
+		<dict>
+			<key>ErrorText</key>
+			
+		</dict>
+	</dict>
+	<key>MembershipPopup</key>
+	<dict>
+		<key>PasswordPlaceholder</key>
+		
+		<key>WebUserInfoText</key>
+		
+		<key>RegisterMessage</key>
+		
+		<key>NoCardYetText2</key>
+		
+		<key>AlreadyVerifiedLabel</key>
+		
+		<key>RetailerTitle</key>
+		
+		<key>WebUserInfoLinkText</key>
+		
+		<key>NumberOfPointsText1</key>
+		
+		<key>UserNamePlaceholder</key>
+		
+		<key>PopupButtonText</key>
+		
+		<key>TellUsMoreAboutView</key>
+		
+		<key>ForgetPasswordButtonTitle</key>
+		
+		<key>NoCardYetText1</key>
+		
+		<key>ReplaceButtonText</key>
+		
+		<key>NoCardYetText</key>
+		
+		<key>DoneText</key>
+		
+		<key>CodeFieldErrorText</key>
+		
+		<key>AlreadyHaveAllCardsRetailerTitle</key>
+		
+		<key>PersonalMarketingText</key>
+		
+		<key>NumberOfPointsText2</key>
+		
+	</dict>
+	<key>MetaDataAttributesTitles</key>
+	<dict>
+		<key>kvContactName</key>
+		
+		<key>igcNewProduct</key>
+		
+		<key>kvPackageMarksEnvironment</key>
+		
+		<key>description</key>
+		
+		<key>loyaltyProductAvailability</key>
+		
+		<key>medical_information</key>
+		
+		<key>igcContentUnit</key>
+		
+		<key>igcBrandName</key>
+		
+		<key>kvAllergenTypeCode</key>
+		
+		<key>kvDrugFileLocation</key>
+		
+		<key>kvCommunicationAddress</key>
+		
+		<key>showPdpContentHubArticles</key>
+		
+		<key>general_information</key>
+		
+		<key>product_information</key>
+		
+		<key>alcohol_percentage</key>
+		
+		<key>igcWeight</key>
+		
+		<key>igcERPShortDescription</key>
+		
+		<key>kvWidth</key>
+		
+		<key>important</key>
+		
+		<key>code</key>
+		
+		<key>kvCalculatedPPUDisplayPrice</key>
+		
+		<key>kvNutritionalClaim</key>
+		
+		<key>kvOpenedTradeItemLifespan</key>
+		
+		<key>kvPackageMarksEthical</key>
+		
+		<key>kvWeightCENr</key>
+		
+		<key>baseProduct</key>
+		
+		<key>portions_per_package</key>
+		
+		<key>kvPreparationInstructions</key>
+		
+		<key>Amount</key>
+		
+		<key>doctorURLText</key>
+		
+		<key>onlineDate</key>
+		
+		<key>igcRecyclingInfo</key>
+		
+		<key>igcBrandCode</key>
+		
+		<key>instructions</key>
+		
+		<key>kvDrugApplication</key>
+		
+		<key>kvRegulatedProductName</key>
+		
+		<key>composition</key>
+		
+		<key>igcVariantType</key>
+		
+		<key>igcShortDescription</key>
+		
+		<key>name</key>
+		
+		<key>igcContentSize</key>
+		
+		<key>KvDailyValueIntakeReference</key>
+		
+		<key>kvNumberOfServingsPerPackage</key>
+		
+		<key>additional</key>
+		
+		<key>kvDrugComposition</key>
+		
+		<key>kvHealthClaim</key>
+		
+		<key>igcInformativePrice1</key>
+		
+		<key>kvUnspecifiedPreperationTypePreperationInstructions</key>
+		
+		<key>colorCode</key>
+		
+		<key>kvHeight</key>
+		
+		<key>kvDrugGuidelines</key>
+		
+		<key>kvVariantSize</key>
+		
+		<key>igcInformativeText3</key>
+		
+		<key>colorGroup</key>
+		
+		<key>igcUses</key>
+		
+		<key>kvContactType</key>
+		
+		<key>igcInformativeText2</key>
+		
+		<key>isURLPlaceholderText</key>
+		
+		<key>kvPromoAssortment</key>
+		
+		<key>label_information</key>
+		
+		<key>kvPharmacy</key>
+		
+		<key>igcInformativeText1</key>
+		
+		<key>ean</key>
+		
+		<key>promotionLabel</key>
+		
+		<key>kvLabelInfoText</key>
+		
+		<key>irgPrdVatCode</key>
+		
+		<key>igcContentSizeUnit</key>
+		
+		<key>kvServingSize</key>
+		
+		<key>ingredients</key>
+		
+		<key>kvSummaryDescription</key>
+		
+		<key>igcIngredients</key>
+		
+		<key>offlineDate</key>
+		
+		<key>kvShowPPU</key>
+		
+		<key>contact_information</key>
+		
+		<key>kvTargetConsumerAge</key>
+		
+		<key>kvCommunicationChannelNumber</key>
+		
+		<key>kvPackageMarksFreeFrom</key>
+		
+		<key>kvWlsURL</key>
+		
+		<key>kvHouseholdServingSize</key>
+		
+		<key>legal_name</key>
+		
+		<key>maxOrderQuantity</key>
+		
+		<key>image</key>
+		
+		<key>kvDosageRestrictionLimits</key>
+		
+		<key>KvIsNewDate</key>
+		
+		<key>kvCommunicationChannelCode</key>
+		
+		<key>kvPackageMarksDietAllergen</key>
+		
+		<key>allergies</key>
+		
+		<key>kvCompulsoryAdditivesLabelInformation</key>
+		
+		<key>kvScoops</key>
+		
+		<key>kvDrugSideEffectsAndWarnings</key>
+		
+		<key>loyaltyProductOfflineDate</key>
+		
+		<key>kvIngredientStatement</key>
+		
+		<key>kvRecommendedCount</key>
+		
+		<key>kvPPUDisplayUnit</key>
+		
+		<key>kvDepth</key>
+		
+		<key>kvOtcProductIndicator</key>
+		
+		<key>kvAvarageOverallRating</key>
+		
+		<key>kvNutrientTypeCode</key>
+		
+		<key>kvDocumentationUrl</key>
+		
+		<key>igcFormulation</key>
+		
+		<key>igcErpName</key>
+		
+		<key>kvWls</key>
+		
+		<key>loyaltyProductPoints</key>
+		
+		<key>kvDrugTypeFile</key>
+		
+		<key>igcWarnings</key>
+		
+		<key>kvConsumerUsageStorageInstruction</key>
+		
+		<key>kvPercentageOfAlcoholByVolume</key>
+		
+		<key>kvTotalReviewCount</key>
+		
+	</dict>
+	<key>CreditCardPopup</key>
+	<dict>
+		<key>CvvPlaceholder</key>
+		
+		<key>ValidDatePlaceholder</key>
+		
+		<key>WrongNumberAlertMessage</key>
+		
+		<key>DoneText</key>
+		
+		<key>WrongNumberAlertOk</key>
+		
+		<key>CreditCardNumber</key>
+		
+		<key>FirstNamePlaceholder</key>
+		
+		<key>WrongNumberAlertTitle</key>
+		
+		<key>LastNamePlaceholder</key>
+		
+		<key>PassportIdPlaceholder</key>
+		
+	</dict>
+	<key>PersonalMarketingPopup</key>
+	<dict>
+		<key>MessagesViaSocialMediaTitleText</key>
+		
+		<key>OffersFromPartnersGDPRText</key>
+		
+		<key>OffersFromPartnersTitleText</key>
+		
+		<key>PushNotificationsGDPRText</key>
+		
+		<key>MessagesViaSocialMediaGDPRLink2Address</key>
+		
+		<key>MessagesViaSocialMediaGDPRLink1Address</key>
+		
+		<key>MessagesViaEmailTitleText</key>
+		
+		<key>BottomLabelText</key>
+		
+		<key>Offer2</key>
+		
+		<key>MessagesViaPostTitleText</key>
+		
+		<key>SMSPushGDPRText</key>
+		
+		<key>PersonalizeVia3dPartyTitleText</key>
+		
+		<key>Offer1</key>
+		
+		<key>EveryDayRecieveMethodText</key>
+		
+		<key>WebUserInfoLinkText</key>
+		
+		<key>MessagesViaSocialMediaGDPRLink2Text</key>
+		
+		<key>SignForNewslettersGDPRText</key>
+		
+		<key>Offer0</key>
+		
+		<key>RecieveMethodDescriptionText</key>
+		
+		<key>RecieveMethodGDPRText</key>
+		
+		<key>SignUpForBirthdayOffersTitleText</key>
+		
+		<key>SMSPushTitleText</key>
+		
+		<key>MessagesViaPostGDPRText</key>
+		
+		<key>PersonalRecomendationOffersGDPRTextLinkName</key>
+		
+		<key>MessagesViaSocialMediaGDPRLink1Text</key>
+		
+		<key>TitleLabelText</key>
+		
+		<key>MessagesViaSocialMediaGDPRText</key>
+		
+		<key>DoNotSendRecieveMethodText</key>
+		
+		<key>OnceAWeekRecieveMethodText</key>
+		
+		<key>MessagesViaEmailGDPRText</key>
+		
+		<key>PersonalRecomendationOffersGDPRText</key>
+		
+		<key>PersonalRecomendationOffersTitleText</key>
+		
+		<key>PersonalRecomendationOffersGDPRTextLinkAddress</key>
+		
+		<key>SignUpForBirthdayOffersDescriptionText</key>
+		
+		<key>SignUpForNewsLetterTitleText</key>
+		
+		<key>WebUserInfoText</key>
+		
+		<key>PushNotificationsTitleText</key>
+		
+		<key>RecieveMethodTitleText</key>
+		
+		<key>SignUpForNewsLetterDescriptionText</key>
+		
+		<key>PersonalizeVia3dPartyGDPRText</key>
+		
+	</dict>
+	<key>TellUsMorePopup</key>
+	<dict>
+		<key>BabiesAndToddlerGDPRLinkText</key>
+		
+		<key>InterestsTitleText</key>
+		
+		<key>BabyAndMamaBenefitsTitleText</key>
+		
+		<key>WebUserInfoText</key>
+		
+		<key>TitleLabelText</key>
+		
+		<key>BabiesAndToddlerDatePlaceholderText</key>
+		
+		<key>BabyAndMamaBenefitsDatePlaceholderText</key>
+		
+		<key>BabiesAndToddlerGDPRText</key>
+		
+		<key>Interest0</key>
+		
+		<key>WebUserInfoLinkText</key>
+		
+		<key>BabiesAndToddlerDescriptionText</key>
+		
+		<key>Interest2</key>
+		
+		<key>BabiesAndToddlerAddButtonText</key>
+		
+		<key>BabyAndMamaBenefitsSendButtonText</key>
+		
+		<key>BabyAndMamaBenefitsDescriptionText</key>
+		
+		<key>BabiesAndToddlerNamePlaceholderText</key>
+		
+		<key>BabyAndMamaBenefitsGDPRText</key>
+		
+		<key>BottomLabelText</key>
+		
+		<key>BabiesAndToddlerGirlText</key>
+		
+		<key>BabiesAndToddlerSendButtonText</key>
+		
+		<key>InterestsDescriptionText</key>
+		
+		<key>Interest1</key>
+		
+		<key>Interest3</key>
+		
+		<key>InterestsGDPRText</key>
+		
+		<key>BabiesAndToddlerBoyText</key>
+		
+		<key>BabiesAndToddlerTitleText</key>
+		
+	</dict>
+	<key>ProductInfoView</key>
+	<dict>
+		<key>HomeDeliveryOnly</key>
+		
+		<key>DigitalTicket</key>
+		
+		<key>PromotionInnerCell</key>
+		<dict>
+			<key>Or</key>
+			
+		</dict>
+		<key>HeaderTitle</key>
+		<dict>
+			<key>Prices</key>
+			
+			<key>Preperties</key>
+			
+			<key>ProductVariants</key>
+			
+			<key>ProductImages</key>
+			
+			<key>Price</key>
+			
+			<key>Description</key>
+			
+		</dict>
+		<key>RatingCell</key>
+		<dict>
+			<key>RatingLabelWithRatesPt3</key>
+			
+			<key>RatingLabelWIthRatesPt1</key>
+			
+			<key>ShareProducShareText</key>
+			
+			<key>RatingLabelWithRatesPt2</key>
+			
+			<key>RatingLabelForNotRates</key>
+			
+			<key>ActivitiesItemsPrefix</key>
+			
+		</dict>
+		<key>WarningCell</key>
+		<dict>
+			<key>PayAttention</key>
+			
+			<key>ThisIsMedicine</key>
+			
+		</dict>
+		<key>PriceAndLoyaltyCell</key>
+		<dict>
+			<key>EarnsLabel1</key>
+			
+			<key>EarnsLabel2</key>
+			
+		</dict>
+		<key>ActionsCell</key>
+		<dict>
+			<key>AddToBasket</key>
+			
+			<key>ShareTextEnding</key>
+			
+			<key>ShareTextBeginning</key>
+			
+			<key>AddToBasketDigital</key>
+			
+		</dict>
+	</dict>
+	<key>SuperPopup</key>
+	<dict>
+		<key>CancelButtonTitleCancel</key>
+		
+		<key>AcceptButtonTitleOk</key>
+		
+	</dict>
+	<key>ShareContact</key>
+	<dict>
+		<key>TitleLabel</key>
+		
+		<key>ShareButton</key>
+		
+		<key>CancelButton</key>
+		
+	</dict>
+	<key>LanguagePickerView</key>
+	<dict>
+		<key>TitleLabel</key>
+		
+		<key>SearchBarPlaceholder</key>
+		
+	</dict>
+	<key>Profile</key>
+	<dict>
+		<key>Logout</key>
+		<dict>
+			<key>Cancel</key>
+			
+			<key>Ok</key>
+			
+			<key>Title</key>
+			
+			<key>Message</key>
+			
+		</dict>
+		<key>BottomBarTitle</key>
+		<dict>
+			<key>Orders</key>
+			
+			<key>Membership</key>
+			
+			<key>Preferences</key>
+			
+			<key>CreditCard</key>
+			
+			<key>Addresses</key>
+			
+			<key>AdditionalAddresses</key>
+			
+		</dict>
+		<key>MenuItems</key>
+		<dict>
+			<key>Logout</key>
+			
+			<key>Version</key>
+			
+			<key>TermsAndConditions</key>
+			
+			<key>PrivacyStatement</key>
+			
+			<key>Settings</key>
+			
+			<key>LegalInfo</key>
+			
+			<key>OnBoarding</key>
+			
+			<key>Service</key>
+			
+			<key>SelectPlatform</key>
+			
+			<key>AppLanguage</key>
+			
+			<key>EditUser</key>
+			
+		</dict>
+		<key>BackBtnTitle</key>
+		
+		<key>OrderDetails</key>
+		<dict>
+			<key>CalendarReminderText</key>
+			
+			<key>NavigationBarTitleText</key>
+			
+		</dict>
+		<key>BottomCardViews</key>
+		<dict>
+			<key>Orders</key>
+			<dict>
+				<key>EmptyLabel</key>
+				
+				<key>PickUpStore</key>
+				
+				<key>HomeDelivery</key>
+				
+			</dict>
+			<key>Membership</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				
+				<key>UnsavedDataAlertCloseAction</key>
+				
+				<key>UnsavedDataAlertDontCloseAction</key>
+				
+				<key>DeleteAlertMessage</key>
+				
+				<key>DeleteActionNo</key>
+				
+				<key>DeleteActionOk</key>
+				
+				<key>UnsavedDataAlertMessage</key>
+				
+				<key>UnsavedDataAlertTitle</key>
+				
+			</dict>
+			<key>Preferences</key>
+			<dict>
+				<key>UnsavedDataAlertCloseAction</key>
+				
+				<key>UnsavedDataAlertDontCloseAction</key>
+				
+				<key>UnsavedDataAlertMessage</key>
+				
+				<key>UnsavedDataAlertTitle</key>
+				
+			</dict>
+			<key>Address</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				
+				<key>UnsavedDataAlertCloseAction</key>
+				
+				<key>UnsavedDataAlertDontCloseAction</key>
+				
+				<key>UnsavedDataAlertMessage</key>
+				
+				<key>DeleteAlertMessage</key>
+				
+				<key>DeleteActionNo</key>
+				
+				<key>ActivationText</key>
+				
+				<key>DeleteActionOk</key>
+				
+				<key>UnsavedDataAlertTitle</key>
+				
+				<key>AddNewText</key>
+				
+			</dict>
+			<key>CreditCard</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				
+				<key>UnsavedDataAlertCloseAction</key>
+				
+				<key>UnsavedDataAlertDontCloseAction</key>
+				
+				<key>DeleteAlertMessage</key>
+				
+				<key>DeleteActionNo</key>
+				
+				<key>DeleteActionOk</key>
+				
+				<key>KeyboardDone</key>
+				
+				<key>UnsavedDataAlertMessage</key>
+				
+				<key>UnsavedDataAlertTitle</key>
+				
+			</dict>
+		</dict>
+		<key>EditProfile</key>
+		<dict>
+			<key>UnsavedDataAlertCloseAction</key>
+			
+			<key>UnsavedDataAlertDontCloseAction</key>
+			
+			<key>UnsavedDataAlertMessage</key>
+			
+			<key>UnsavedDataAlertTitle</key>
+			
+		</dict>
+		<key>NavigationTitle</key>
+		
+	</dict>
+	<key>KruidvatProfile</key>
+	<dict>
+		<key>BottomCardViews</key>
+		<dict>
+			<key>Orders</key>
+			<dict>
+				<key>PickUpStore</key>
+				
+				<key>HomeDelivery</key>
+				
+			</dict>
+		</dict>
+	</dict>
+	<key>Shelf</key>
+	<dict>
+		<key>Search</key>
+		<dict>
+			<key>SearchPlaceHolder</key>
+			
+			<key>SearchPlaceHolderForVoice</key>
+			
+		</dict>
+		<key>PriceView</key>
+		<dict>
+			<key>From</key>
+			
+			<key>NotAvailable</key>
+			
+		</dict>
+		<key>RichContent</key>
+		<dict>
+			<key>TitleText</key>
+			
+		</dict>
+		<key>BarCodeView</key>
+		<dict>
+			<key>EnableCameraButtonTitle</key>
+			
+			<key>LabelText</key>
+			
+			<key>CantOpenCameraAlertTitile</key>
+			
+			<key>CantOpenCameraAlertAction</key>
+			
+			<key>CantOpenCameraAlertMessage</key>
+			
+			<key>DidDetectErrorMessagePt1</key>
+			
+			<key>CantOpenCameraAlertCancel</key>
+			
+			<key>DidDetectErrorMessagePt2</key>
+			
+		</dict>
+		<key>Categories</key>
+		<dict>
+			<key>Views</key>
+			<dict>
+				<key>Scale</key>
+				<dict>
+					<key>ClearText</key>
+					
+					<key>NoRelevantProductText</key>
+					
+				</dict>
+			</dict>
+			<key>ParentCatName</key>
+			
+			<key>FiltersNames</key>
+			<dict>
+				<key>RatingsCatName</key>
+				
+				<key>PricesCatName</key>
+				
+				<key>MoreThan</key>
+				
+				<key>PromotionCatName</key>
+				
+				<key>BrandsCatName</key>
+				
+			</dict>
+			<key>ProductHasNoCategory</key>
+			
+			<key>FilterCell</key>
+			<dict>
+				<key>ResetText</key>
+				
+			</dict>
+			<key>ProducNameLabelNotFound</key>
+			
+			<key>PromotionCatName</key>
+			
+			<key>BrandsCatName</key>
+			
+			<key>SmartShelfTitle</key>
+			
+		</dict>
+		<key>Buttons</key>
+		<dict>
+			<key>NoPermissionMicrophoneAlertNo</key>
+			
+			<key>SuccessMicrophoneAlertMessage</key>
+			
+			<key>NoPermissionMicrophoneAlertAction</key>
+			
+			<key>NoPermissionMicrophoneAlertMessage</key>
+			
+			<key>SuccessMicrophoneAlertTitle</key>
+			
+			<key>NoPermissionMicrophoneAlertTitle</key>
+			
+			<key>ShowStatusLineMessage</key>
+			
+		</dict>
+		<key>OtherViews</key>
+		<dict>
+			<key>HomeDeliveryOnly</key>
+			
+			<key>MaxAvailable</key>
+			
+			<key>OutOfStockLabel</key>
+			
+		</dict>
+		<key>NavigationBar</key>
+		<dict>
+			<key>LoginText</key>
+			
+			<key>SearchResult</key>
+			
+			<key>TitleLabel</key>
+			
+			<key>AddAddressText</key>
+			
+			<key>AddStoreText</key>
+			
+			<key>SetTitlleLabel</key>
+			
+		</dict>
+		<key>BottomBar</key>
+		<dict>
+			<key>ShowCatName</key>
+			
+			<key>SearchFieldText</key>
+			
+		</dict>
+		<key>Share</key>
+		<dict>
+			<key>CantAddContactAlertTitle</key>
+			
+			<key>CantAddContactAlertAction</key>
+			
+			<key>CantAddContactAlertOk</key>
+			
+			<key>CantAddContactAlertMessage</key>
+			
+		</dict>
+		<key>BasketView</key>
+		<dict>
+			<key>RegisterAndBuyText</key>
+			
+			<key>DeleteCartsAlertMessage</key>
+			
+			<key>DeleteCartAlertMessage</key>
+			
+			<key>BuyButtonTitle</key>
+			
+			<key>buyButtonBottomTitleForNoAllow</key>
+			
+			<key>DeleteCartsAlertTitle</key>
+			
+			<key>DeleteCartAlertTitle</key>
+			
+			<key>BuyButtonUnavailable</key>
+			
+			<key>BuyButtonTitleForUserIsAnonymous</key>
+			
+			<key>BuyButtonTitleForMaintenance</key>
+			
+			<key>BuyButtonTitleClickToContinue</key>
+			
+			<key>BasketLabelInited</key>
+			
+			<key>BuyButtonTitleForAllow</key>
+			
+			<key>buyButtonTitleForNoAllow</key>
+			
+			<key>DeleteAlertOk</key>
+			
+			<key>BuyAvailableButtonTitle</key>
+			
+			<key>BuyButtonTitleForNotAllowPostfix</key>
+			
+			<key>CellIndex</key>
+			
+			<key>BuyButtonTitleForMinimialOrderValue</key>
+			
+			<key>DeleteAlertNo</key>
+			
+			<key>BuyButtonTitleForNotAllowPrefix</key>
+			
+		</dict>
+	</dict>
+	<key>Languages</key>
+	<dict>
+		<key>EnglishName</key>
+		
+		<key>LocalName</key>
+		
+	</dict>
+	<key>Login</key>
+	<dict>
+		<key>SelectPlatformScreen</key>
+		<dict>
+			<key>ErrorAlertOk</key>
+			
+			<key>NotReadyAlertTitle</key>
+			
+			<key>ErrorAlertTitle</key>
+			
+			<key>NotReadyAlertOk</key>
+			
+			<key>NotReadyAlertMessage</key>
+			
+			<key>ScreenTitle</key>
+			
+		</dict>
+		<key>WalkThroughScreen</key>
+		<dict>
+			<key>ThirdPage</key>
+			<dict>
+				<key>TopLabel</key>
+				
+				<key>WrongNumberButtonText</key>
+				
+			</dict>
+			<key>SecondPage</key>
+			<dict>
+				<key>LabelText</key>
+				
+				<key>MiddleLabelText</key>
+				
+				<key>ButtonText</key>
+				
+			</dict>
+			<key>EmailAddress</key>
+			<dict>
+				<key>EmailErrorTextNotFound</key>
+				
+				<key>SkipButtonText</key>
+				
+				<key>BottomText</key>
+				
+				<key>EmailPlaceholderText</key>
+				
+				<key>EmailErrorText</key>
+				
+				<key>MiddleText</key>
+				
+				<key>TopLabelText</key>
+				
+				<key>PasswordErrorWrongPassword</key>
+				
+				<key>ContinueButtonText</key>
+				
+				<key>RegisterButtonText</key>
+				
+				<key>InfoText</key>
+				
+			</dict>
+			<key>ValidatedSmsAlertOk</key>
+			
+			<key>PhoneNumberAlertOk</key>
+			
+			<key>ValidatedSmsAlertTitle</key>
+			
+			<key>Register</key>
+			<dict>
+				<key>WeakErrorText</key>
+				
+				<key>PasswordErrorText</key>
+				
+				<key>EmailErrorEmailAlreadyUsed</key>
+				
+				<key>SkipButtonText</key>
+				
+				<key>EmailErrorText</key>
+				
+				<key>EmailPlaceholderText</key>
+				
+				<key>PasswordPlaceholderText</key>
+				
+				<key>TopLabelText</key>
+				
+				<key>MiddleText</key>
+				
+				<key>InfoLabelText</key>
+				
+			</dict>
+			<key>SentNumberAlertOk</key>
+			
+			<key>ValidatedSmsAlertMessage</key>
+			
+			<key>SentNumberAlertTitle</key>
+			
+			<key>ForgotPassword</key>
+			<dict>
+				<key>EmailErrorTextNotFound</key>
+				
+				<key>MiddleSentText</key>
+				
+				<key>BottomText</key>
+				
+				<key>ContinueSentText</key>
+				
+				<key>EmailPlaceholderText</key>
+				
+				<key>EmailErrorText</key>
+				
+				<key>MiddleText</key>
+				
+				<key>TopLabelText</key>
+				
+				<key>ContinueText</key>
+				
+			</dict>
+			<key>LoyaltyCard</key>
+			<dict>
+				<key>SkipButtonText</key>
+				
+				<key>WrongFormatError</key>
+				
+				<key>BottomLabelText</key>
+				
+				<key>TopLabelText</key>
+				
+				<key>MiddleLabelText</key>
+				
+				<key>ContinueButtonText</key>
+				
+				<key>PlaceholderText</key>
+				
+				<key>WrongNumberError</key>
+				
+			</dict>
+			<key>Final</key>
+			<dict>
+				<key>TopLabelText</key>
+				
+				<key>MiddleLabelText</key>
+				
+				<key>ContinueButtonText</key>
+				
+			</dict>
+			<key>EmailAddressPassword</key>
+			<dict>
+				<key>PasswordErrorText</key>
+				
+				<key>TopLabelText</key>
+				
+				<key>PlaceholderText</key>
+				
+				<key>ContinueButtonText</key>
+				
+				<key>ForgotButtonText</key>
+				
+				<key>InfoLabelText</key>
+				
+			</dict>
+			<key>FourthPage</key>
+			<dict>
+				<key>LabelLink4Name</key>
+				
+				<key>LabelLink4Address</key>
+				
+				<key>TryAgain</key>
+				
+				<key>UpdatedLabelText</key>
+				
+				<key>TopLabel</key>
+				
+				<key>UpdatedLabelLink1Name</key>
+				
+				<key>ContinueButtonText</key>
+				
+				<key>LabelText</key>
+				
+				<key>UpdatedLabelLink1Address</key>
+				
+				<key>LabelLink1Name</key>
+				
+				<key>WelcomeLabel</key>
+				
+				<key>UpdatedContinueButtonText</key>
+				
+				<key>LabelLink2Name</key>
+				
+				<key>RegistrationError</key>
+				
+				<key>UpdatedTopLabel</key>
+				
+				<key>LabelLink1Address</key>
+				
+				<key>LabelLink2Address</key>
+				
+			</dict>
+			<key>PhoneNumberAlertMessage</key>
+			
+			<key>SentNumberAlertMessage</key>
+			
+			<key>CollectUserDetails</key>
+			<dict>
+				<key>SkipButtonText</key>
+				
+				<key>TopLabelText</key>
+				
+				<key>ContinueButtonText</key>
+				
+			</dict>
+			<key>CollectUserAddress</key>
+			<dict>
+				<key>SkipButtonText</key>
+				
+				<key>CheckButtonText</key>
+				
+				<key>ContinueButtonCheckText</key>
+				
+				<key>TopLabelText</key>
+				
+				<key>ContinueButtonText</key>
+				
+			</dict>
+		</dict>
+		<key>Relogin</key>
+		<dict>
+			<key>Tittle</key>
+			
+			<key>OkText</key>
+			
+			<key>Message</key>
+			
+		</dict>
+		<key>PermissionScreen</key>
+		<dict>
+			<key>AllowAccessToContacts</key>
+			
+			<key>EnjoySharingBasketsWithYourFriendsAndFamily</key>
+			
+			<key>HiThere</key>
+			
+			<key>AllowAccessToPushNotifications</key>
+			
+		</dict>
+	</dict>
+	<key>MandatoryUpdate</key>
+	<dict>
+		<key>Title</key>
+		
+		<key>Description</key>
+		
+		<key>Continue</key>
+		
+	</dict>
+	<key>DailyDeals</key>
+	<dict>
+		<key>Days</key>
+		
+		<key>Day</key>
+		
+		<key>ForExampleButtonText</key>
+		
+		<key>ButtonLabelExtra</key>
+		
+		<key>ButtonLabelInactive</key>
+		
+		<key>ForExampleText</key>
+		
+		<key>ButtonLabelActive1</key>
+		
+		<key>ButtonLabelUrl</key>
+		
+		<key>TimerLabelTextActive</key>
+		
+		<key>ButtonLabelPromotion</key>
+		
+		<key>TimerLabelTexInactive</key>
+		
+		<key>ButtonLabelActive3</key>
+		
+		<key>ButtonLabelInStore</key>
+		
+		<key>ButtonLabelExpired</key>
+		
+		<key>ButtonLabelActive2</key>
+		
+		<key>NoDeals</key>
+		
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>shelf</key>
+		
+		<key>Or</key>
+		
+	</dict>
+	<key>SuperViewController</key>
+	<dict>
+		<key>StatusLineMessageTitle</key>
+		
+	</dict>
+	<key>Purchase</key>
+	<dict>
+		<key>SummaryCell</key>
+		<dict>
+			<key>DigitalBlockHeaderText</key>
+			
+			<key>HomeDelivery</key>
+			
+			<key>TimeslotBlockHeaderText</key>
+			
+			<key>PickUpStore</key>
+			
+			<key>DeliveryTime</key>
+			
+			<key>DigitalBlockLabelText</key>
+			
+			<key>NotAvailable</key>
+			
+		</dict>
+		<key>AttachMembershipHeader</key>
+		
+		<key>PurchaseHeader</key>
+		<dict>
+			<key>DetailsDictionaryNone</key>
+			<dict>
+				<key>Delivery</key>
+				
+				<key>Shop</key>
+				
+				<key>ShippingMethod</key>
+				
+				<key>Address</key>
+				
+				<key>CreditCard</key>
+				
+				<key>PickUpStore</key>
+				
+				<key>HomeDelivery</key>
+				
+			</dict>
+			<key>GiftCardValueLeft</key>
+			
+			<key>HeaderLabel</key>
+			
+			<key>GiftCard</key>
+			
+			<key>DetailsDictionary</key>
+			<dict>
+				<key>Delivery</key>
+				
+				<key>Shop</key>
+				
+				<key>ShippingMethod</key>
+				
+				<key>MinimalOrderSufix</key>
+				
+				<key>MinimalOrderPrefix</key>
+				
+				<key>Address</key>
+				
+				<key>CreditCard</key>
+				
+			</dict>
+			<key>LastProductAlertMessage</key>
+			
+			<key>NavigationTitle</key>
+			
+			<key>PreviewLikeActionTitle</key>
+			
+			<key>LastProductAlertTitle</key>
+			
+			<key>PreviewDeleteActionTitle</key>
+			
+		</dict>
+		<key>OrderSummaryVC</key>
+		<dict>
+			<key>Labels</key>
+			<dict>
+				<key>Delivery</key>
+				
+				<key>Total</key>
+				
+				<key>Discount</key>
+				
+				<key>Price</key>
+				
+			</dict>
+			<key>HeaderLabel</key>
+			
+			<key>TextIncomplete</key>
+			
+			<key>TextComplete</key>
+			
+			<key>SummaryItem</key>
+			
+			<key>BottomLabelFakeView</key>
+			
+		</dict>
+		<key>ProblematicHeader</key>
+		
+		<key>ConfirmButtonTitle</key>
+		
+		<key>FinishView</key>
+		<dict>
+			<key>NoPermissionAlertMessage</key>
+			
+			<key>NoPermissionAlertChange</key>
+			
+			<key>ReminderLabel</key>
+			
+			<key>BottomTextLabel</key>
+			
+			<key>NoPermissionAlertTitle</key>
+			
+			<key>CalendarEventDeliveryTitleText</key>
+			
+			<key>MiddleTextContactCustomerServiceLink</key>
+			
+			<key>CalendarEventTitleText</key>
+			
+			<key>NoPermissionAlertDontChange</key>
+			
+			<key>UrlToShareTheApp</key>
+			
+			<key>TopTextFailedLabel</key>
+			
+			<key>MiddleTextPaymentTimeOutLabel</key>
+			
+			<key>MiddleTextPaymentFailedLabel</key>
+			
+			<key>MiddleTextPaymentCanceledLabel</key>
+			
+			<key>TopTextLabel</key>
+			
+			<key>TopTextProseccingLabel</key>
+			
+			<key>MiddleTextContactCustomerServiceText</key>
+			
+			<key>CalendarEventPickupTitleText</key>
+			
+			<key>MiddleTextLabel</key>
+			
+		</dict>
+		<key>ItemsInCartHeader</key>
+		
+		<key>CheckOutCell</key>
+		<dict>
+			<key>HighVAT</key>
+			
+			<key>HeaderLabel</key>
+			
+			<key>LowVAT</key>
+			
+			<key>HeaderLabelSummaryScreen</key>
+			
+			<key>HaveEarnedPoints</key>
+			
+			<key>AttachMembershipCard</key>
+			
+			<key>DiscountLabel</key>
+			
+			<key>Items</key>
+			
+			<key>DeliveryLabel</key>
+			
+			<key>PriceLabel</key>
+			
+			<key>SummuryLabelText</key>
+			
+			<key>TotalLabel</key>
+			
+			<key>DeliveryInfo</key>
+			
+			<key>CouldEarnPoints</key>
+			
+			<key>SkipButtonTitleChecked</key>
+			
+			<key>SkipButtonTitleUnchecked</key>
+			
+			<key>DiscountButton</key>
+			
+			<key>PointAbbreviation</key>
+			
+		</dict>
+		<key>PleaseWait</key>
+		
+		<key>Summary</key>
+		<dict>
+			<key>TitleText</key>
+			
+		</dict>
+		<key>BottomPanel</key>
+		<dict>
+			<key>AttachMembership</key>
+			
+			<key>Normal</key>
+			
+			<key>MinimalOrderTopText</key>
+			
+			<key>Product</key>
+			
+			<key>ChangeTextAtBottomPanelTopLabel</key>
+			
+			<key>ShippingMethod</key>
+			
+			<key>AddGiftCard</key>
+			
+			<key>Delivery</key>
+			
+			<key>Shop</key>
+			
+			<key>MinimalOrderBottomText</key>
+			
+			<key>PayAndPlaceOrder</key>
+			
+			<key>Address</key>
+			
+			<key>NotAvailable</key>
+			
+			<key>CreditCard</key>
+			
+		</dict>
+		<key>AddGiftCardHeader</key>
+		
+		<key>ShippingDetailsHeader</key>
+		
+		<key>MethodPicker</key>
+		<dict>
+			<key>ShippingMethod</key>
+			
+			<key>HomeDeliveryOnly</key>
+			
+			<key>PickUpStore</key>
+			
+			<key>HomeDelivery</key>
+			
+		</dict>
+		<key>DigitalTicketInfo</key>
+		
+		<key>AlternativeProducts</key>
+		
+		<key>NavigationBarTitle</key>
+		
+		<key>ProductCell</key>
+		<dict>
+			<key>ProductsCount0</key>
+			
+			<key>ProductsCountSingle</key>
+			
+			<key>ProductsCountPlural</key>
+			
+			<key>NotAvailableProduct</key>
+			
+			<key>DigitalTicket</key>
+			
+			<key>DeliveryLabel</key>
+			
+			<key>TotalLabel</key>
+			
+			<key>NotAvailable</key>
+			
+			<key>AtStock</key>
+			
+			<key>FormatterForm</key>
+			
+			<key>SavingsLabel</key>
+			
+		</dict>
+		<key>InfoPopup</key>
+		<dict>
+			<key>DigitalBlockHeaderText</key>
+			
+			<key>HomeDelivery</key>
+			
+			<key>PickUpStore</key>
+			
+			<key>DeliveryTime</key>
+			
+			<key>DigitalBlockLabelText</key>
+			
+			<key>NotAvailable</key>
+			
+		</dict>
+	</dict>
+	<key>OrderHistory</key>
+	<dict>
+		<key>ShippingDetails</key>
+		<dict>
+			<key>TimeslotTitleLabel</key>
+			
+			<key>PickUpStore</key>
+			
+			<key>HomeDelivery</key>
+			
+		</dict>
+		<key>ItemsPurchasedHeader</key>
+		
+		<key>ShippingDetailsHeader</key>
+		
+		<key>HeaderCell</key>
+		<dict>
+			<key>ServiceLink</key>
+			
+			<key>LoadItemsText</key>
+			
+			<key>ContactServiceText</key>
+			
+			<key>CalendarReminderText</key>
+			
+			<key>DeliveryText</key>
+			
+			<key>PickupText</key>
+			
+		</dict>
+		<key>SummaryCell</key>
+		<dict>
+			<key>HighVAT</key>
+			
+			<key>HeaderLabel</key>
+			
+			<key>LowVAT</key>
+			
+			<key>HeaderLabelSummaryScreen</key>
+			
+			<key>ProductsCountPlural</key>
+			
+			<key>AttachMembershipCard</key>
+			
+			<key>ProductsCount0</key>
+			
+			<key>ProductsCountSingle</key>
+			
+			<key>DeliveryLabel</key>
+			
+			<key>PriceLabel</key>
+			
+			<key>TotalLabel</key>
+			
+			<key>CouldEarnPoints</key>
+			
+			<key>SkipButtonTitleChecked</key>
+			
+			<key>DiscountLabel</key>
+			
+			<key>SkipButtonTitleUnchecked</key>
+			
+			<key>DiscountButton</key>
+			
+			<key>Points</key>
+			
+		</dict>
+		<key>NavigationBarTitle</key>
+		
+	</dict>
+	<key>HomePage</key>
+	<dict>
+		<key>Telephone</key>
+		
+		<key>Whatsapp</key>
+		
+		<key>NewMapVCBackButtonTitle</key>
+		
+		<key>ShoppingViewTitle</key>
+		
+		<key>ReportFeedbackView</key>
+		<dict>
+			<key>TitleLabelText</key>
+			
+			<key>ConfirmContactLabelText</key>
+			
+			<key>TextViewPlaceholder</key>
+			
+		</dict>
+		<key>Report</key>
+		
+		<key>LoadingTitle</key>
+		
+		<key>Cells</key>
+		<dict>
+			<key>Folder</key>
+			<dict>
+				<key>BottomLabelText</key>
+				
+				<key>CloseButtonText</key>
+				
+				<key>TopLabelText</key>
+				
+				<key>MiddleLabelText</key>
+				
+			</dict>
+			<key>Location</key>
+			<dict>
+				<key>TopLabel</key>
+				
+				<key>Register</key>
+				
+				<key>NearestStoreLabel</key>
+				
+				<key>FindNearestLabel</key>
+				
+				<key>CompleteRegistration</key>
+				
+				<key>DoYouKnow</key>
+				
+				<key>FindStore</key>
+				
+				<key>OpenStoreLocator</key>
+				
+				<key>AllowAccess</key>
+				
+			</dict>
+			<key>BestSellers</key>
+			<dict>
+				<key>CartButtonTitle</key>
+				
+				<key>BestSellersLabel</key>
+				
+			</dict>
+			<key>MembershipCell</key>
+			<dict>
+				<key>Points</key>
+				
+				<key>GreatToSeeYou</key>
+				
+				<key>Register</key>
+				
+				<key>Hi</key>
+				
+				<key>Hi!</key>
+				
+				<key>OnlyClub</key>
+				
+				<key>AttachCard</key>
+				
+				<key>CompleteRegistration</key>
+				
+				<key>WantToEnjoy</key>
+				
+			</dict>
+		</dict>
+		<key>NewShopListVCSearchBarPlaceholder</key>
+		
+		<key>RichNotFound</key>
+		
+		<key>FAQ</key>
+		
+		<key>NewShopDescrView</key>
+		<dict>
+			<key>Mon</key>
+			
+			<key>Saturday</key>
+			
+			<key>Sat</key>
+			
+			<key>MakeFavoriteButtonText</key>
+			
+			<key>Thursday</key>
+			
+			<key>Friday</key>
+			
+			<key>Wed</key>
+			
+			<key>Wednesday</key>
+			
+			<key>Monday</key>
+			
+			<key>Thu</key>
+			
+			<key>Tue</key>
+			
+			<key>StorePhoneTitleLabel</key>
+			
+			<key>AddressTitleLabel</key>
+			
+			<key>Tuesday</key>
+			
+			<key>Sunday</key>
+			
+			<key>Fri</key>
+			
+			<key>Sun</key>
+			
+		</dict>
+	</dict>
+	<key>VersionService</key>
+	<dict>
+		<key>Title</key>
+		
+		<key>ButtonTitle</key>
+		
+		<key>Message</key>
+		
+	</dict>
+	<key>AddressPopup</key>
+	<dict>
+		<key>ValidationAlertTitle</key>
+		
+		<key>CurrentLocationAlertTitle</key>
+		
+		<key>NoPermissionAlertTitle</key>
+		
+		<key>HousePlaceholder</key>
+		
+		<key>ValidationAlertMessage</key>
+		
+		<key>CurrentLocationAlertOk</key>
+		
+		<key>CheckButtonText</key>
+		
+		<key>NoPermissionAlertMessage</key>
+		
+		<key>ZipCodePlaceholder</key>
+		
+		<key>ApartmentPlaceholder</key>
+		
+		<key>CurrentLocationAlertNo</key>
+		
+		<key>OfficeButtonTitle</key>
+		
+		<key>AddressExistsError</key>
+		
+		<key>InfoLabelText</key>
+		
+		<key>NamePlaceholder</key>
+		
+		<key>FloorPlaceholder</key>
+		
+		<key>OtherButtonTitle</key>
+		
+		<key>NoPermissionAlertChange</key>
+		
+		<key>NoPermissionAlertDontChange</key>
+		
+		<key>CurrentLocationAlertMessage</key>
+		
+		<key>CityPlaceholder</key>
+		
+		<key>HomeButtonTitle</key>
+		
+		<key>SearchBarPlaceholder</key>
+		
+		<key>MyLocationButton</key>
+		
+		<key>ValidationAlertOk</key>
+		
+		<key>StreetPlaceholder</key>
+		
+	</dict>
+	<key>Notifications</key>
+	<dict>
+		<key>NewProduct</key>
+		
+		<key>IsAdd</key>
+		
+		<key>ToSharedBasket</key>
+		
+		<key>ThisIsMedicine</key>
+		
+		<key>PayAttention</key>
+		
+		<key>Items</key>
+		
+		<key>MaintenanceMode</key>
+		
+		<key>IsRemoved</key>
+		
+		<key>AddedPrefix</key>
+		
+		<key>CheckOutPromo</key>
+		
+		<key>IsSharingCartWithYou</key>
+		
+		<key>RemovedPrefix</key>
+		
+		<key>UpdateProductShort</key>
+		
+		<key>AddEvent</key>
+		
+		<key>RemovedProduct</key>
+		
+		<key>WithPhoneNumber</key>
+		
+		<key>HasRenamedBasket</key>
+		
+		<key>Basket</key>
+		
+		<key>UpdateProduct</key>
+		
+		<key>AddedYouTo</key>
+		
+		<key>RemoveEvent</key>
+		
+	</dict>
+	<key>UserEditPopup</key>
+	<dict>
+		<key>PasswordStrength4</key>
+		
+		<key>PickerRemoveTitle</key>
+		
+		<key>PickerGalleryTitle</key>
+		
+		<key>PasswordStrength1</key>
+		
+		<key>InfixNamePlaceholder</key>
+		
+		<key>BirthdayPlaceholder</key>
+		
+		<key>EmptyErrorText</key>
+		
+		<key>GenderGDPRText</key>
+		
+		<key>EmailValidationError</key>
+		
+		<key>LastNamePlaceholder</key>
+		
+		<key>BirthDateGDPRText</key>
+		
+		<key>NoPermissionAlertCancel</key>
+		
+		<key>AgeWarningMessageLabelText</key>
+		
+		<key>ResetPassword</key>
+		
+		<key>PassportIdPlaceholder</key>
+		
+		<key>PasswordGDPRText</key>
+		
+		<key>EmailPlaceholder</key>
+		
+		<key>WeakErrorText</key>
+		
+		<key>PasswordErrorText</key>
+		
+		<key>PasswordDescription</key>
+		
+		<key>PhoneNumberPlaceholder</key>
+		
+		<key>NoPermissionAlertPhotosMessage</key>
+		
+		<key>MaleGender</key>
+		
+		<key>FemaleGender</key>
+		
+		<key>InfoLabelText</key>
+		
+		<key>NoPermissionAlertCameraMessage</key>
+		
+		<key>FirstNamePlaceholder</key>
+		
+		<key>PasswordStrength3</key>
+		
+		<key>NoPermissionAlertOk</key>
+		
+		<key>PhoneNumberDescription</key>
+		
+		<key>NoPermissionAlertTitle</key>
+		
+		<key>PasswordStrength2</key>
+		
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,2791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Onboarding</key>
+	<dict>
+		<key>BottomButtonContinue</key>
+		<string>1</string>
+		
+		<key>BottomButtonNext</key>
+		<string>VOLGENDE</string>
+		
+		<key>SkipButtonText</key>
+		<string>Voltooi later</string>
+		
+		<key>ScreenTitle0</key>
+		<string>Welkom in de vernieuwde Kruidvat App</string>
+		
+		<key>ScreenTitle6</key>
+		<string>Snel en simpel je bestelling in huis</string>
+		
+		<key>ScreenTitle1</key>
+		<string>Check je puntensaldo en Jouw aanbieding</string>
+		
+		<key>ScreenTitle5</key>
+		<string>Alle aanbiedingen in één overzicht</string>
+		
+		<key>ScreenTitle2</key>
+		<string>Zo gevonden met de zoekfunctie</string>
+		
+		<key>ScreenTitle3</key>
+		<string>Vind je producten per categorie</string>
+		
+		<key>ScreenTitle4</key>
+		<string>Selecteer producten in je winkelmandje</string>
+		
+	</dict>
+	<key>MultiShelf</key>
+	<dict>
+		<key>NavBarTitle</key>
+		<string>2</string>
+		
+		<key>FilterButtonText</key>
+		<string>3</string>
+		
+	</dict>
+	<key>SupportingViews</key>
+	<dict>
+		<key>BasketView</key>
+		<dict>
+			<key>ProductsCountSingle</key>
+			<string>4</string>
+			
+			<key>ProductsCountPlural</key>
+			<string>Producten</string>
+			
+			<key>CartNameLabel</key>
+			<string>Naam</string>
+			
+			<key>AddNewCartNameLabel</key>
+			<string>5</string>
+			
+		</dict>
+		<key>ScalledCollectionView</key>
+		<dict>
+			<key>Delete</key>
+			<string>6</string>
+			
+			<key>LabelText</key>
+			<string>Voeg je favoriete winkel toe</string>
+			
+			<key>DeleteAll</key>
+			<string>7</string>
+			
+		</dict>
+		<key>ShopView</key>
+		<dict>
+			<key>BuyButtonTitle</key>
+			<string>KOOP NU</string>
+			
+			<key>ClickToContinue</key>
+			<string>8</string>
+			
+		</dict>
+		<key>DatePickerView</key>
+		<dict>
+			<key>DialogCancelButton</key>
+			<string>9</string>
+			
+			<key>Next</key>
+			<string>Volgende</string>
+			
+			<key>MonthArray</key>
+			<dict>
+				<key>January</key>
+				<string>10</string>
+				
+				<key>November</key>
+				<string>11</string>
+				
+				<key>July</key>
+				<string>12</string>
+				
+				<key>December</key>
+				<string>13</string>
+				
+				<key>August</key>
+				<string>14</string>
+				
+				<key>May</key>
+				<string>15</string>
+				
+				<key>February</key>
+				<string>16</string>
+				
+				<key>June</key>
+				<string>17</string>
+				
+				<key>April</key>
+				<string>18</string>
+				
+				<key>March</key>
+				<string>19</string>
+				
+				<key>October</key>
+				<string>20</string>
+				
+				<key>September</key>
+				<string>21</string>
+				
+			</dict>
+			<key>DialogDoneButton</key>
+			<string>Klaar</string>
+			
+		</dict>
+		<key>ImagePicker</key>
+		<dict>
+			<key>Cancel</key>
+			<string>22</string>
+			
+			<key>SelectItemsPt1</key>
+			<string>23</string>
+			
+			<key>OrVideo</key>
+			<string>24</string>
+			
+			<key>SnapPhoto</key>
+			<string>Maak foto</string>
+			
+			<key>SelectItemsPt2</key>
+			<string>25</string>
+			
+			<key>SingleSelectionLabel</key>
+			<string>26</string>
+			
+		</dict>
+		<key>GMSAutocompleteView</key>
+		<dict>
+			<key>SearchBarPlaceholder</key>
+			<string>Zoek</string>
+			
+		</dict>
+		<key>MaterialLikeTextField</key>
+		<dict>
+			<key>ErrorText</key>
+			<string>27</string>
+			
+		</dict>
+	</dict>
+	<key>MembershipPopup</key>
+	<dict>
+		<key>PasswordPlaceholder</key>
+		<string>28</string>
+		
+		<key>WebUserInfoText</key>
+		<string>29</string>
+		
+		<key>RegisterMessage</key>
+		<string>30</string>
+		
+		<key>NoCardYetText2</key>
+		<string>Haal een gratis Jouw Extra Voordeelkaart bij jouw Kruidvat winkel</string>
+		
+		<key>AlreadyVerifiedLabel</key>
+		<string>31</string>
+		
+		<key>RetailerTitle</key>
+		<string>32</string>
+		
+		<key>WebUserInfoLinkText</key>
+		<string>33</string>
+		
+		<key>NumberOfPointsText1</key>
+		<string>Je hebt</string>
+		
+		<key>UserNamePlaceholder</key>
+		<string>34</string>
+		
+		<key>PopupButtonText</key>
+		<string>35</string>
+		
+		<key>TellUsMoreAboutView</key>
+		<string>Vertel ons meer over jezelf</string>
+		
+		<key>ForgetPasswordButtonTitle</key>
+		<string>Wachtwoord vergeten?</string>
+		
+		<key>NoCardYetText1</key>
+		<string>Heb je de Jouw Extra Voordeelkaart nog niet?</string>
+		
+		<key>ReplaceButtonText</key>
+		<string>Vervangkaart</string>
+		
+		<key>NoCardYetText</key>
+		<string>36</string>
+		
+		<key>DoneText</key>
+		<string>37</string>
+		
+		<key>CodeFieldErrorText</key>
+		<string>38</string>
+		
+		<key>AlreadyHaveAllCardsRetailerTitle</key>
+		<string>39</string>
+		
+		<key>PersonalMarketingText</key>
+		<string>40</string>
+		
+		<key>NumberOfPointsText2</key>
+		<string>Punten</string>
+		
+	</dict>
+	<key>MetaDataAttributesTitles</key>
+	<dict>
+		<key>kvContactName</key>
+		<string>41</string>
+		
+		<key>igcNewProduct</key>
+		<string>Nieuw product:</string>
+		
+		<key>kvPackageMarksEnvironment</key>
+		<string>Milieukenmerk op etiket/verpakking:</string>
+		
+		<key>description</key>
+		<string>Product informatie</string>
+		
+		<key>loyaltyProductAvailability</key>
+		<string>42</string>
+		
+		<key>medical_information</key>
+		<string>Medische informatie</string>
+		
+		<key>igcContentUnit</key>
+		<string>Eenheid inhoud:</string>
+		
+		<key>igcBrandName</key>
+		<string>Merknaam:</string>
+		
+		<key>kvAllergenTypeCode</key>
+		<string>Type allergeen:</string>
+		
+		<key>kvDrugFileLocation</key>
+		<string>Locatie Bestand:</string>
+		
+		<key>kvCommunicationAddress</key>
+		<string>Communicatieadres:</string>
+		
+		<key>showPdpContentHubArticles</key>
+		<string>[showPdpContentHubArticles]:</string>
+		
+		<key>general_information</key>
+		<string>43</string>
+		
+		<key>product_information</key>
+		<string>44</string>
+		
+		<key>alcohol_percentage</key>
+		<string>Alcoholpercentage</string>
+		
+		<key>igcWeight</key>
+		<string>Gewicht:</string>
+		
+		<key>igcERPShortDescription</key>
+		<string>ERP korte beschrijving:</string>
+		
+		<key>kvWidth</key>
+		<string>Breedte:</string>
+		
+		<key>important</key>
+		<string>Important</string>
+		
+		<key>code</key>
+		<string>CE nr:</string>
+		
+		<key>kvCalculatedPPUDisplayPrice</key>
+		<string>Berekende Prijs per eenheid:</string>
+		
+		<key>kvNutritionalClaim</key>
+		<string>Voedingswaardeclaim:</string>
+		
+		<key>kvOpenedTradeItemLifespan</key>
+		<string>Houdbaarheid na opening:</string>
+		
+		<key>kvPackageMarksEthical</key>
+		<string>Ethisch kenmerk op etiket/verpakking:</string>
+		
+		<key>kvWeightCENr</key>
+		<string>Gewicht CE NR.:</string>
+		
+		<key>baseProduct</key>
+		<string>Base product</string>
+		
+		<key>portions_per_package</key>
+		<string>Portions Per Package</string>
+		
+		<key>kvPreparationInstructions</key>
+		<string>Bereidingsinstructies:</string>
+		
+		<key>Amount</key>
+		<string>aantal</string>
+		
+		<key>doctorURLText</key>
+		<string>45</string>
+		
+		<key>onlineDate</key>
+		<string>Online date</string>
+		
+		<key>igcRecyclingInfo</key>
+		<string>Recycling Info:</string>
+		
+		<key>igcBrandCode</key>
+		<string>Merkcode:</string>
+		
+		<key>instructions</key>
+		<string>46</string>
+		
+		<key>kvDrugApplication</key>
+		<string>Toedieningsvorm:</string>
+		
+		<key>kvRegulatedProductName</key>
+		<string>Wettelijke benaming:</string>
+		
+		<key>composition</key>
+		<string>Samenstelling</string>
+		
+		<key>igcVariantType</key>
+		<string>Variant type:</string>
+		
+		<key>igcShortDescription</key>
+		<string>47</string>
+		
+		<key>name</key>
+		<string>H1 Merk en omschrijving:</string>
+		
+		<key>igcContentSize</key>
+		<string>Inhoud:</string>
+		
+		<key>KvDailyValueIntakeReference</key>
+		<string>Referentie-inname:</string>
+		
+		<key>kvNumberOfServingsPerPackage</key>
+		<string>Aantal porties per verpakking:</string>
+		
+		<key>additional</key>
+		<string>48</string>
+		
+		<key>kvDrugComposition</key>
+		<string>Samenstelling:</string>
+		
+		<key>kvHealthClaim</key>
+		<string>Gezondheidsclaim:</string>
+		
+		<key>igcInformativePrice1</key>
+		<string>Adviesprijs:</string>
+		
+		<key>kvUnspecifiedPreperationTypePreperationInstructions</key>
+		<string>Bereidingsinstructies 2:</string>
+		
+		<key>colorCode</key>
+		<string>Color description</string>
+		
+		<key>kvHeight</key>
+		<string>Hoogte:</string>
+		
+		<key>kvDrugGuidelines</key>
+		<string>Richtlijnen:</string>
+		
+		<key>kvVariantSize</key>
+		<string>Maat:</string>
+		
+		<key>igcInformativeText3</key>
+		<string>3e Informatieve Tekst:</string>
+		
+		<key>colorGroup</key>
+		<string>Color group</string>
+		
+		<key>igcUses</key>
+		<string>Te gebruiken bij:</string>
+		
+		<key>kvContactType</key>
+		<string>Contact type:</string>
+		
+		<key>igcInformativeText2</key>
+		<string>49</string>
+		
+		<key>isURLPlaceholderText</key>
+		<string>Download de bijsluiter</string>
+		
+		<key>kvPromoAssortment</key>
+		<string>Assortiment/Promo:</string>
+		
+		<key>label_information</key>
+		<string>Etiket informatie</string>
+		
+		<key>kvPharmacy</key>
+		<string>Verplicht advies (OTC):</string>
+		
+		<key>igcInformativeText1</key>
+		<string>Raadpleeg huisarts bij:</string>
+		
+		<key>ean</key>
+		<string>EAN</string>
+		
+		<key>promotionLabel</key>
+		<string>Promotion label</string>
+		
+		<key>kvLabelInfoText</key>
+		<string>Hoewel wij zorg en aandacht besteden aan de etiketinformatie op internet kan het zijn dat deze afwijkt van de etiketinformatie op het product. Ten aanzien hiervan aanvaarden wij geen aansprakelijkheid. Lees daarom altijd de etiketinformatie op het product dat je thuis ontvangt.</string>
+		
+		<key>irgPrdVatCode</key>
+		<string>BTW code:</string>
+		
+		<key>igcContentSizeUnit</key>
+		<string>Inhoud Omschrijving:</string>
+		
+		<key>kvServingSize</key>
+		<string>Referentieportiegrootte:</string>
+		
+		<key>ingredients</key>
+		<string>50</string>
+		
+		<key>kvSummaryDescription</key>
+		<string>Samenvatting productinformatie:</string>
+		
+		<key>igcIngredients</key>
+		<string>Ingredienten:</string>
+		
+		<key>offlineDate</key>
+		<string>Offline date</string>
+		
+		<key>kvShowPPU</key>
+		<string>Toon prijs per eenheid:</string>
+		
+		<key>contact_information</key>
+		<string>51</string>
+		
+		<key>kvTargetConsumerAge</key>
+		<string>Leeftijdsbeperkingen (vanaf/tot):</string>
+		
+		<key>kvCommunicationChannelNumber</key>
+		<string>Communicatiekanaalgegevens:</string>
+		
+		<key>kvPackageMarksFreeFrom</key>
+		<string>Vrij van-kenmerk op etiket/verpakking:</string>
+		
+		<key>kvWlsURL</key>
+		<string>WLS URL:</string>
+		
+		<key>kvHouseholdServingSize</key>
+		<string>Huishoudelijke maateenheid:</string>
+		
+		<key>legal_name</key>
+		<string>52</string>
+		
+		<key>maxOrderQuantity</key>
+		<string>max bestelaantal</string>
+		
+		<key>image</key>
+		<string>Product image</string>
+		
+		<key>kvDosageRestrictionLimits</key>
+		<string>Doseringrestrictie:</string>
+		
+		<key>KvIsNewDate</key>
+		<string>Nieuw online:</string>
+		
+		<key>kvCommunicationChannelCode</key>
+		<string>Type communicatiekanaal:</string>
+		
+		<key>kvPackageMarksDietAllergen</key>
+		<string>Dieet-/allergiekenmerk op etiket/verpakking:</string>
+		
+		<key>allergies</key>
+		<string>Allergies</string>
+		
+		<key>kvCompulsoryAdditivesLabelInformation</key>
+		<string>Verplichte algemene vermelding:</string>
+		
+		<key>kvScoops</key>
+		<string>Aantal wasbeurten:</string>
+		
+		<key>kvDrugSideEffectsAndWarnings</key>
+		<string>Gebruiksbeperkingen:</string>
+		
+		<key>loyaltyProductOfflineDate</key>
+		<string>Loyalty Product Offline Date:</string>
+		
+		<key>kvIngredientStatement</key>
+		<string>Ingredientendeclaratie:</string>
+		
+		<key>kvRecommendedCount</key>
+		<string>kvRecommendedCount</string>
+		
+		<key>kvPPUDisplayUnit</key>
+		<string>PPE type:</string>
+		
+		<key>kvDepth</key>
+		<string>Diepte:</string>
+		
+		<key>kvOtcProductIndicator</key>
+		<string>Niet te gebruiken bij:</string>
+		
+		<key>kvAvarageOverallRating</key>
+		<string>kvAvarageOverallRating</string>
+		
+		<key>kvNutrientTypeCode</key>
+		<string>Code nutrientype:</string>
+		
+		<key>kvDocumentationUrl</key>
+		<string>URL bijsluiter:</string>
+		
+		<key>igcFormulation</key>
+		<string>Actieve bestandsdelen:</string>
+		
+		<key>igcErpName</key>
+		<string>ERP naam:</string>
+		
+		<key>kvWls</key>
+		<string>WLS:</string>
+		
+		<key>loyaltyProductPoints</key>
+		<string>Loyalty Product Points:</string>
+		
+		<key>kvDrugTypeFile</key>
+		<string>Type Bestand:</string>
+		
+		<key>igcWarnings</key>
+		<string>Let op!:</string>
+		
+		<key>kvConsumerUsageStorageInstruction</key>
+		<string>53</string>
+		
+		<key>kvPercentageOfAlcoholByVolume</key>
+		<string>Alcoholpercentage:</string>
+		
+		<key>kvTotalReviewCount</key>
+		<string>kvTotalReviewCount</string>
+		
+	</dict>
+	<key>CreditCardPopup</key>
+	<dict>
+		<key>CvvPlaceholder</key>
+		<string>54</string>
+		
+		<key>ValidDatePlaceholder</key>
+		<string>Geldig t/m</string>
+		
+		<key>WrongNumberAlertMessage</key>
+		<string>55</string>
+		
+		<key>DoneText</key>
+		<string>56</string>
+		
+		<key>WrongNumberAlertOk</key>
+		<string>57</string>
+		
+		<key>CreditCardNumber</key>
+		<string>Creditcardnummer</string>
+		
+		<key>FirstNamePlaceholder</key>
+		<string>Voornaam</string>
+		
+		<key>WrongNumberAlertTitle</key>
+		<string>58</string>
+		
+		<key>LastNamePlaceholder</key>
+		<string>Achternaam</string>
+		
+		<key>PassportIdPlaceholder</key>
+		<string>Paspoortnummer</string>
+		
+	</dict>
+	<key>PersonalMarketingPopup</key>
+	<dict>
+		<key>MessagesViaSocialMediaTitleText</key>
+		<string>59</string>
+		
+		<key>OffersFromPartnersGDPRText</key>
+		<string>60</string>
+		
+		<key>OffersFromPartnersTitleText</key>
+		<string>Wil je aanbiedingen van onze partners ontvangen?</string>
+		
+		<key>PushNotificationsGDPRText</key>
+		<string>61</string>
+		
+		<key>MessagesViaSocialMediaGDPRLink2Address</key>
+		<string>62</string>
+		
+		<key>MessagesViaSocialMediaGDPRLink1Address</key>
+		<string>63</string>
+		
+		<key>MessagesViaEmailTitleText</key>
+		<string>Wil je e-mail van Kruidvat ontvangen?</string>
+		
+		<key>BottomLabelText</key>
+		<string>64</string>
+		
+		<key>Offer2</key>
+		<string>65</string>
+		
+		<key>MessagesViaPostTitleText</key>
+		<string>Wil je informatie van Kruidvat per post ontvangen?</string>
+		
+		<key>SMSPushGDPRText</key>
+		<string>66</string>
+		
+		<key>PersonalizeVia3dPartyTitleText</key>
+		<string>Wil je gepersonaliseerde berichten van derden ontvangen?</string>
+		
+		<key>Offer1</key>
+		<string>67</string>
+		
+		<key>EveryDayRecieveMethodText</key>
+		<string>Ik wil deze email elke dag ontvangen</string>
+		
+		<key>WebUserInfoLinkText</key>
+		<string>68</string>
+		
+		<key>MessagesViaSocialMediaGDPRLink2Text</key>
+		<string>69</string>
+		
+		<key>SignForNewslettersGDPRText</key>
+		<string>Nooit meer een aanbieding of actie missen? Blijf per e-mail op de hoogte van alle aanbiedingen van Kruidvat.</string>
+		
+		<key>Offer0</key>
+		<string>Schakel SMS-berichten uit</string>
+		
+		<key>RecieveMethodDescriptionText</key>
+		<string>70</string>
+		
+		<key>RecieveMethodGDPRText</key>
+		<string>Ontvang dagelijks of wekelijks jouw persoonlijke EXTRA aanbieding per email. Met deze verrassende, voor jouw relevante, aanbiedingen krijg je nog meer voordeel dan je al van Kruidvat gewend bent.</string>
+		
+		<key>SignUpForBirthdayOffersTitleText</key>
+		<string>71</string>
+		
+		<key>SMSPushTitleText</key>
+		<string>72</string>
+		
+		<key>MessagesViaPostGDPRText</key>
+		<string>73</string>
+		
+		<key>PersonalRecomendationOffersGDPRTextLinkName</key>
+		<string>74</string>
+		
+		<key>MessagesViaSocialMediaGDPRLink1Text</key>
+		<string>75</string>
+		
+		<key>TitleLabelText</key>
+		<string>Vertel ons meer</string>
+		
+		<key>MessagesViaSocialMediaGDPRText</key>
+		<string>76</string>
+		
+		<key>DoNotSendRecieveMethodText</key>
+		<string>Niet versturen</string>
+		
+		<key>OnceAWeekRecieveMethodText</key>
+		<string>Ik wil deze email graag 1 x per week ontvangen</string>
+		
+		<key>MessagesViaEmailGDPRText</key>
+		<string>77</string>
+		
+		<key>PersonalRecomendationOffersGDPRText</key>
+		<string>78</string>
+		
+		<key>PersonalRecomendationOffersTitleText</key>
+		<string>79</string>
+		
+		<key>PersonalRecomendationOffersGDPRTextLinkAddress</key>
+		<string>80</string>
+		
+		<key>SignUpForBirthdayOffersDescriptionText</key>
+		<string>81</string>
+		
+		<key>SignUpForNewsLetterTitleText</key>
+		<string>Wil je onze email nieuwsbrief ontvangen?</string>
+		
+		<key>WebUserInfoText</key>
+		<string>82</string>
+		
+		<key>PushNotificationsTitleText</key>
+		<string>Wil je push berichten van ons ontvangen?</string>
+		
+		<key>RecieveMethodTitleText</key>
+		<string>Wil je relevante extra persoonlijke aanbiedingen via e-mail ontvangen?</string>
+		
+		<key>SignUpForNewsLetterDescriptionText</key>
+		<string>83</string>
+		
+		<key>PersonalizeVia3dPartyGDPRText</key>
+		<string>84</string>
+		
+	</dict>
+	<key>TellUsMorePopup</key>
+	<dict>
+		<key>BabiesAndToddlerGDPRLinkText</key>
+		<string>85</string>
+		
+		<key>InterestsTitleText</key>
+		<string>Geef uw interessegebieden aan</string>
+		
+		<key>BabyAndMamaBenefitsTitleText</key>
+		<string>Gratis Jouw Blije Baby Voordeel tas</string>
+		
+		<key>WebUserInfoText</key>
+		<string>86</string>
+		
+		<key>TitleLabelText</key>
+		<string>Vertel ons meer</string>
+		
+		<key>BabiesAndToddlerDatePlaceholderText</key>
+		<string>DD/MM/JJJJ</string>
+		
+		<key>BabyAndMamaBenefitsDatePlaceholderText</key>
+		<string>DD/MM/JJJJ</string>
+		
+		<key>BabiesAndToddlerGDPRText</key>
+		<string>87</string>
+		
+		<key>Interest0</key>
+		<string>88</string>
+		
+		<key>WebUserInfoLinkText</key>
+		<string>89</string>
+		
+		<key>BabiesAndToddlerDescriptionText</key>
+		<string>Heb je kinderen? Laat het ons weten. Je ontvangt dan aanbiedingen en tips passend bij de leeftijd</string>
+		
+		<key>Interest2</key>
+		<string>90</string>
+		
+		<key>BabiesAndToddlerAddButtonText</key>
+		<string>91</string>
+		
+		<key>BabyAndMamaBenefitsSendButtonText</key>
+		<string>Verzenden</string>
+		
+		<key>BabyAndMamaBenefitsDescriptionText</key>
+		<string>92</string>
+		
+		<key>BabiesAndToddlerNamePlaceholderText</key>
+		<string>Naam</string>
+		
+		<key>BabyAndMamaBenefitsGDPRText</key>
+		<string>93</string>
+		
+		<key>BottomLabelText</key>
+		<string>94</string>
+		
+		<key>BabiesAndToddlerGirlText</key>
+		<string>MEISJE</string>
+		
+		<key>BabiesAndToddlerSendButtonText</key>
+		<string>Verzenden</string>
+		
+		<key>InterestsDescriptionText</key>
+		<string>Geeft uw interessegebieden aan om de aanbiedingen persoonlijker te maken.</string>
+		
+		<key>Interest1</key>
+		<string>Gezondheid</string>
+		
+		<key>Interest3</key>
+		<string>Mannenverzorging</string>
+		
+		<key>InterestsGDPRText</key>
+		<string>95</string>
+		
+		<key>BabiesAndToddlerBoyText</key>
+		<string>JONGEN</string>
+		
+		<key>BabiesAndToddlerTitleText</key>
+		<string>Advies en voordelen voor kinderen</string>
+		
+	</dict>
+	<key>ProductInfoView</key>
+	<dict>
+		<key>HomeDeliveryOnly</key>
+		<string>Sommige producten kunnen alleen thuis bezorgd worden</string>
+		
+		<key>DigitalTicket</key>
+		<string>Je ontvangt dit product per mail</string>
+		
+		<key>PromotionInnerCell</key>
+		<dict>
+			<key>Or</key>
+			<string>96</string>
+			
+		</dict>
+		<key>HeaderTitle</key>
+		<dict>
+			<key>Prices</key>
+			<string>97</string>
+			
+			<key>Preperties</key>
+			<string>Eigenschappen</string>
+			
+			<key>ProductVariants</key>
+			<string>Varianten</string>
+			
+			<key>ProductImages</key>
+			<string>Productafbeeldingen</string>
+			
+			<key>Price</key>
+			<string>98</string>
+			
+			<key>Description</key>
+			<string>Omschrijving</string>
+			
+		</dict>
+		<key>RatingCell</key>
+		<dict>
+			<key>RatingLabelWithRatesPt3</key>
+			<string>99</string>
+			
+			<key>RatingLabelWIthRatesPt1</key>
+			<string>Gemiddelde score</string>
+			
+			<key>ShareProducShareText</key>
+			<string>100</string>
+			
+			<key>RatingLabelWithRatesPt2</key>
+			<string>101</string>
+			
+			<key>RatingLabelForNotRates</key>
+			<string>102</string>
+			
+			<key>ActivitiesItemsPrefix</key>
+			<string>103</string>
+			
+		</dict>
+		<key>WarningCell</key>
+		<dict>
+			<key>PayAttention</key>
+			<string>104</string>
+			
+			<key>ThisIsMedicine</key>
+			<string>Dit is een geneesmiddel! Geneesmiddelen worden niet verkocht aan personen onder 16 jaar. Ook geldt er een maximum bestelhoeveelheid van 3 stuks per product.</string>
+			
+		</dict>
+		<key>PriceAndLoyaltyCell</key>
+		<dict>
+			<key>EarnsLabel1</key>
+			<string>105</string>
+			
+			<key>EarnsLabel2</key>
+			<string>106</string>
+			
+		</dict>
+		<key>ActionsCell</key>
+		<dict>
+			<key>AddToBasket</key>
+			<string>107</string>
+			
+			<key>ShareTextEnding</key>
+			<string>108</string>
+			
+			<key>ShareTextBeginning</key>
+			<string>Het volgende product wil ik met jou delen:</string>
+			
+			<key>AddToBasketDigital</key>
+			<string>Voeg toe</string>
+			
+		</dict>
+	</dict>
+	<key>SuperPopup</key>
+	<dict>
+		<key>CancelButtonTitleCancel</key>
+		<string>109</string>
+		
+		<key>AcceptButtonTitleOk</key>
+		<string>110</string>
+		
+	</dict>
+	<key>ShareContact</key>
+	<dict>
+		<key>TitleLabel</key>
+		<string>111</string>
+		
+		<key>ShareButton</key>
+		<string>Ok</string>
+		
+		<key>CancelButton</key>
+		<string>112</string>
+		
+	</dict>
+	<key>LanguagePickerView</key>
+	<dict>
+		<key>TitleLabel</key>
+		<string>113</string>
+		
+		<key>SearchBarPlaceholder</key>
+		<string>Zoek</string>
+		
+	</dict>
+	<key>Profile</key>
+	<dict>
+		<key>Logout</key>
+		<dict>
+			<key>Cancel</key>
+			<string>114</string>
+			
+			<key>Ok</key>
+			<string>115</string>
+			
+			<key>Title</key>
+			<string>116</string>
+			
+			<key>Message</key>
+			<string>Ingelogd als:</string>
+			
+		</dict>
+		<key>BottomBarTitle</key>
+		<dict>
+			<key>Orders</key>
+			<string>117</string>
+			
+			<key>Membership</key>
+			<string>Jouw extra voordeelkaart</string>
+			
+			<key>Preferences</key>
+			<string>Voorkeuren</string>
+			
+			<key>CreditCard</key>
+			<string>Creditcard</string>
+			
+			<key>Addresses</key>
+			<string>118</string>
+			
+			<key>AdditionalAddresses</key>
+			<string>119</string>
+			
+		</dict>
+		<key>MenuItems</key>
+		<dict>
+			<key>Logout</key>
+			<string>120</string>
+			
+			<key>Version</key>
+			<string>Versie</string>
+			
+			<key>TermsAndConditions</key>
+			<string>Algemene Voorwaarden</string>
+			
+			<key>PrivacyStatement</key>
+			<string>Privacy beleid</string>
+			
+			<key>Settings</key>
+			<string>Instellingen</string>
+			
+			<key>LegalInfo</key>
+			<string>Voorwaarden</string>
+			
+			<key>OnBoarding</key>
+			<string>Instructie
+  video's</string>
+			
+			<key>Service</key>
+			<string>Klantenservice</string>
+			
+			<key>SelectPlatform</key>
+			<string>Selecteer platform</string>
+			
+			<key>AppLanguage</key>
+			<string>121</string>
+			
+			<key>EditUser</key>
+			<string>Wijzig profiel</string>
+			
+		</dict>
+		<key>BackBtnTitle</key>
+		<string>122</string>
+		
+		<key>OrderDetails</key>
+		<dict>
+			<key>CalendarReminderText</key>
+			<string>Voeg toe aan agenda</string>
+			
+			<key>NavigationBarTitleText</key>
+			<string>123</string>
+			
+		</dict>
+		<key>BottomCardViews</key>
+		<dict>
+			<key>Orders</key>
+			<dict>
+				<key>EmptyLabel</key>
+				<string>124</string>
+				
+				<key>PickUpStore</key>
+				<string>125</string>
+				
+				<key>HomeDelivery</key>
+				<string>Thuisbezorging</string>
+				
+			</dict>
+			<key>Membership</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				<string>126</string>
+				
+				<key>UnsavedDataAlertCloseAction</key>
+				<string>127</string>
+				
+				<key>UnsavedDataAlertDontCloseAction</key>
+				<string>128</string>
+				
+				<key>DeleteAlertMessage</key>
+				<string>129</string>
+				
+				<key>DeleteActionNo</key>
+				<string>130</string>
+				
+				<key>DeleteActionOk</key>
+				<string>131</string>
+				
+				<key>UnsavedDataAlertMessage</key>
+				<string>132</string>
+				
+				<key>UnsavedDataAlertTitle</key>
+				<string>133</string>
+				
+			</dict>
+			<key>Preferences</key>
+			<dict>
+				<key>UnsavedDataAlertCloseAction</key>
+				<string>134</string>
+				
+				<key>UnsavedDataAlertDontCloseAction</key>
+				<string>135</string>
+				
+				<key>UnsavedDataAlertMessage</key>
+				<string>136</string>
+				
+				<key>UnsavedDataAlertTitle</key>
+				<string>137</string>
+				
+			</dict>
+			<key>Address</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				<string>138</string>
+				
+				<key>UnsavedDataAlertCloseAction</key>
+				<string>139</string>
+				
+				<key>UnsavedDataAlertDontCloseAction</key>
+				<string>140</string>
+				
+				<key>UnsavedDataAlertMessage</key>
+				<string>141</string>
+				
+				<key>DeleteAlertMessage</key>
+				<string>142</string>
+				
+				<key>DeleteActionNo</key>
+				<string>143</string>
+				
+				<key>ActivationText</key>
+				<string>144</string>
+				
+				<key>DeleteActionOk</key>
+				<string>145</string>
+				
+				<key>UnsavedDataAlertTitle</key>
+				<string>146</string>
+				
+				<key>AddNewText</key>
+				<string>147</string>
+				
+			</dict>
+			<key>CreditCard</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				<string>148</string>
+				
+				<key>UnsavedDataAlertCloseAction</key>
+				<string>149</string>
+				
+				<key>UnsavedDataAlertDontCloseAction</key>
+				<string>150</string>
+				
+				<key>DeleteAlertMessage</key>
+				<string>151</string>
+				
+				<key>DeleteActionNo</key>
+				<string>152</string>
+				
+				<key>DeleteActionOk</key>
+				<string>153</string>
+				
+				<key>KeyboardDone</key>
+				<string>154</string>
+				
+				<key>UnsavedDataAlertMessage</key>
+				<string>155</string>
+				
+				<key>UnsavedDataAlertTitle</key>
+				<string>156</string>
+				
+			</dict>
+		</dict>
+		<key>EditProfile</key>
+		<dict>
+			<key>UnsavedDataAlertCloseAction</key>
+			<string>157</string>
+			
+			<key>UnsavedDataAlertDontCloseAction</key>
+			<string>158</string>
+			
+			<key>UnsavedDataAlertMessage</key>
+			<string>159</string>
+			
+			<key>UnsavedDataAlertTitle</key>
+			<string>160</string>
+			
+		</dict>
+		<key>NavigationTitle</key>
+		<string>JOUW PROFIEL</string>
+		
+	</dict>
+	<key>KruidvatProfile</key>
+	<dict>
+		<key>BottomCardViews</key>
+		<dict>
+			<key>Orders</key>
+			<dict>
+				<key>PickUpStore</key>
+				<string>161</string>
+				
+				<key>HomeDelivery</key>
+				<string>Thuisbezorging</string>
+				
+			</dict>
+		</dict>
+	</dict>
+	<key>Shelf</key>
+	<dict>
+		<key>Search</key>
+		<dict>
+			<key>SearchPlaceHolder</key>
+			<string>162</string>
+			
+			<key>SearchPlaceHolderForVoice</key>
+			<string>163</string>
+			
+		</dict>
+		<key>PriceView</key>
+		<dict>
+			<key>From</key>
+			<string>164</string>
+			
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+			
+		</dict>
+		<key>RichContent</key>
+		<dict>
+			<key>TitleText</key>
+			<string>165</string>
+			
+		</dict>
+		<key>BarCodeView</key>
+		<dict>
+			<key>EnableCameraButtonTitle</key>
+			<string>166</string>
+			
+			<key>LabelText</key>
+			<string>Voeg je favoriete winkel toe</string>
+			
+			<key>CantOpenCameraAlertTitile</key>
+			<string>167</string>
+			
+			<key>CantOpenCameraAlertAction</key>
+			<string>168</string>
+			
+			<key>CantOpenCameraAlertMessage</key>
+			<string>169</string>
+			
+			<key>DidDetectErrorMessagePt1</key>
+			<string>Dit product hebben we niet in ons assortiment of barcode is op dit moment niet bekend.</string>
+			
+			<key>CantOpenCameraAlertCancel</key>
+			<string>170</string>
+			
+			<key>DidDetectErrorMessagePt2</key>
+			<string>171</string>
+			
+		</dict>
+		<key>Categories</key>
+		<dict>
+			<key>Views</key>
+			<dict>
+				<key>Scale</key>
+				<dict>
+					<key>ClearText</key>
+					<string>172</string>
+					
+					<key>NoRelevantProductText</key>
+					<string>173</string>
+					
+				</dict>
+			</dict>
+			<key>ParentCatName</key>
+			<string>174</string>
+			
+			<key>FiltersNames</key>
+			<dict>
+				<key>RatingsCatName</key>
+				<string>175</string>
+				
+				<key>PricesCatName</key>
+				<string>176</string>
+				
+				<key>MoreThan</key>
+				<string>177</string>
+				
+				<key>PromotionCatName</key>
+				<string>Acties</string>
+				
+				<key>BrandsCatName</key>
+				<string>178</string>
+				
+			</dict>
+			<key>ProductHasNoCategory</key>
+			<string>product heeft geen categorie</string>
+			
+			<key>FilterCell</key>
+			<dict>
+				<key>ResetText</key>
+				<string>179</string>
+				
+			</dict>
+			<key>ProducNameLabelNotFound</key>
+			<string>180</string>
+			
+			<key>PromotionCatName</key>
+			<string>Acties</string>
+			
+			<key>BrandsCatName</key>
+			<string>181</string>
+			
+			<key>SmartShelfTitle</key>
+			<string>182</string>
+			
+		</dict>
+		<key>Buttons</key>
+		<dict>
+			<key>NoPermissionMicrophoneAlertNo</key>
+			<string>183</string>
+			
+			<key>SuccessMicrophoneAlertMessage</key>
+			<string>184</string>
+			
+			<key>NoPermissionMicrophoneAlertAction</key>
+			<string>185</string>
+			
+			<key>NoPermissionMicrophoneAlertMessage</key>
+			<string>186</string>
+			
+			<key>SuccessMicrophoneAlertTitle</key>
+			<string>187</string>
+			
+			<key>NoPermissionMicrophoneAlertTitle</key>
+			<string>188</string>
+			
+			<key>ShowStatusLineMessage</key>
+			<string>189</string>
+			
+		</dict>
+		<key>OtherViews</key>
+		<dict>
+			<key>HomeDeliveryOnly</key>
+			<string>Sommige producten kunnen alleen thuis bezorgd worden</string>
+			
+			<key>MaxAvailable</key>
+			<string>Product niet beschikbaar</string>
+			
+			<key>OutOfStockLabel</key>
+			<string>190</string>
+			
+		</dict>
+		<key>NavigationBar</key>
+		<dict>
+			<key>LoginText</key>
+			<string>191</string>
+			
+			<key>SearchResult</key>
+			<string>Zoekresultaten</string>
+			
+			<key>TitleLabel</key>
+			<string>192</string>
+			
+			<key>AddAddressText</key>
+			<string>193</string>
+			
+			<key>AddStoreText</key>
+			<string>194</string>
+			
+			<key>SetTitlleLabel</key>
+			<string>195</string>
+			
+		</dict>
+		<key>BottomBar</key>
+		<dict>
+			<key>ShowCatName</key>
+			<string>196</string>
+			
+			<key>SearchFieldText</key>
+			<string>197</string>
+			
+		</dict>
+		<key>Share</key>
+		<dict>
+			<key>CantAddContactAlertTitle</key>
+			<string>198</string>
+			
+			<key>CantAddContactAlertAction</key>
+			<string>199</string>
+			
+			<key>CantAddContactAlertOk</key>
+			<string>200</string>
+			
+			<key>CantAddContactAlertMessage</key>
+			<string>201</string>
+			
+		</dict>
+		<key>BasketView</key>
+		<dict>
+			<key>RegisterAndBuyText</key>
+			<string>202</string>
+			
+			<key>DeleteCartsAlertMessage</key>
+			<string>203</string>
+			
+			<key>DeleteCartAlertMessage</key>
+			<string>Weet je zeker dat je deze winkelmand wil verwijderen?</string>
+			
+			<key>BuyButtonTitle</key>
+			<string>KOOP NU</string>
+			
+			<key>buyButtonBottomTitleForNoAllow</key>
+			<string>204</string>
+			
+			<key>DeleteCartsAlertTitle</key>
+			<string>205</string>
+			
+			<key>DeleteCartAlertTitle</key>
+			<string>Verwijder winkelmand</string>
+			
+			<key>BuyButtonUnavailable</key>
+			<string>Bestellen momenteel niet mogelijk</string>
+			
+			<key>BuyButtonTitleForUserIsAnonymous</key>
+			<string>206</string>
+			
+			<key>BuyButtonTitleForMaintenance</key>
+			<string>207</string>
+			
+			<key>BuyButtonTitleClickToContinue</key>
+			<string>208</string>
+			
+			<key>BasketLabelInited</key>
+			<string>209</string>
+			
+			<key>BuyButtonTitleForAllow</key>
+			<string>210</string>
+			
+			<key>buyButtonTitleForNoAllow</key>
+			<string>211</string>
+			
+			<key>DeleteAlertOk</key>
+			<string>212</string>
+			
+			<key>BuyAvailableButtonTitle</key>
+			<string>213</string>
+			
+			<key>BuyButtonTitleForNotAllowPostfix</key>
+			<string>214</string>
+			
+			<key>CellIndex</key>
+			<string>215</string>
+			
+			<key>BuyButtonTitleForMinimialOrderValue</key>
+			<string>216</string>
+			
+			<key>DeleteAlertNo</key>
+			<string>217</string>
+			
+			<key>BuyButtonTitleForNotAllowPrefix</key>
+			<string>218</string>
+			
+		</dict>
+	</dict>
+	<key>Languages</key>
+	<dict>
+		<key>EnglishName</key>
+		<string>219</string>
+		
+		<key>LocalName</key>
+		<string>220</string>
+		
+	</dict>
+	<key>Login</key>
+	<dict>
+		<key>SelectPlatformScreen</key>
+		<dict>
+			<key>ErrorAlertOk</key>
+			<string>221</string>
+			
+			<key>NotReadyAlertTitle</key>
+			<string>222</string>
+			
+			<key>ErrorAlertTitle</key>
+			<string>223</string>
+			
+			<key>NotReadyAlertOk</key>
+			<string>224</string>
+			
+			<key>NotReadyAlertMessage</key>
+			<string>225</string>
+			
+			<key>ScreenTitle</key>
+			<string>226</string>
+			
+		</dict>
+		<key>WalkThroughScreen</key>
+		<dict>
+			<key>ThirdPage</key>
+			<dict>
+				<key>TopLabel</key>
+				<string>227</string>
+				
+				<key>WrongNumberButtonText</key>
+				<string>Controleer het nummer</string>
+				
+			</dict>
+			<key>SecondPage</key>
+			<dict>
+				<key>LabelText</key>
+				<string>Voeg je favoriete winkel toe</string>
+				
+				<key>MiddleLabelText</key>
+				<string>Heb je nog geen Jouw extra voordeelkaart?</string>
+				
+				<key>ButtonText</key>
+				<string>228</string>
+				
+			</dict>
+			<key>EmailAddress</key>
+			<dict>
+				<key>EmailErrorTextNotFound</key>
+				<string>229</string>
+				
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				
+				<key>BottomText</key>
+				<string>Er is een e-mail verstuurd met instructie en link om een nieuw wachtwoord aan te maken.</string>
+				
+				<key>EmailPlaceholderText</key>
+				<string>230</string>
+				
+				<key>EmailErrorText</key>
+				<string>231</string>
+				
+				<key>MiddleText</key>
+				<string>Log in om toegang te krijgen tot je Kruidvat account.</string>
+				
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>PasswordErrorWrongPassword</key>
+				<string>232</string>
+				
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				
+				<key>RegisterButtonText</key>
+				<string>233</string>
+				
+				<key>InfoText</key>
+				<string>We gebruiken je mailadres om je te informeren over je bestellingen en in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.</string>
+				
+			</dict>
+			<key>ValidatedSmsAlertOk</key>
+			<string>234</string>
+			
+			<key>PhoneNumberAlertOk</key>
+			<string>235</string>
+			
+			<key>ValidatedSmsAlertTitle</key>
+			<string>236</string>
+			
+			<key>Register</key>
+			<dict>
+				<key>WeakErrorText</key>
+				<string>237</string>
+				
+				<key>PasswordErrorText</key>
+				<string>238</string>
+				
+				<key>EmailErrorEmailAlreadyUsed</key>
+				<string>Er bestaat al een account met dit mailadres</string>
+				
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				
+				<key>EmailErrorText</key>
+				<string>239</string>
+				
+				<key>EmailPlaceholderText</key>
+				<string>240</string>
+				
+				<key>PasswordPlaceholderText</key>
+				<string>241</string>
+				
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>MiddleText</key>
+				<string>Log in om toegang te krijgen tot je Kruidvat account.</string>
+				
+				<key>InfoLabelText</key>
+				<string>We gebruiken je adres om te zorgen dat je we je bestelling op de juiste locatie bezorgen. En in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.</string>
+				
+			</dict>
+			<key>SentNumberAlertOk</key>
+			<string>242</string>
+			
+			<key>ValidatedSmsAlertMessage</key>
+			<string>243</string>
+			
+			<key>SentNumberAlertTitle</key>
+			<string>244</string>
+			
+			<key>ForgotPassword</key>
+			<dict>
+				<key>EmailErrorTextNotFound</key>
+				<string>245</string>
+				
+				<key>MiddleSentText</key>
+				<string>246</string>
+				
+				<key>BottomText</key>
+				<string>Er is een e-mail verstuurd met instructie en link om een nieuw wachtwoord aan te maken.</string>
+				
+				<key>ContinueSentText</key>
+				<string>OPNIEUW INLOGGEN</string>
+				
+				<key>EmailPlaceholderText</key>
+				<string>247</string>
+				
+				<key>EmailErrorText</key>
+				<string>248</string>
+				
+				<key>MiddleText</key>
+				<string>Log in om toegang te krijgen tot je Kruidvat account.</string>
+				
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>ContinueText</key>
+				<string>249</string>
+				
+			</dict>
+			<key>LoyaltyCard</key>
+			<dict>
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				
+				<key>WrongFormatError</key>
+				<string>250</string>
+				
+				<key>BottomLabelText</key>
+				<string>251</string>
+				
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>MiddleLabelText</key>
+				<string>Heb je nog geen Jouw extra voordeelkaart?</string>
+				
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				
+				<key>PlaceholderText</key>
+				<string>252</string>
+				
+				<key>WrongNumberError</key>
+				<string>253</string>
+				
+			</dict>
+			<key>Final</key>
+			<dict>
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>MiddleLabelText</key>
+				<string>Heb je nog geen Jouw extra voordeelkaart?</string>
+				
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				
+			</dict>
+			<key>EmailAddressPassword</key>
+			<dict>
+				<key>PasswordErrorText</key>
+				<string>254</string>
+				
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>PlaceholderText</key>
+				<string>255</string>
+				
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				
+				<key>ForgotButtonText</key>
+				<string>Wachtwoord vergeten?</string>
+				
+				<key>InfoLabelText</key>
+				<string>We gebruiken je adres om te zorgen dat je we je bestelling op de juiste locatie bezorgen. En in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.</string>
+				
+			</dict>
+			<key>FourthPage</key>
+			<dict>
+				<key>LabelLink4Name</key>
+				<string>256</string>
+				
+				<key>LabelLink4Address</key>
+				<string>257</string>
+				
+				<key>TryAgain</key>
+				<string>258</string>
+				
+				<key>UpdatedLabelText</key>
+				<string>259</string>
+				
+				<key>TopLabel</key>
+				<string>260</string>
+				
+				<key>UpdatedLabelLink1Name</key>
+				<string>261</string>
+				
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				
+				<key>LabelText</key>
+				<string>Voeg je favoriete winkel toe</string>
+				
+				<key>UpdatedLabelLink1Address</key>
+				<string>262</string>
+				
+				<key>LabelLink1Name</key>
+				<string>263</string>
+				
+				<key>WelcomeLabel</key>
+				<string>264</string>
+				
+				<key>UpdatedContinueButtonText</key>
+				<string>265</string>
+				
+				<key>LabelLink2Name</key>
+				<string>266</string>
+				
+				<key>RegistrationError</key>
+				<string>Onbekende fout</string>
+				
+				<key>UpdatedTopLabel</key>
+				<string>Er is iets veranderd!</string>
+				
+				<key>LabelLink1Address</key>
+				<string>267</string>
+				
+				<key>LabelLink2Address</key>
+				<string>268</string>
+				
+			</dict>
+			<key>PhoneNumberAlertMessage</key>
+			<string>269</string>
+			
+			<key>SentNumberAlertMessage</key>
+			<string>270</string>
+			
+			<key>CollectUserDetails</key>
+			<dict>
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				
+			</dict>
+			<key>CollectUserAddress</key>
+			<dict>
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				
+				<key>CheckButtonText</key>
+				<string>Controleer</string>
+				
+				<key>ContinueButtonCheckText</key>
+				<string>271</string>
+				
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				
+			</dict>
+		</dict>
+		<key>Relogin</key>
+		<dict>
+			<key>Tittle</key>
+			<string>272</string>
+			
+			<key>OkText</key>
+			<string>273</string>
+			
+			<key>Message</key>
+			<string>Ingelogd als:</string>
+			
+		</dict>
+		<key>PermissionScreen</key>
+		<dict>
+			<key>AllowAccessToContacts</key>
+			<string>274</string>
+			
+			<key>EnjoySharingBasketsWithYourFriendsAndFamily</key>
+			<string>275</string>
+			
+			<key>HiThere</key>
+			<string>276</string>
+			
+			<key>AllowAccessToPushNotifications</key>
+			<string>277</string>
+			
+		</dict>
+	</dict>
+	<key>MandatoryUpdate</key>
+	<dict>
+		<key>Title</key>
+		<string>278</string>
+		
+		<key>Description</key>
+		<string>Omschrijving</string>
+		
+		<key>Continue</key>
+		<string>NU DOWNLOADEN</string>
+		
+	</dict>
+	<key>DailyDeals</key>
+	<dict>
+		<key>Days</key>
+		<string>279</string>
+		
+		<key>Day</key>
+		<string>280</string>
+		
+		<key>ForExampleButtonText</key>
+		<string>281</string>
+		
+		<key>ButtonLabelExtra</key>
+		<string>282</string>
+		
+		<key>ButtonLabelInactive</key>
+		<string>283</string>
+		
+		<key>ForExampleText</key>
+		<string>VOORBEELD</string>
+		
+		<key>ButtonLabelActive1</key>
+		<string>284</string>
+		
+		<key>ButtonLabelUrl</key>
+		<string>285</string>
+		
+		<key>TimerLabelTextActive</key>
+		<string>286</string>
+		
+		<key>ButtonLabelPromotion</key>
+		<string>287</string>
+		
+		<key>TimerLabelTexInactive</key>
+		<string>Deze deal verloopt over</string>
+		
+		<key>ButtonLabelActive3</key>
+		<string>288</string>
+		
+		<key>ButtonLabelInStore</key>
+		<string>289</string>
+		
+		<key>ButtonLabelExpired</key>
+		<string>UITGEVOERD</string>
+		
+		<key>ButtonLabelActive2</key>
+		<string>290</string>
+		
+		<key>NoDeals</key>
+		<string>291</string>
+		
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>shelf</key>
+		<string>292</string>
+		
+		<key>Or</key>
+		<string>293</string>
+		
+	</dict>
+	<key>SuperViewController</key>
+	<dict>
+		<key>StatusLineMessageTitle</key>
+		<string>294</string>
+		
+	</dict>
+	<key>Purchase</key>
+	<dict>
+		<key>SummaryCell</key>
+		<dict>
+			<key>DigitalBlockHeaderText</key>
+			<string>295</string>
+			
+			<key>HomeDelivery</key>
+			<string>Thuisbezorging</string>
+			
+			<key>TimeslotBlockHeaderText</key>
+			<string>296</string>
+			
+			<key>PickUpStore</key>
+			<string>297</string>
+			
+			<key>DeliveryTime</key>
+			<string>Bezorgdatum</string>
+			
+			<key>DigitalBlockLabelText</key>
+			<string>Dit product wordt verzonden naar jouw e-mailadres</string>
+			
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+			
+		</dict>
+		<key>AttachMembershipHeader</key>
+		<string>298</string>
+		
+		<key>PurchaseHeader</key>
+		<dict>
+			<key>DetailsDictionaryNone</key>
+			<dict>
+				<key>Delivery</key>
+				<string>Kies bezorgtijd</string>
+				
+				<key>Shop</key>
+				<string>299</string>
+				
+				<key>ShippingMethod</key>
+				<string>300</string>
+				
+				<key>Address</key>
+				<string>301</string>
+				
+				<key>CreditCard</key>
+				<string>Creditcard</string>
+				
+				<key>PickUpStore</key>
+				<string>302</string>
+				
+				<key>HomeDelivery</key>
+				<string>Thuisbezorging</string>
+				
+			</dict>
+			<key>GiftCardValueLeft</key>
+			<string>303</string>
+			
+			<key>HeaderLabel</key>
+			<string>ORDEROVERZICHT</string>
+			
+			<key>GiftCard</key>
+			<string>304</string>
+			
+			<key>DetailsDictionary</key>
+			<dict>
+				<key>Delivery</key>
+				<string>Kies bezorgtijd</string>
+				
+				<key>Shop</key>
+				<string>305</string>
+				
+				<key>ShippingMethod</key>
+				<string>306</string>
+				
+				<key>MinimalOrderSufix</key>
+				<string>307</string>
+				
+				<key>MinimalOrderPrefix</key>
+				<string>308</string>
+				
+				<key>Address</key>
+				<string>309</string>
+				
+				<key>CreditCard</key>
+				<string>Creditcard</string>
+				
+			</dict>
+			<key>LastProductAlertMessage</key>
+			<string>310</string>
+			
+			<key>NavigationTitle</key>
+			<string>JOUW PROFIEL</string>
+			
+			<key>PreviewLikeActionTitle</key>
+			<string>311</string>
+			
+			<key>LastProductAlertTitle</key>
+			<string>312</string>
+			
+			<key>PreviewDeleteActionTitle</key>
+			<string>313</string>
+			
+		</dict>
+		<key>OrderSummaryVC</key>
+		<dict>
+			<key>Labels</key>
+			<dict>
+				<key>Delivery</key>
+				<string>Kies bezorgtijd</string>
+				
+				<key>Total</key>
+				<string>314</string>
+				
+				<key>Discount</key>
+				<string>315</string>
+				
+				<key>Price</key>
+				<string>316</string>
+				
+			</dict>
+			<key>HeaderLabel</key>
+			<string>ORDEROVERZICHT</string>
+			
+			<key>TextIncomplete</key>
+			<string>317</string>
+			
+			<key>TextComplete</key>
+			<string>318</string>
+			
+			<key>SummaryItem</key>
+			<string>319</string>
+			
+			<key>BottomLabelFakeView</key>
+			<string>320</string>
+			
+		</dict>
+		<key>ProblematicHeader</key>
+		<string>AANDACHT VEREIST</string>
+		
+		<key>ConfirmButtonTitle</key>
+		<string>321</string>
+		
+		<key>FinishView</key>
+		<dict>
+			<key>NoPermissionAlertMessage</key>
+			<string>322</string>
+			
+			<key>NoPermissionAlertChange</key>
+			<string>323</string>
+			
+			<key>ReminderLabel</key>
+			<string>Reminder toevoegen aan kalender</string>
+			
+			<key>BottomTextLabel</key>
+			<string>324</string>
+			
+			<key>NoPermissionAlertTitle</key>
+			<string>325</string>
+			
+			<key>CalendarEventDeliveryTitleText</key>
+			<string>326</string>
+			
+			<key>MiddleTextContactCustomerServiceLink</key>
+			<string>327</string>
+			
+			<key>CalendarEventTitleText</key>
+			<string>328</string>
+			
+			<key>NoPermissionAlertDontChange</key>
+			<string>329</string>
+			
+			<key>UrlToShareTheApp</key>
+			<string>330</string>
+			
+			<key>TopTextFailedLabel</key>
+			<string>Sorry, de betaling is niet gelukt</string>
+			
+			<key>MiddleTextPaymentTimeOutLabel</key>
+			<string>Je bestelling is geplaatst. We gaan ermee aan de slag. Vragen? Onze klantenservice helpt je graag.</string>
+			
+			<key>MiddleTextPaymentFailedLabel</key>
+			<string>331</string>
+			
+			<key>MiddleTextPaymentCanceledLabel</key>
+			<string>332</string>
+			
+			<key>TopTextLabel</key>
+			<string>333</string>
+			
+			<key>TopTextProseccingLabel</key>
+			<string>Je hebt besteld. We gaan ermee aan de slag</string>
+			
+			<key>MiddleTextContactCustomerServiceText</key>
+			<string>334</string>
+			
+			<key>CalendarEventPickupTitleText</key>
+			<string>335</string>
+			
+			<key>MiddleTextLabel</key>
+			<string>We zijn met je bestelling bezig. We laten je weten als deze wordt verzonden.</string>
+			
+		</dict>
+		<key>ItemsInCartHeader</key>
+		<string>PRODUCTEN IN WINKELMAND</string>
+		
+		<key>CheckOutCell</key>
+		<dict>
+			<key>HighVAT</key>
+			<string>336</string>
+			
+			<key>HeaderLabel</key>
+			<string>ORDEROVERZICHT</string>
+			
+			<key>LowVAT</key>
+			<string>Btw laag</string>
+			
+			<key>HeaderLabelSummaryScreen</key>
+			<string>337</string>
+			
+			<key>HaveEarnedPoints</key>
+			<string>338</string>
+			
+			<key>AttachMembershipCard</key>
+			<string>Jouw Extra Voordeelkaart</string>
+			
+			<key>DiscountLabel</key>
+			<string>Korting</string>
+			
+			<key>Items</key>
+			<string>artikel(en)</string>
+			
+			<key>DeliveryLabel</key>
+			<string>Alleen thuisbezorging mogelijk</string>
+			
+			<key>PriceLabel</key>
+			<string>339</string>
+			
+			<key>SummuryLabelText</key>
+			<string>OVERZICHT</string>
+			
+			<key>TotalLabel</key>
+			<string>Totaal</string>
+			
+			<key>DeliveryInfo</key>
+			<string>Gratis thuisbezorgd vanaf 50 euro</string>
+			
+			<key>CouldEarnPoints</key>
+			<string>Aantal punten</string>
+			
+			<key>SkipButtonTitleChecked</key>
+			<string>340</string>
+			
+			<key>SkipButtonTitleUnchecked</key>
+			<string>341</string>
+			
+			<key>DiscountButton</key>
+			<string>Gebruik een cadeaukaart</string>
+			
+			<key>PointAbbreviation</key>
+			<string>342</string>
+			
+		</dict>
+		<key>PleaseWait</key>
+		<string>Wachten aub...</string>
+		
+		<key>Summary</key>
+		<dict>
+			<key>TitleText</key>
+			<string>343</string>
+			
+		</dict>
+		<key>BottomPanel</key>
+		<dict>
+			<key>AttachMembership</key>
+			<string>344</string>
+			
+			<key>Normal</key>
+			<string>345</string>
+			
+			<key>MinimalOrderTopText</key>
+			<string>346</string>
+			
+			<key>Product</key>
+			<string>347</string>
+			
+			<key>ChangeTextAtBottomPanelTopLabel</key>
+			<string>348</string>
+			
+			<key>ShippingMethod</key>
+			<string>349</string>
+			
+			<key>AddGiftCard</key>
+			<string>Scan cadeaukaart</string>
+			
+			<key>Delivery</key>
+			<string>Kies bezorgtijd</string>
+			
+			<key>Shop</key>
+			<string>350</string>
+			
+			<key>MinimalOrderBottomText</key>
+			<string>(Excl. verzendkosten)</string>
+			
+			<key>PayAndPlaceOrder</key>
+			<string>Betaal en plaats bestelling</string>
+			
+			<key>Address</key>
+			<string>351</string>
+			
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+			
+			<key>CreditCard</key>
+			<string>Creditcard</string>
+			
+		</dict>
+		<key>AddGiftCardHeader</key>
+		<string>Gebruik een cadeaukaart</string>
+		
+		<key>ShippingDetailsHeader</key>
+		<string>DETAILS BESTELLING</string>
+		
+		<key>MethodPicker</key>
+		<dict>
+			<key>ShippingMethod</key>
+			<string>352</string>
+			
+			<key>HomeDeliveryOnly</key>
+			<string>Sommige producten kunnen alleen thuis bezorgd worden</string>
+			
+			<key>PickUpStore</key>
+			<string>353</string>
+			
+			<key>HomeDelivery</key>
+			<string>Thuisbezorging</string>
+			
+		</dict>
+		<key>DigitalTicketInfo</key>
+		<string>Dit product wordt verzonden naar jouw e-mailadres</string>
+		
+		<key>AlternativeProducts</key>
+		<string>354</string>
+		
+		<key>NavigationBarTitle</key>
+		<string>Orderoverzicht</string>
+		
+		<key>ProductCell</key>
+		<dict>
+			<key>ProductsCount0</key>
+			<string>355</string>
+			
+			<key>ProductsCountSingle</key>
+			<string>356</string>
+			
+			<key>ProductsCountPlural</key>
+			<string>Producten</string>
+			
+			<key>NotAvailableProduct</key>
+			<string>357</string>
+			
+			<key>DigitalTicket</key>
+			<string>Je ontvangt dit product per mail</string>
+			
+			<key>DeliveryLabel</key>
+			<string>Alleen thuisbezorging mogelijk</string>
+			
+			<key>TotalLabel</key>
+			<string>Totaal</string>
+			
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+			
+			<key>AtStock</key>
+			<string>358</string>
+			
+			<key>FormatterForm</key>
+			<string>359</string>
+			
+			<key>SavingsLabel</key>
+			<string>Korting</string>
+			
+		</dict>
+		<key>InfoPopup</key>
+		<dict>
+			<key>DigitalBlockHeaderText</key>
+			<string>360</string>
+			
+			<key>HomeDelivery</key>
+			<string>Thuisbezorging</string>
+			
+			<key>PickUpStore</key>
+			<string>361</string>
+			
+			<key>DeliveryTime</key>
+			<string>Bezorgdatum</string>
+			
+			<key>DigitalBlockLabelText</key>
+			<string>Dit product wordt verzonden naar jouw e-mailadres</string>
+			
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+			
+		</dict>
+	</dict>
+	<key>OrderHistory</key>
+	<dict>
+		<key>ShippingDetails</key>
+		<dict>
+			<key>TimeslotTitleLabel</key>
+			<string>362</string>
+			
+			<key>PickUpStore</key>
+			<string>363</string>
+			
+			<key>HomeDelivery</key>
+			<string>Thuisbezorging</string>
+			
+		</dict>
+		<key>ItemsPurchasedHeader</key>
+		<string>364</string>
+		
+		<key>ShippingDetailsHeader</key>
+		<string>DETAILS BESTELLING</string>
+		
+		<key>HeaderCell</key>
+		<dict>
+			<key>ServiceLink</key>
+			<string>365</string>
+			
+			<key>LoadItemsText</key>
+			<string>Bestel opnieuw</string>
+			
+			<key>ContactServiceText</key>
+			<string>Klanten service</string>
+			
+			<key>CalendarReminderText</key>
+			<string>Voeg toe aan agenda</string>
+			
+			<key>DeliveryText</key>
+			<string>366</string>
+			
+			<key>PickupText</key>
+			<string>367</string>
+			
+		</dict>
+		<key>SummaryCell</key>
+		<dict>
+			<key>HighVAT</key>
+			<string>368</string>
+			
+			<key>HeaderLabel</key>
+			<string>ORDEROVERZICHT</string>
+			
+			<key>LowVAT</key>
+			<string>Btw laag</string>
+			
+			<key>HeaderLabelSummaryScreen</key>
+			<string>369</string>
+			
+			<key>ProductsCountPlural</key>
+			<string>Producten</string>
+			
+			<key>AttachMembershipCard</key>
+			<string>Jouw Extra Voordeelkaart</string>
+			
+			<key>ProductsCount0</key>
+			<string>370</string>
+			
+			<key>ProductsCountSingle</key>
+			<string>371</string>
+			
+			<key>DeliveryLabel</key>
+			<string>Alleen thuisbezorging mogelijk</string>
+			
+			<key>PriceLabel</key>
+			<string>372</string>
+			
+			<key>TotalLabel</key>
+			<string>Totaal</string>
+			
+			<key>CouldEarnPoints</key>
+			<string>Aantal punten</string>
+			
+			<key>SkipButtonTitleChecked</key>
+			<string>373</string>
+			
+			<key>DiscountLabel</key>
+			<string>Korting</string>
+			
+			<key>SkipButtonTitleUnchecked</key>
+			<string>374</string>
+			
+			<key>DiscountButton</key>
+			<string>Gebruik een cadeaukaart</string>
+			
+			<key>Points</key>
+			<string>375</string>
+			
+		</dict>
+		<key>NavigationBarTitle</key>
+		<string>Orderoverzicht</string>
+		
+	</dict>
+	<key>HomePage</key>
+	<dict>
+		<key>Telephone</key>
+		<string>376</string>
+		
+		<key>Whatsapp</key>
+		<string>377</string>
+		
+		<key>NewMapVCBackButtonTitle</key>
+		<string>Terug</string>
+		
+		<key>ShoppingViewTitle</key>
+		<string>Klik hier om te winkelen</string>
+		
+		<key>ReportFeedbackView</key>
+		<dict>
+			<key>TitleLabelText</key>
+			<string>Vertel ons meer</string>
+			
+			<key>ConfirmContactLabelText</key>
+			<string>378</string>
+			
+			<key>TextViewPlaceholder</key>
+			<string>379</string>
+			
+		</dict>
+		<key>Report</key>
+		<string>380</string>
+		
+		<key>LoadingTitle</key>
+		<string>BEZIG MET LADEN</string>
+		
+		<key>Cells</key>
+		<dict>
+			<key>Folder</key>
+			<dict>
+				<key>BottomLabelText</key>
+				<string>381</string>
+				
+				<key>CloseButtonText</key>
+				<string>Doorgaan</string>
+				
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				
+				<key>MiddleLabelText</key>
+				<string>Heb je nog geen Jouw extra voordeelkaart?</string>
+				
+			</dict>
+			<key>Location</key>
+			<dict>
+				<key>TopLabel</key>
+				<string>382</string>
+				
+				<key>Register</key>
+				<string>Je wachtwoord dient 8 of meer tekens te bevatten waarvan minimaal 1 letter en 1 cijfer</string>
+				
+				<key>NearestStoreLabel</key>
+				<string>383</string>
+				
+				<key>FindNearestLabel</key>
+				<string>384</string>
+				
+				<key>CompleteRegistration</key>
+				<string>Rond de activatie af om de dichtstbijzijnde winkel te vinden</string>
+				
+				<key>DoYouKnow</key>
+				<string>385</string>
+				
+				<key>FindStore</key>
+				<string>386</string>
+				
+				<key>OpenStoreLocator</key>
+				<string>WINKEL ZOEKEN</string>
+				
+				<key>AllowAccess</key>
+				<string>387</string>
+				
+			</dict>
+			<key>BestSellers</key>
+			<dict>
+				<key>CartButtonTitle</key>
+				<string>388</string>
+				
+				<key>BestSellersLabel</key>
+				<string>389</string>
+				
+			</dict>
+			<key>MembershipCell</key>
+			<dict>
+				<key>Points</key>
+				<string>390</string>
+				
+				<key>GreatToSeeYou</key>
+				<string>Wat fijn je te zien!</string>
+				
+				<key>Register</key>
+				<string>Je wachtwoord dient 8 of meer tekens te bevatten waarvan minimaal 1 letter en 1 cijfer</string>
+				
+				<key>Hi</key>
+				<string>391</string>
+				
+				<key>Hi!</key>
+				<string>392</string>
+				
+				<key>OnlyClub</key>
+				<string>393</string>
+				
+				<key>AttachCard</key>
+				<string>JOUW KAART</string>
+				
+				<key>CompleteRegistration</key>
+				<string>Rond de activatie af om de dichtstbijzijnde winkel te vinden</string>
+				
+				<key>WantToEnjoy</key>
+				<string>394</string>
+				
+			</dict>
+		</dict>
+		<key>NewShopListVCSearchBarPlaceholder</key>
+		<string>395</string>
+		
+		<key>RichNotFound</key>
+		<string>396</string>
+		
+		<key>FAQ</key>
+		<string>397</string>
+		
+		<key>NewShopDescrView</key>
+		<dict>
+			<key>Mon</key>
+			<string>398</string>
+			
+			<key>Saturday</key>
+			<string>399</string>
+			
+			<key>Sat</key>
+			<string>400</string>
+			
+			<key>MakeFavoriteButtonText</key>
+			<string>401</string>
+			
+			<key>Thursday</key>
+			<string>402</string>
+			
+			<key>Friday</key>
+			<string>403</string>
+			
+			<key>Wed</key>
+			<string>404</string>
+			
+			<key>Wednesday</key>
+			<string>405</string>
+			
+			<key>Monday</key>
+			<string>406</string>
+			
+			<key>Thu</key>
+			<string>407</string>
+			
+			<key>Tue</key>
+			<string>408</string>
+			
+			<key>StorePhoneTitleLabel</key>
+			<string>409</string>
+			
+			<key>AddressTitleLabel</key>
+			<string>410</string>
+			
+			<key>Tuesday</key>
+			<string>411</string>
+			
+			<key>Sunday</key>
+			<string>412</string>
+			
+			<key>Fri</key>
+			<string>413</string>
+			
+			<key>Sun</key>
+			<string>414</string>
+			
+		</dict>
+	</dict>
+	<key>VersionService</key>
+	<dict>
+		<key>Title</key>
+		<string>415</string>
+		
+		<key>ButtonTitle</key>
+		<string>Nu downloaden</string>
+		
+		<key>Message</key>
+		<string>Ingelogd als:</string>
+		
+	</dict>
+	<key>AddressPopup</key>
+	<dict>
+		<key>ValidationAlertTitle</key>
+		<string>416</string>
+		
+		<key>CurrentLocationAlertTitle</key>
+		<string>Huidige locatie</string>
+		
+		<key>NoPermissionAlertTitle</key>
+		<string>417</string>
+		
+		<key>HousePlaceholder</key>
+		<string>418</string>
+		
+		<key>ValidationAlertMessage</key>
+		<string>419</string>
+		
+		<key>CurrentLocationAlertOk</key>
+		<string>420</string>
+		
+		<key>CheckButtonText</key>
+		<string>Controleer</string>
+		
+		<key>NoPermissionAlertMessage</key>
+		<string>421</string>
+		
+		<key>ZipCodePlaceholder</key>
+		<string>Postcode</string>
+		
+		<key>ApartmentPlaceholder</key>
+		<string>Toevoeging</string>
+		
+		<key>CurrentLocationAlertNo</key>
+		<string>422</string>
+		
+		<key>OfficeButtonTitle</key>
+		<string>423</string>
+		
+		<key>AddressExistsError</key>
+		<string>Dit adres is al in gebruik. Probeer Opnieuw</string>
+		
+		<key>InfoLabelText</key>
+		<string>We gebruiken je adres om te zorgen dat je we je bestelling op de juiste locatie bezorgen. En in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.</string>
+		
+		<key>NamePlaceholder</key>
+		<string>424</string>
+		
+		<key>FloorPlaceholder</key>
+		<string>425</string>
+		
+		<key>OtherButtonTitle</key>
+		<string>Overig</string>
+		
+		<key>NoPermissionAlertChange</key>
+		<string>426</string>
+		
+		<key>NoPermissionAlertDontChange</key>
+		<string>427</string>
+		
+		<key>CurrentLocationAlertMessage</key>
+		<string>428</string>
+		
+		<key>CityPlaceholder</key>
+		<string>Plaats</string>
+		
+		<key>HomeButtonTitle</key>
+		<string>Thuis</string>
+		
+		<key>SearchBarPlaceholder</key>
+		<string>Zoek</string>
+		
+		<key>MyLocationButton</key>
+		<string>Gebruik huidige locatie</string>
+		
+		<key>ValidationAlertOk</key>
+		<string>429</string>
+		
+		<key>StreetPlaceholder</key>
+		<string>Straat</string>
+		
+	</dict>
+	<key>Notifications</key>
+	<dict>
+		<key>NewProduct</key>
+		<string>430</string>
+		
+		<key>IsAdd</key>
+		<string>431</string>
+		
+		<key>ToSharedBasket</key>
+		<string>432</string>
+		
+		<key>ThisIsMedicine</key>
+		<string>Dit is een geneesmiddel! Geneesmiddelen worden niet verkocht aan personen onder 16 jaar. Ook geldt er een maximum bestelhoeveelheid van 3 stuks per product.</string>
+		
+		<key>PayAttention</key>
+		<string>433</string>
+		
+		<key>Items</key>
+		<string>artikel(en)</string>
+		
+		<key>MaintenanceMode</key>
+		<string>Sorry, we zijn bezig met onderhoud. Kom je later terug</string>
+		
+		<key>IsRemoved</key>
+		<string>Verwijderd</string>
+		
+		<key>AddedPrefix</key>
+		<string>Aan</string>
+		
+		<key>CheckOutPromo</key>
+		<string>434</string>
+		
+		<key>IsSharingCartWithYou</key>
+		<string>435</string>
+		
+		<key>RemovedPrefix</key>
+		<string>436</string>
+		
+		<key>UpdateProductShort</key>
+		<string>437</string>
+		
+		<key>AddEvent</key>
+		<string>438</string>
+		
+		<key>RemovedProduct</key>
+		<string>439</string>
+		
+		<key>WithPhoneNumber</key>
+		<string>440</string>
+		
+		<key>HasRenamedBasket</key>
+		<string>441</string>
+		
+		<key>Basket</key>
+		<string>Winkelmand</string>
+		
+		<key>UpdateProduct</key>
+		<string>442</string>
+		
+		<key>AddedYouTo</key>
+		<string>443</string>
+		
+		<key>RemoveEvent</key>
+		<string>444</string>
+		
+	</dict>
+	<key>UserEditPopup</key>
+	<dict>
+		<key>PasswordStrength4</key>
+		<string>Sterk</string>
+		
+		<key>PickerRemoveTitle</key>
+		<string>Verwijder afbeelding</string>
+		
+		<key>PickerGalleryTitle</key>
+		<string>445</string>
+		
+		<key>PasswordStrength1</key>
+		<string>446</string>
+		
+		<key>InfixNamePlaceholder</key>
+		<string>Tussenvoegsel</string>
+		
+		<key>BirthdayPlaceholder</key>
+		<string>Geboortedatum</string>
+		
+		<key>EmptyErrorText</key>
+		<string>Kan niet leeg zijn</string>
+		
+		<key>GenderGDPRText</key>
+		<string>We gebruiken je gender om je op de juiste manier aan te kunnen spreken en om te zorgen dat je aanbiedingen krijgt die bij je passen.</string>
+		
+		<key>EmailValidationError</key>
+		<string>Controleer het mailadres</string>
+		
+		<key>LastNamePlaceholder</key>
+		<string>Achternaam</string>
+		
+		<key>BirthDateGDPRText</key>
+		<string>We gebruiken je geboortedatum om je leeftijd te controleren. Soms is dit wettelijk nodig. In sommige gevallen gebruiken we je geboortedatum om je aanbiedingen en nieuws passend bij je leeftijd aan te bieden.</string>
+		
+		<key>NoPermissionAlertCancel</key>
+		<string>447</string>
+		
+		<key>AgeWarningMessageLabelText</key>
+		<string>Ben je onder de 16? Leuk dat je deze app wilt gebruiken! Je hebt wel toestemming van je ouders nodig.</string>
+		
+		<key>ResetPassword</key>
+		<string>Wachtwoord vergeten?</string>
+		
+		<key>PassportIdPlaceholder</key>
+		<string>Paspoortnummer</string>
+		
+		<key>PasswordGDPRText</key>
+		<string>448</string>
+		
+		<key>EmailPlaceholder</key>
+		<string>449</string>
+		
+		<key>WeakErrorText</key>
+		<string>450</string>
+		
+		<key>PasswordErrorText</key>
+		<string>451</string>
+		
+		<key>PasswordDescription</key>
+		<string>452</string>
+		
+		<key>PhoneNumberPlaceholder</key>
+		<string>453</string>
+		
+		<key>NoPermissionAlertPhotosMessage</key>
+		<string>454</string>
+		
+		<key>MaleGender</key>
+		<string>455</string>
+		
+		<key>FemaleGender</key>
+		<string>VROUW</string>
+		
+		<key>InfoLabelText</key>
+		<string>We gebruiken je adres om te zorgen dat je we je bestelling op de juiste locatie bezorgen. En in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.</string>
+		
+		<key>NoPermissionAlertCameraMessage</key>
+		<string>456</string>
+		
+		<key>FirstNamePlaceholder</key>
+		<string>Voornaam</string>
+		
+		<key>PasswordStrength3</key>
+		<string>Niet sterk</string>
+		
+		<key>NoPermissionAlertOk</key>
+		<string>457</string>
+		
+		<key>PhoneNumberDescription</key>
+		<string>458</string>
+		
+		<key>NoPermissionAlertTitle</key>
+		<string>459</string>
+		
+		<key>PasswordStrength2</key>
+		<string>Matig</string>
+		
+	</dict>
+</dict>
+</plist>

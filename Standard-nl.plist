@@ -1,0 +1,1985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Onboarding</key>
+	<dict>
+		<key>BottomButtonContinue</key>
+		<string>BEGIN MAAR</string>
+		<key>BottomButtonNext</key>
+		<string>VOLGENDE</string>
+		<key>SkipButtonText</key>
+		<string>Overslaan</string>
+		<key>ScreenTitle0</key>
+		<string>Welkom in de vernieuwde Kruidvat App</string>
+		<key>ScreenTitle6</key>
+		<string>Snel en simpel je bestelling in huis</string>
+		<key>ScreenTitle1</key>
+		<string>Check je puntensaldo en Jouw aanbieding</string>
+		<key>ScreenTitle5</key>
+		<string>Alle aanbiedingen in één overzicht</string>
+		<key>ScreenTitle2</key>
+		<string>Zo gevonden met de zoekfunctie</string>
+		<key>ScreenTitle3</key>
+		<string>Vind je producten per categorie</string>
+		<key>ScreenTitle4</key>
+		<string>Selecteer producten in je winkelmandje</string>
+	</dict>
+	<key>MultiShelf</key>
+	<dict>
+		<key>NavBarTitle</key>
+		<string>Categoriën</string>
+		<key>FilterButtonText</key>
+		<string>Filter promo</string>
+	</dict>
+	<key>SupportingViews</key>
+	<dict>
+		<key>BasketView</key>
+		<dict>
+			<key>ProductsCountSingle</key>
+			<string>Product</string>
+			<key>ProductsCountPlural</key>
+			<string>Producten</string>
+			<key>CartNameLabel</key>
+			<string>Naam</string>
+			<key>AddNewCartNameLabel</key>
+			<string>Voeg nieuwe winkelmand toe</string>
+		</dict>
+		<key>ScalledCollectionView</key>
+		<dict>
+			<key>Delete</key>
+			<string>Verwijderen</string>
+			<key>LabelText</key>
+			<string>Voeg je favoriete winkel toe</string>
+			<key>DeleteAll</key>
+			<string>Verwijder alles</string>
+		</dict>
+		<key>ShopView</key>
+		<dict>
+			<key>BuyButtonTitle</key>
+			<string>KOOP NU</string>
+			<key>ClickToContinue</key>
+			<string>KLIK HIER OM TE BESTELLEN</string>
+		</dict>
+		<key>DatePickerView</key>
+		<dict>
+			<key>DialogCancelButton</key>
+			<string>Annuleer</string>
+			<key>Next</key>
+			<string>Volgende</string>
+			<key>MonthArray</key>
+			<dict>
+				<key>January</key>
+				<string>Januari</string>
+				<key>November</key>
+				<string>November</string>
+				<key>July</key>
+				<string>Juli</string>
+				<key>December</key>
+				<string>December</string>
+				<key>August</key>
+				<string>Augustus</string>
+				<key>May</key>
+				<string>Mei</string>
+				<key>February</key>
+				<string>Februari</string>
+				<key>June</key>
+				<string>Juni</string>
+				<key>April</key>
+				<string>April</string>
+				<key>March</key>
+				<string>Maart</string>
+				<key>October</key>
+				<string>Oktober</string>
+				<key>September</key>
+				<string>September</string>
+			</dict>
+			<key>DialogDoneButton</key>
+			<string>Klaar</string>
+		</dict>
+		<key>ImagePicker</key>
+		<dict>
+			<key>Cancel</key>
+			<string>Annuleer</string>
+			<key>SelectItemsPt1</key>
+			<string>Selecteer</string>
+			<key>OrVideo</key>
+			<string> of video</string>
+			<key>SnapPhoto</key>
+			<string>Maak foto</string>
+			<key>SelectItemsPt2</key>
+			<string> Artikelen</string>
+			<key>SingleSelectionLabel</key>
+			<string>Selecteer</string>
+		</dict>
+		<key>GMSAutocompleteView</key>
+		<dict>
+			<key>SearchBarPlaceholder</key>
+			<string>Zoek</string>
+		</dict>
+		<key>MaterialLikeTextField</key>
+		<dict>
+			<key>ErrorText</key>
+			<string>Graag invullen</string>
+		</dict>
+	</dict>
+	<key>MembershipPopup</key>
+	<dict>
+		<key>PasswordPlaceholder</key>
+		<string>Wachtwoord</string>
+		<key>WebUserInfoText</key>
+		<string>Bedankt voor het koppelen van je kaart. Nu je een klantenkaart aan een online account hebt gekoppeld, raden we je aan om ons privacybeleid door te nemen. Mocht je jouw marketingvoorkeuren willen aanpassen, ga dan naar het dashboard Privacyvoorkeuren in ‘Mijn account’. Ons Privacybeleid is van toepassing.</string>
+		<key>RegisterMessage</key>
+		<string>Registeer Jouw Extra Voordeelkaart</string>
+		<key>NoCardYetText2</key>
+		<string>Haal een gratis Jouw Extra Voordeelkaart bij jouw Kruidvat winkel</string>
+		<key>AlreadyVerifiedLabel</key>
+		<string>De verificatie is succesvol uitgevoerd. Klik hier als je opnieuw wilt inloggen.</string>
+		<key>RetailerTitle</key>
+		<string>Klik om BU te selecteren</string>
+		<key>WebUserInfoLinkText</key>
+		<string>privacybeleid</string>
+		<key>NumberOfPointsText1</key>
+		<string>Je hebt</string>
+		<key>UserNamePlaceholder</key>
+		<string>Inlognaam</string>
+		<key>PopupButtonText</key>
+		<string>Ga door</string>
+		<key>TellUsMoreAboutView</key>
+		<string>Vertel ons meer over jezelf</string>
+		<key>ForgetPasswordButtonTitle</key>
+		<string>Wachtwoord vergeten?</string>
+		<key>NoCardYetText1</key>
+		<string>Heb je de Jouw Extra Voordeelkaart nog niet?</string>
+		<key>ReplaceButtonText</key>
+		<string>Vervangkaart</string>
+		<key>NoCardYetText</key>
+		<string>Heeft je nog geen Jouw extra voordeelkaart? Haal hem gratis op in de winkel.</string>
+		<key>DoneText</key>
+		<string>Klaar</string>
+		<key>CodeFieldErrorText</key>
+		<string>Sorry, er gaat iets mis. Dit kaartnummer is niet correct, of deze kaart is al geregistreerd met een ander e-mailadres.</string>
+		<key>AlreadyHaveAllCardsRetailerTitle</key>
+		<string>Je hebt al kaarten van alle BU&apos;s</string>
+		<key>PersonalMarketingText</key>
+		<string>Persoonlijke voorkeuren</string>
+		<key>NumberOfPointsText2</key>
+		<string>Punten</string>
+	</dict>
+	<key>MetaDataAttributesTitles</key>
+	<dict>
+		<key>kvContactName</key>
+		<string>Contactnaam:</string>
+		<key>igcNewProduct</key>
+		<string>Nieuw product:</string>
+		<key>kvPackageMarksEnvironment</key>
+		<string>Milieukenmerk op etiket/verpakking:</string>
+		<key>description</key>
+		<string>Product informatie</string>
+		<key>loyaltyProductAvailability</key>
+		<string>Zijn er extra’s?</string>
+		<key>medical_information</key>
+		<string>Medische informatie</string>
+		<key>igcContentUnit</key>
+		<string>Eenheid inhoud:</string>
+		<key>igcBrandName</key>
+		<string>Merknaam:</string>
+		<key>kvAllergenTypeCode</key>
+		<string>Type allergeen:</string>
+		<key>kvDrugFileLocation</key>
+		<string>Locatie Bestand:</string>
+		<key>kvCommunicationAddress</key>
+		<string>Communicatieadres:</string>
+		<key>showPdpContentHubArticles</key>
+		<string>[showPdpContentHubArticles]:</string>
+		<key>general_information</key>
+		<string>Algemene informatie</string>
+		<key>product_information</key>
+		<string>Product informatie</string>
+		<key>alcohol_percentage</key>
+		<string>Alcoholpercentage</string>
+		<key>igcWeight</key>
+		<string>Gewicht:</string>
+		<key>igcERPShortDescription</key>
+		<string>ERP korte beschrijving:</string>
+		<key>kvWidth</key>
+		<string>Breedte:</string>
+		<key>important</key>
+		<string>Important</string>
+		<key>code</key>
+		<string>CE nr:</string>
+		<key>kvCalculatedPPUDisplayPrice</key>
+		<string>Berekende Prijs per eenheid:</string>
+		<key>kvNutritionalClaim</key>
+		<string>Voedingswaardeclaim:</string>
+		<key>kvOpenedTradeItemLifespan</key>
+		<string>Houdbaarheid na opening:</string>
+		<key>kvPackageMarksEthical</key>
+		<string>Ethisch kenmerk op etiket/verpakking:</string>
+		<key>kvWeightCENr</key>
+		<string>Gewicht CE NR.:</string>
+		<key>baseProduct</key>
+		<string>Base product</string>
+		<key>portions_per_package</key>
+		<string>Portions Per Package</string>
+		<key>kvPreparationInstructions</key>
+		<string>Bereidingsinstructies:</string>
+		<key>Amount</key>
+		<string>aantal</string>
+		<key>doctorURLText</key>
+		<string>Op thuisarts.nl vind je betrouwbare informatie over ziekte en gezondheid.</string>
+		<key>onlineDate</key>
+		<string>Online date</string>
+		<key>igcRecyclingInfo</key>
+		<string>Recycling Info:</string>
+		<key>igcBrandCode</key>
+		<string>Merkcode:</string>
+		<key>instructions</key>
+		<string>Instructions</string>
+		<key>kvDrugApplication</key>
+		<string>Toedieningsvorm:</string>
+		<key>kvRegulatedProductName</key>
+		<string>Wettelijke benaming:</string>
+		<key>composition</key>
+		<string>Samenstelling</string>
+		<key>igcVariantType</key>
+		<string>Variant type:</string>
+		<key>igcShortDescription</key>
+		<string>Omschrijving:</string>
+		<key>name</key>
+		<string>H1 Merk en omschrijving:</string>
+		<key>igcContentSize</key>
+		<string>Inhoud:</string>
+		<key>KvDailyValueIntakeReference</key>
+		<string>Referentie-inname:</string>
+		<key>kvNumberOfServingsPerPackage</key>
+		<string>Aantal porties per verpakking:</string>
+		<key>additional</key>
+		<string>Additional</string>
+		<key>kvDrugComposition</key>
+		<string>Samenstelling:</string>
+		<key>kvHealthClaim</key>
+		<string>Gezondheidsclaim:</string>
+		<key>igcInformativePrice1</key>
+		<string>Adviesprijs:</string>
+		<key>kvUnspecifiedPreperationTypePreperationInstructions</key>
+		<string>Bereidingsinstructies 2:</string>
+		<key>colorCode</key>
+		<string>Color description</string>
+		<key>kvHeight</key>
+		<string>Hoogte:</string>
+		<key>kvDrugGuidelines</key>
+		<string>Richtlijnen:</string>
+		<key>kvVariantSize</key>
+		<string>Maat:</string>
+		<key>igcInformativeText3</key>
+		<string>3e Informatieve Tekst:</string>
+		<key>colorGroup</key>
+		<string>Color group</string>
+		<key>igcUses</key>
+		<string>Te gebruiken bij:</string>
+		<key>kvContactType</key>
+		<string>Contact type:</string>
+		<key>igcInformativeText2</key>
+		<string>Allergie informatie:</string>
+		<key>isURLPlaceholderText</key>
+		<string>Download de bijsluiter</string>
+		<key>kvPromoAssortment</key>
+		<string>Assortiment/Promo:</string>
+		<key>label_information</key>
+		<string>Etiket informatie</string>
+		<key>kvPharmacy</key>
+		<string>Verplicht advies (OTC):</string>
+		<key>igcInformativeText1</key>
+		<string>Raadpleeg huisarts bij:</string>
+		<key>ean</key>
+		<string>EAN</string>
+		<key>promotionLabel</key>
+		<string>Promotion label</string>
+		<key>kvLabelInfoText</key>
+		<string>Hoewel wij zorg en aandacht besteden aan de etiketinformatie op internet kan het zijn dat deze afwijkt van de etiketinformatie op het product. Ten aanzien hiervan aanvaarden wij geen aansprakelijkheid. Lees daarom altijd de etiketinformatie op het product dat je thuis ontvangt.</string>
+		<key>irgPrdVatCode</key>
+		<string>BTW code:</string>
+		<key>igcContentSizeUnit</key>
+		<string>Inhoud Omschrijving:</string>
+		<key>kvServingSize</key>
+		<string>Referentieportiegrootte:</string>
+		<key>ingredients</key>
+		<string>Ingredients</string>
+		<key>kvSummaryDescription</key>
+		<string>Samenvatting productinformatie:</string>
+		<key>igcIngredients</key>
+		<string>Ingredienten:</string>
+		<key>offlineDate</key>
+		<string>Offline date</string>
+		<key>kvShowPPU</key>
+		<string>Toon prijs per eenheid:</string>
+		<key>contact_information</key>
+		<string>Contact Information</string>
+		<key>kvTargetConsumerAge</key>
+		<string>Leeftijdsbeperkingen (vanaf/tot):</string>
+		<key>kvCommunicationChannelNumber</key>
+		<string>Communicatiekanaalgegevens:</string>
+		<key>kvPackageMarksFreeFrom</key>
+		<string>Vrij van-kenmerk op etiket/verpakking:</string>
+		<key>kvWlsURL</key>
+		<string>WLS URL:</string>
+		<key>kvHouseholdServingSize</key>
+		<string>Huishoudelijke maateenheid:</string>
+		<key>legal_name</key>
+		<string>Legal Name</string>
+		<key>maxOrderQuantity</key>
+		<string>max bestelaantal</string>
+		<key>image</key>
+		<string>Product image</string>
+		<key>kvDosageRestrictionLimits</key>
+		<string>Doseringrestrictie:</string>
+		<key>KvIsNewDate</key>
+		<string>Nieuw online:</string>
+		<key>kvCommunicationChannelCode</key>
+		<string>Type communicatiekanaal:</string>
+		<key>kvPackageMarksDietAllergen</key>
+		<string>Dieet-/allergiekenmerk op etiket/verpakking:</string>
+		<key>allergies</key>
+		<string>Allergies</string>
+		<key>kvCompulsoryAdditivesLabelInformation</key>
+		<string>Verplichte algemene vermelding:</string>
+		<key>kvScoops</key>
+		<string>Aantal wasbeurten:</string>
+		<key>kvDrugSideEffectsAndWarnings</key>
+		<string>Gebruiksbeperkingen:</string>
+		<key>loyaltyProductOfflineDate</key>
+		<string>Loyalty Product Offline Date:</string>
+		<key>kvIngredientStatement</key>
+		<string>Ingredientendeclaratie:</string>
+		<key>kvRecommendedCount</key>
+		<string>kvRecommendedCount</string>
+		<key>kvPPUDisplayUnit</key>
+		<string>PPE type:</string>
+		<key>kvDepth</key>
+		<string>Diepte:</string>
+		<key>kvOtcProductIndicator</key>
+		<string>Niet te gebruiken bij:</string>
+		<key>kvAvarageOverallRating</key>
+		<string>kvAvarageOverallRating</string>
+		<key>kvNutrientTypeCode</key>
+		<string>Code nutrientype:</string>
+		<key>kvDocumentationUrl</key>
+		<string>URL bijsluiter:</string>
+		<key>igcFormulation</key>
+		<string>Actieve bestandsdelen:</string>
+		<key>igcErpName</key>
+		<string>ERP naam:</string>
+		<key>kvWls</key>
+		<string>WLS:</string>
+		<key>loyaltyProductPoints</key>
+		<string>Loyalty Product Points:</string>
+		<key>kvDrugTypeFile</key>
+		<string>Type Bestand:</string>
+		<key>igcWarnings</key>
+		<string>Let op!:</string>
+		<key>kvConsumerUsageStorageInstruction</key>
+		<string>Gebruiks- en bewaarinstructies voor consumenten:</string>
+		<key>kvPercentageOfAlcoholByVolume</key>
+		<string>Alcoholpercentage:</string>
+		<key>kvTotalReviewCount</key>
+		<string>kvTotalReviewCount</string>
+	</dict>
+	<key>CreditCardPopup</key>
+	<dict>
+		<key>CvvPlaceholder</key>
+		<string>CVV-nummer</string>
+		<key>ValidDatePlaceholder</key>
+		<string>Geldig t/m </string>
+		<key>WrongNumberAlertMessage</key>
+		<string>Controleer het creditcardnummer</string>
+		<key>DoneText</key>
+		<string>Volgende</string>
+		<key>WrongNumberAlertOk</key>
+		<string>Probeer opnieuw</string>
+		<key>CreditCardNumber</key>
+		<string>Creditcardnummer</string>
+		<key>FirstNamePlaceholder</key>
+		<string>Voornaam</string>
+		<key>WrongNumberAlertTitle</key>
+		<string>Controleer het creditcardnummer</string>
+		<key>LastNamePlaceholder</key>
+		<string>Achternaam</string>
+		<key>PassportIdPlaceholder</key>
+		<string>Passpoort nummer</string>
+	</dict>
+	<key>PersonalMarketingPopup</key>
+	<dict>
+		<key>MessagesViaSocialMediaTitleText</key>
+		<string>Wil je berichten van Kruidvat op social media ontvangen?</string>
+		<key>OffersFromPartnersGDPRText</key>
+		<string>Profiteer van unieke aanbiedingen en grote kortingen van onze zusterbedrijven binnen de A. S. Watson of CK Hutchison groepholding, waaronder loyaliteitsvoordelen. Daarvoor kunnen we mogelijk je persoonlijke gegevens met onze partners delen en ontvang je mogelijk rechtstreeks aanbiedingen van hen.</string>
+		<key>OffersFromPartnersTitleText</key>
+		<string>Wil je aanbiedingen van onze partners ontvangen?</string>
+		<key>PushNotificationsGDPRText</key>
+		<string>Aanbiedingen per push bericht. Je kunt je hiervoor altijd afmelden.</string>
+		<key>MessagesViaSocialMediaGDPRLink2Address</key>
+		<string>https://support.google.com/adwords/answer/6379332?hl=en</string>
+		<key>MessagesViaSocialMediaGDPRLink1Address</key>
+		<string>https://www.facebook.com/business/help/341425252616329</string>
+		<key>MessagesViaEmailTitleText</key>
+		<string>Wil je e-mail van Kruidvat ontvangen?</string>
+		<key>BottomLabelText</key>
+		<string>Door deze app te gebruiken gaat u akkoord met de privacy- en algemene voorwaarden</string>
+		<key>Offer2</key>
+		<string>Schakel Push-notificaties uit</string>
+		<key>MessagesViaPostTitleText</key>
+		<string>Wil je informatie van Kruidvat per post ontvangen?</string>
+		<key>SMSPushGDPRText</key>
+		<string>Aanbiedingen via sms. Je kunt je hiervoor altijd afmelden.</string>
+		<key>PersonalizeVia3dPartyTitleText</key>
+		<string>Wil je gepersonaliseerde berichten van derden ontvangen?</string>
+		<key>Offer1</key>
+		<string>Schakel telefoonmarketing-notificaties uit</string>
+		<key>EveryDayRecieveMethodText</key>
+		<string>Ik wil deze email elke dag ontvangen</string>
+		<key>WebUserInfoLinkText</key>
+		<string>Privacybeleid</string>
+		<key>MessagesViaSocialMediaGDPRLink2Text</key>
+		<string>Klantenmatch</string>
+		<key>SignForNewslettersGDPRText</key>
+		<string>Nooit meer een aanbieding of actie missen? Blijf per e-mail op de hoogte van alle aanbiedingen van Kruidvat.</string>
+		<key>Offer0</key>
+		<string>Schakel SMS-berichten uit</string>
+		<key>RecieveMethodDescriptionText</key>
+		<string></string>
+		<key>RecieveMethodGDPRText</key>
+		<string>Ontvang dagelijks of wekelijks jouw persoonlijke EXTRA aanbieding per email. Met deze verrassende, voor jouw relevante, aanbiedingen krijg je nog meer voordeel dan je al van Kruidvat gewend bent.</string>
+		<key>SignUpForBirthdayOffersTitleText</key>
+		<string>Wilt u verjaardagsaanbiedigen ontvangen?</string>
+		<key>SMSPushTitleText</key>
+		<string>Wil je sms&apos;jes ontvangen?</string>
+		<key>MessagesViaPostGDPRText</key>
+		<string>Aanbiedingen via post. Je kunt je hiervoor altijd afmelden.</string>
+		<key>PersonalRecomendationOffersGDPRTextLinkName</key>
+		<string>Privacybeleid</string>
+		<key>MessagesViaSocialMediaGDPRLink1Text</key>
+		<string>Facebook</string>
+		<key>TitleLabelText</key>
+		<string>Privacy voorkeuren</string>
+		<key>MessagesViaSocialMediaGDPRText</key>
+		<string>We tonen je posts afgestemd op jouw profiel op social media met behulp van tools zoals aangepaste doelgroepen in Facebook, Google Klantenmatch of vergelijkbare platforms voor de targeting van social media doelgroepen. We doen dit door je e-mailadres te hashen en alleen de resulterende numerieke waarde te delen Je kunt je hiervoor afmelden. Je kunt dan nog wel onze posts zien, maar deze zijn dan niet meer afgestemd op je profiel.</string>
+		<key>DoNotSendRecieveMethodText</key>
+		<string>Niet versturen</string>
+		<key>OnceAWeekRecieveMethodText</key>
+		<string>Ik wil deze email graag 1 x per week ontvangen</string>
+		<key>MessagesViaEmailGDPRText</key>
+		<string>Aanbiedingen per email. Je kunt je hiervoor altijd afmelden.</string>
+		<key>PersonalRecomendationOffersGDPRText</key>
+		<string>Aanbiedingen op basis van je gebruik van onze website en/of app en aankopen online of in de winkel. Zie paragraaf 6 van ons Privacybeleid.</string>
+		<key>PersonalRecomendationOffersTitleText</key>
+		<string>Wil je op jou afgestemde acties en/of aanbiedingen ontvangen?</string>
+		<key>PersonalRecomendationOffersGDPRTextLinkAddress</key>
+		<string></string>
+		<key>SignUpForBirthdayOffersDescriptionText</key>
+		<string>Je gaat akkoord met ons privacy statement</string>
+		<key>SignUpForNewsLetterTitleText</key>
+		<string>Wil je onze email nieuwsbrief ontvangen?</string>
+		<key>WebUserInfoText</key>
+		<string>Als je onderstaande opties aanvinkt geef je aan dat je ons Privacybeleid kent en dat je onze persoonlijke marketingcommunicatie wil ontvangen. Bedankt daarvoor!</string>
+		<key>PushNotificationsTitleText</key>
+		<string>Wil je push berichten van ons ontvangen?</string>
+		<key>RecieveMethodTitleText</key>
+		<string>Wil je relevante extra persoonlijke aanbiedingen via e-mail ontvangen?</string>
+		<key>SignUpForNewsLetterDescriptionText</key>
+		<string>Wilt u uw extra aanbieding ontvangen?</string>
+		<key>PersonalizeVia3dPartyGDPRText</key>
+		<string>Aanbiedingen via derden die geen partners van ons bedrijf zijn. Daarvoor kunnen we mogelijk je persoonlijke gegevens met deze bedrijven delen en ontvang je mogelijk rechtstreeks aanbiedingen van hen.</string>
+	</dict>
+	<key>TellUsMorePopup</key>
+	<dict>
+		<key>BabiesAndToddlerGDPRLinkText</key>
+		<string>Privacybeleid</string>
+		<key>InterestsTitleText</key>
+		<string>Geef uw interessegebieden aan</string>
+		<key>BabyAndMamaBenefitsTitleText</key>
+		<string>Gratis Jouw Blije Baby Voordeel tas</string>
+		<key>WebUserInfoText</key>
+		<string>Door ons de gegevens van je kind te geven ga je akkoord met ons Privacybeleid en onze marketingcommunicatie</string>
+		<key>TitleLabelText</key>
+		<string>Vertel ons meer</string>
+		<key>BabiesAndToddlerDatePlaceholderText</key>
+		<string>DD/MM/JJJJ</string>
+		<key>BabyAndMamaBenefitsDatePlaceholderText</key>
+		<string>DD/MM/JJJJ</string>
+		<key>BabiesAndToddlerGDPRText</key>
+		<string>Door je aan te melden bevestig je dat je op de hoogte bent van ons Privacybeleid en dat je ermee akkoord gaat. Je kunt je altijd afmelden via de afmeldlink in Jouw account of door contact op te nemen met onze klantenservice.</string>
+		<key>Interest0</key>
+		<string>Kind</string>
+		<key>WebUserInfoLinkText</key>
+		<string>Privacybeleid</string>
+		<key>BabiesAndToddlerDescriptionText</key>
+		<string>Heb je kinderen? Laat het ons weten. Je ontvangt dan aanbiedingen en tips passend bij de leeftijd</string>
+		<key>Interest2</key>
+		<string>Mooi &amp; Verzorgd</string>
+		<key>BabiesAndToddlerAddButtonText</key>
+		<string>Verstuur / Voeg een kind toe</string>
+		<key>BabyAndMamaBenefitsSendButtonText</key>
+		<string>Verzenden</string>
+		<key>BabyAndMamaBenefitsDescriptionText</key>
+		<string>Verwacht je een kindje? Vraag GRATIS Jouw Baby Mama voordeel aan.</string>
+		<key>BabiesAndToddlerNamePlaceholderText</key>
+		<string>Naam</string>
+		<key>BabyAndMamaBenefitsGDPRText</key>
+		<string>Door je aan te melden bevestig je dat je op de hoogte bent van ons Privacybeleid en dat je ermee akkoord gaat. Je kunt je altijd afmelden voor het Jouw Blije Baby programma via de afmeldlink in Jouw account of door contact op te nemen met onze klantenservice.</string>
+		<key>BottomLabelText</key>
+		<string>Door deze app te gebruiken gaat u akkoord met de privacy- en algemene voorwaarden</string>
+		<key>BabiesAndToddlerGirlText</key>
+		<string>MEISJE</string>
+		<key>BabiesAndToddlerSendButtonText</key>
+		<string>Verzenden</string>
+		<key>InterestsDescriptionText</key>
+		<string>Geeft uw interessegebieden aan om de aanbiedingen persoonlijker te maken.</string>
+		<key>Interest1</key>
+		<string>Gezondheid</string>
+		<key>Interest3</key>
+		<string>Mannenverzorging</string>
+		<key>InterestsGDPRText</key>
+		<string>Door deze aan te vinken bevestig je dat je op de hoogte bent van ons Privacybeleid en dat je ermee akkoord gaat. Als je jonger bent dan 16 bevestig je dat je ouder of voogd ermee instemt dat je onze nieuwsbrieven ontvangt.</string>
+		<key>BabiesAndToddlerBoyText</key>
+		<string>JONGEN</string>
+		<key>BabiesAndToddlerTitleText</key>
+		<string>Advies en voordelen voor kinderen</string>
+	</dict>
+	<key>ProductInfoView</key>
+	<dict>
+		<key>HomeDeliveryOnly</key>
+		<string>Dit product kan alleen thuis bezorgd worden</string>
+		<key>DigitalTicket</key>
+		<string>Je ontvangt dit product per mail</string>
+		<key>PromotionInnerCell</key>
+		<dict>
+			<key>Or</key>
+			<string>OR</string>
+		</dict>
+		<key>HeaderTitle</key>
+		<dict>
+			<key>Prices</key>
+			<string>Online prijzen</string>
+			<key>Preperties</key>
+			<string>Eigenschappen</string>
+			<key>ProductVariants</key>
+			<string>Varianten</string>
+			<key>ProductImages</key>
+			<string>Productafbeeldingen</string>
+			<key>Price</key>
+			<string>Prijs</string>
+			<key>Description</key>
+			<string>Omschrijving</string>
+		</dict>
+		<key>RatingCell</key>
+		<dict>
+			<key>RatingLabelWithRatesPt3</key>
+			<string> totaal</string>
+			<key>RatingLabelWIthRatesPt1</key>
+			<string>Gemiddelde score </string>
+			<key>ShareProducShareText</key>
+			<string>Betalen</string>
+			<key>RatingLabelWithRatesPt2</key>
+			<string>van </string>
+			<key>RatingLabelForNotRates</key>
+			<string>Gemiddelde score : 0.0 (0)</string>
+			<key>ActivitiesItemsPrefix</key>
+			<string>Prijs</string>
+		</dict>
+		<key>WarningCell</key>
+		<dict>
+			<key>PayAttention</key>
+			<string>Let op!</string>
+			<key>ThisIsMedicine</key>
+			<string>Dit is een geneesmiddel! Geneesmiddelen worden niet verkocht aan personen onder 16 jaar. Ook geldt er een maximum bestelhoeveelheid van 3 stuks per product.</string>
+		</dict>
+		<key>PriceAndLoyaltyCell</key>
+		<dict>
+			<key>EarnsLabel1</key>
+			<string>Earns you</string>
+			<key>EarnsLabel2</key>
+			<string>Spaarpunten</string>
+		</dict>
+		<key>ActionsCell</key>
+		<dict>
+			<key>AddToBasket</key>
+			<string>In winkelmand</string>
+			<key>ShareTextEnding</key>
+			<string>Te vinden in de Kruidvat APP en op de website.</string>
+			<key>ShareTextBeginning</key>
+			<string>Het volgende product wil ik met jou delen:</string>
+			<key>AddToBasketDigital</key>
+			<string>Voeg toe</string>
+		</dict>
+	</dict>
+	<key>SuperPopup</key>
+	<dict>
+		<key>CancelButtonTitleCancel</key>
+		<string>Annuleer</string>
+		<key>AcceptButtonTitleOk</key>
+		<string>Ok</string>
+	</dict>
+	<key>ShareContact</key>
+	<dict>
+		<key>TitleLabel</key>
+		<string>Gedeelde contacten</string>
+		<key>ShareButton</key>
+		<string>Ok</string>
+		<key>CancelButton</key>
+		<string>Annuleer</string>
+	</dict>
+	<key>LanguagePickerView</key>
+	<dict>
+		<key>TitleLabel</key>
+		<string>Select Language</string>
+		<key>SearchBarPlaceholder</key>
+		<string>Search</string>
+	</dict>
+	<key>Profile</key>
+	<dict>
+		<key>Logout</key>
+		<dict>
+			<key>Cancel</key>
+			<string>Annuleer</string>
+			<key>Ok</key>
+			<string>Log uit</string>
+			<key>Title</key>
+			<string></string>
+			<key>Message</key>
+			<string>Ingelogd als:</string>
+		</dict>
+		<key>BottomBarTitle</key>
+		<dict>
+			<key>Orders</key>
+			<string>Orders</string>
+			<key>Membership</key>
+			<string>Jouw extra voordeelkaart</string>
+			<key>Preferences</key>
+			<string>Voorkeuren</string>
+			<key>CreditCard</key>
+			<string>Creditcard</string>
+			<key>Addresses</key>
+			<string>Adressen</string>
+			<key>AdditionalAddresses</key>
+			<string>Favoriete winkels</string>
+		</dict>
+		<key>MenuItems</key>
+		<dict>
+			<key>Logout</key>
+			<string>Uitloggen</string>
+			<key>Version</key>
+			<string>Versie</string>
+			<key>TermsAndConditions</key>
+			<string>Algemene Voorwaarden</string>
+			<key>PrivacyStatement</key>
+			<string>Privacy beleid</string>
+			<key>Settings</key>
+			<string>Instellingen</string>
+			<key>LegalInfo</key>
+			<string>Voorwaarden</string>
+			<key>OnBoarding</key>
+			<string>Instructie video&apos;s</string>
+			<key>Service</key>
+			<string>Klantenservice</string>
+			<key>SelectPlatform</key>
+			<string>Selecteer platform</string>
+			<key>AppLanguage</key>
+			<string>App language</string>
+			<key>EditUser</key>
+			<string>Wijzig profiel</string>
+		</dict>
+		<key>BackBtnTitle</key>
+		<string>Klaar</string>
+		<key>OrderDetails</key>
+		<dict>
+			<key>CalendarReminderText</key>
+			<string>Reminder agenda</string>
+			<key>NavigationBarTitleText</key>
+			<string>Ordergegevens</string>
+		</dict>
+		<key>BottomCardViews</key>
+		<dict>
+			<key>Orders</key>
+			<dict>
+				<key>EmptyLabel</key>
+				<string>Geen bestellingen</string>
+				<key>PickUpStore</key>
+				<string>Ophalen in winkel</string>
+				<key>HomeDelivery</key>
+				<string>Thuisbezorging</string>
+			</dict>
+			<key>Membership</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				<string>Beëindig lidmaatschap</string>
+				<key>UnsavedDataAlertCloseAction</key>
+				<string>Sluiten</string>
+				<key>UnsavedDataAlertDontCloseAction</key>
+				<string>Niet sluiten</string>
+				<key>DeleteAlertMessage</key>
+				<string>Weet je het zeker dat je het lidmaatschap wilt beëindigen?</string>
+				<key>DeleteActionNo</key>
+				<string>Nee</string>
+				<key>DeleteActionOk</key>
+				<string>Ja</string>
+				<key>UnsavedDataAlertMessage</key>
+				<string>Niet alles is opgeslagen. Weet je zeker dat je dit venster wilt sluiten?</string>
+				<key>UnsavedDataAlertTitle</key>
+				<string>Weet je het zeker?</string>
+			</dict>
+			<key>Preferences</key>
+			<dict>
+				<key>UnsavedDataAlertCloseAction</key>
+				<string>Sluiten</string>
+				<key>UnsavedDataAlertDontCloseAction</key>
+				<string>Niet sluiten</string>
+				<key>UnsavedDataAlertMessage</key>
+				<string>Niet alles is opgeslagen. Weet je zeker dat je dit venster wilt sluiten?</string>
+				<key>UnsavedDataAlertTitle</key>
+				<string>Weet je het zeker?</string>
+			</dict>
+			<key>Address</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				<string>Verwijder adres</string>
+				<key>UnsavedDataAlertCloseAction</key>
+				<string>Sluiten</string>
+				<key>UnsavedDataAlertDontCloseAction</key>
+				<string>Niet sluiten</string>
+				<key>UnsavedDataAlertMessage</key>
+				<string>Niet alles is opgeslagen. Weet je zeker dat je dit venster wilt sluiten?</string>
+				<key>DeleteAlertMessage</key>
+				<string>Weet je zeker dat je het adres wilt verwijderen?</string>
+				<key>DeleteActionNo</key>
+				<string>Nee</string>
+				<key>ActivationText</key>
+				<string>Selecteer het adres door op de kaart te drukken</string>
+				<key>DeleteActionOk</key>
+				<string>Ja</string>
+				<key>UnsavedDataAlertTitle</key>
+				<string>Weet je het zeker?</string>
+				<key>AddNewText</key>
+				<string>Voeg nieuwe adres toe</string>
+			</dict>
+			<key>CreditCard</key>
+			<dict>
+				<key>DeleteAlertTitle</key>
+				<string>Verwijder creditcard</string>
+				<key>UnsavedDataAlertCloseAction</key>
+				<string>Sluiten</string>
+				<key>UnsavedDataAlertDontCloseAction</key>
+				<string>Niet sluiten</string>
+				<key>DeleteAlertMessage</key>
+				<string>Weet je het zeker dat je deze creditcard wilt verwijderen?</string>
+				<key>DeleteActionNo</key>
+				<string>Nee</string>
+				<key>DeleteActionOk</key>
+				<string>Ja</string>
+				<key>KeyboardDone</key>
+				<string>Klaar</string>
+				<key>UnsavedDataAlertMessage</key>
+				<string>Niet alles is opgeslagen. Weet je zeker dat je dit venster wilt sluiten?</string>
+				<key>UnsavedDataAlertTitle</key>
+				<string>Weet je het zeker?</string>
+			</dict>
+		</dict>
+		<key>EditProfile</key>
+		<dict>
+			<key>UnsavedDataAlertCloseAction</key>
+			<string>Sluit</string>
+			<key>UnsavedDataAlertDontCloseAction</key>
+			<string>Niet sluiten</string>
+			<key>UnsavedDataAlertMessage</key>
+			<string>Niet alles is opgeslagen. Weet je zeker dat je dit venster wilt sluiten?</string>
+			<key>UnsavedDataAlertTitle</key>
+			<string>Weet je het zeker?</string>
+		</dict>
+		<key>NavigationTitle</key>
+		<string>JOUW PROFIEL</string>
+	</dict>
+	<key>KruidvatProfile</key>
+	<dict>
+		<key>BottomCardViews</key>
+		<dict>
+			<key>Orders</key>
+			<dict>
+				<key>PickUpStore</key>
+				<string>Ophalen in winkel</string>
+				<key>HomeDelivery</key>
+				<string>Thuisbezorging</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>Shelf</key>
+	<dict>
+		<key>Search</key>
+		<dict>
+			<key>SearchPlaceHolder</key>
+			<string>ZOEK...</string>
+			<key>SearchPlaceHolderForVoice</key>
+			<string>HET LUISTEREN...</string>
+		</dict>
+		<key>PriceView</key>
+		<dict>
+			<key>From</key>
+			<string>Van</string>
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+		</dict>
+		<key>RichContent</key>
+		<dict>
+			<key>TitleText</key>
+			<string>Aanbevolen producten</string>
+		</dict>
+		<key>BarCodeView</key>
+		<dict>
+			<key>EnableCameraButtonTitle</key>
+			<string>Klik om camera aan te zetten</string>
+			<key>LabelText</key>
+			<string>Camera aan het initialiseren…</string>
+			<key>CantOpenCameraAlertTitile</key>
+			<string>Kan camera niet openen</string>
+			<key>CantOpenCameraAlertAction</key>
+			<string>Pas instellingen aan</string>
+			<key>CantOpenCameraAlertMessage</key>
+			<string>Geef de app toegang.</string>
+			<key>DidDetectErrorMessagePt1</key>
+			<string>Dit product hebben we niet in ons assortiment of barcode is op dit moment niet bekend.</string>
+			<key>CantOpenCameraAlertCancel</key>
+			<string>Annuleer</string>
+			<key>DidDetectErrorMessagePt2</key>
+			<string>is niet gevonden. Klik om nogmaals te scannen</string>
+		</dict>
+		<key>Categories</key>
+		<dict>
+			<key>Views</key>
+			<dict>
+				<key>Scale</key>
+				<dict>
+					<key>ClearText</key>
+					<string>CLEAR</string>
+					<key>NoRelevantProductText</key>
+					<string>No relevant products</string>
+				</dict>
+			</dict>
+			<key>ParentCatName</key>
+			<string></string>
+			<key>FiltersNames</key>
+			<dict>
+				<key>RatingsCatName</key>
+				<string>Beoordeling</string>
+				<key>PricesCatName</key>
+				<string>Prijs</string>
+				<key>MoreThan</key>
+				<string>More than</string>
+				<key>PromotionCatName</key>
+				<string>Acties</string>
+				<key>BrandsCatName</key>
+				<string>Merken</string>
+			</dict>
+			<key>ProductHasNoCategory</key>
+			<string>product heeft geen categorie</string>
+			<key>FilterCell</key>
+			<dict>
+				<key>ResetText</key>
+				<string>CLEAR ALL</string>
+			</dict>
+			<key>ProducNameLabelNotFound</key>
+			<string>Producten niet gevonden</string>
+			<key>PromotionCatName</key>
+			<string>Acties</string>
+			<key>BrandsCatName</key>
+			<string>Merken</string>
+			<key>SmartShelfTitle</key>
+			<string></string>
+		</dict>
+		<key>Buttons</key>
+		<dict>
+			<key>NoPermissionMicrophoneAlertNo</key>
+			<string>Annuleer</string>
+			<key>SuccessMicrophoneAlertMessage</key>
+			<string>Je kunt nu zoeken door in te spreken</string>
+			<key>NoPermissionMicrophoneAlertAction</key>
+			<string>Pas instellingen aan</string>
+			<key>NoPermissionMicrophoneAlertMessage</key>
+			<string>Geef de app toegang tot.</string>
+			<key>SuccessMicrophoneAlertTitle</key>
+			<string>Succesvol</string>
+			<key>NoPermissionMicrophoneAlertTitle</key>
+			<string>Kan microfoon niet gebruiken</string>
+			<key>ShowStatusLineMessage</key>
+			<string>Product bestaat niet in database</string>
+		</dict>
+		<key>OtherViews</key>
+		<dict>
+			<key>HomeDeliveryOnly</key>
+			<string>Alleen thuisbezorging mogelijk</string>
+			<key>MaxAvailable</key>
+			<string>Product niet beschikbaar</string>
+			<key>OutOfStockLabel</key>
+			<string>Product niet beschikbaar</string>
+		</dict>
+		<key>NavigationBar</key>
+		<dict>
+			<key>LoginText</key>
+			<string>Log in</string>
+			<key>SearchResult</key>
+			<string>Zoekresultaten</string>
+			<key>TitleLabel</key>
+			<string>Aanbevolen producten</string>
+			<key>AddAddressText</key>
+			<string>Toevoegen adres</string>
+			<key>AddStoreText</key>
+			<string>Toevoegen winkel</string>
+			<key>SetTitlleLabel</key>
+			<string>Aanbevolen producten</string>
+		</dict>
+		<key>BottomBar</key>
+		<dict>
+			<key>ShowCatName</key>
+			<string></string>
+			<key>SearchFieldText</key>
+			<string></string>
+		</dict>
+		<key>Share</key>
+		<dict>
+			<key>CantAddContactAlertTitle</key>
+			<string>Contact kan niet geopend worden</string>
+			<key>CantAddContactAlertAction</key>
+			<string>Pas instellingen aan</string>
+			<key>CantAddContactAlertOk</key>
+			<string>OK</string>
+			<key>CantAddContactAlertMessage</key>
+			<string>Geef de app toegang tot Contacten om contact te openen</string>
+		</dict>
+		<key>BasketView</key>
+		<dict>
+			<key>RegisterAndBuyText</key>
+			<string>LOG IN EN BESTEL</string>
+			<key>DeleteCartsAlertMessage</key>
+			<string>Weet je zeker dat je alle winkelmandjes wilt verwijderen?</string>
+			<key>DeleteCartAlertMessage</key>
+			<string>Weet je zeker dat je deze winkelmand wil verwijderen?</string>
+			<key>BuyButtonTitle</key>
+			<string>KOOP NU</string>
+			<key>buyButtonBottomTitleForNoAllow</key>
+			<string>(Omvatten bezorgkosten)</string>
+			<key>DeleteCartsAlertTitle</key>
+			<string>Verwijder alle winkelmandjes</string>
+			<key>DeleteCartAlertTitle</key>
+			<string>Verwijder winkelmand</string>
+			<key>BuyButtonUnavailable</key>
+			<string>Bestellen momenteel niet mogelijk</string>
+			<key>BuyButtonTitleForUserIsAnonymous</key>
+			<string>LOG IN EN BESTEL</string>
+			<key>BuyButtonTitleForMaintenance</key>
+			<string>CHECKOUT UNAVAILABLE</string>
+			<key>BuyButtonTitleClickToContinue</key>
+			<string>Klik hier om te bestellen</string>
+			<key>BasketLabelInited</key>
+			<string>0 producten</string>
+			<key>BuyButtonTitleForAllow</key>
+			<string>Koop nu</string>
+			<key>buyButtonTitleForNoAllow</key>
+			<string>MINIMAAL BESTELBEDRAG</string>
+			<key>DeleteAlertOk</key>
+			<string>Ja</string>
+			<key>BuyAvailableButtonTitle</key>
+			<string>Koop alleen beschikbaar </string>
+			<key>BuyButtonTitleForNotAllowPostfix</key>
+			<string>tot minimaal bestelbedrag</string>
+			<key>CellIndex</key>
+			<string>Huidige index =</string>
+			<key>BuyButtonTitleForMinimialOrderValue</key>
+			<string>MIN ORDER VALUE</string>
+			<key>DeleteAlertNo</key>
+			<string>Nee</string>
+			<key>BuyButtonTitleForNotAllowPrefix</key>
+			<string>Nog</string>
+		</dict>
+	</dict>
+	<key>Languages</key>
+	<dict>
+		<key>EnglishName</key>
+		<string>Dutch</string>
+		<key>LocalName</key>
+		<string>Nederlands</string>
+	</dict>
+	<key>Login</key>
+	<dict>
+		<key>SelectPlatformScreen</key>
+		<dict>
+			<key>ErrorAlertOk</key>
+			<string>Probeer ajb, opnieuw</string>
+			<key>NotReadyAlertTitle</key>
+			<string>Binnenkort beschikbaar</string>
+			<key>ErrorAlertTitle</key>
+			<string>Fout!</string>
+			<key>NotReadyAlertOk</key>
+			<string>OK</string>
+			<key>NotReadyAlertMessage</key>
+			<string>Database is niet beschikbaar</string>
+			<key>ScreenTitle</key>
+			<string>Selecteer platform</string>
+		</dict>
+		<key>WalkThroughScreen</key>
+		<dict>
+			<key>ThirdPage</key>
+			<dict>
+				<key>TopLabel</key>
+				<string>Vul de verificatiecode in die we per SMS hebben verzonden</string>
+				<key>WrongNumberButtonText</key>
+				<string>Controleer het nummer</string>
+			</dict>
+			<key>SecondPage</key>
+			<dict>
+				<key>LabelText</key>
+				<string>Hoi!
+
+Wat leuk dat je onze app hebt gedownload.
+Om de app te installeren, vragen we je telefoonnummer. We sturen dan eenmalig een inlogcode naar dit nummer.</string>
+				<key>MiddleLabelText</key>
+				<string>Waarom vragen we je om je telefoonnummer?
+
+We gebruiken je nummer eenmalig om je een unieke inlogcode te sturen. Ook herkennen we je in de toekomst aan dit nummer. Zo blijven jouw persoonlijke instellingen bewaard. 
+We gebruiken je telefoonnummer niet voor andere doeleinden dan deze.</string>
+				<key>ButtonText</key>
+				<string>Stuur SMS met code</string>
+			</dict>
+			<key>EmailAddress</key>
+			<dict>
+				<key>EmailErrorTextNotFound</key>
+				<string>Vul een geldig e-mailadres en wachtwoord in</string>
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				<key>BottomText</key>
+				<string>Nog geen account? Maak nu aan!</string>
+				<key>EmailPlaceholderText</key>
+				<string>Vul een geldig e-mailadres in</string>
+				<key>EmailErrorText</key>
+				<string>Voer een geldig e-mailadres in</string>
+				<key>MiddleText</key>
+				<string>Log in om toegang te krijgen tot je Kruidvat account.</string>
+				<key>TopLabelText</key>
+				<string>Jouw inloggegevens</string>
+				<key>PasswordErrorWrongPassword</key>
+				<string>Het wachtwoord is verkeerd</string>
+				<key>ContinueButtonText</key>
+				<string>LOG IN</string>
+				<key>RegisterButtonText</key>
+				<string>REGISTREER</string>
+				<key>InfoText</key>
+				<string>We gebruiken je mailadres om je te informeren over je bestellingen en in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.</string>
+			</dict>
+			<key>ValidatedSmsAlertOk</key>
+			<string>Probeer opnieuw</string>
+			<key>PhoneNumberAlertOk</key>
+			<string>Ok</string>
+			<key>ValidatedSmsAlertTitle</key>
+			<string>Tijdelijk geen verbinding. Probeer het later opnieuw.</string>
+			<key>Register</key>
+			<dict>
+				<key>WeakErrorText</key>
+				<string>Je wachtwoord dient 8 of meer tekens te bevatten waarvan minimaal 1 letter en 1 cijfer</string>
+				<key>PasswordErrorText</key>
+				<string>Wachtwoord is niet juist, probeer opnieuw.</string>
+				<key>EmailErrorEmailAlreadyUsed</key>
+				<string>Er bestaat al een account met dit mailadres</string>
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				<key>EmailErrorText</key>
+				<string>Voer een geldig e-mailadres in</string>
+				<key>EmailPlaceholderText</key>
+				<string>E-mail adres</string>
+				<key>PasswordPlaceholderText</key>
+				<string>Vul u wachtwoord in.</string>
+				<key>TopLabelText</key>
+				<string>Maak een nieuw account</string>
+				<key>MiddleText</key>
+				<string>Met een account heb je toegang tot al het leuks van deze app: shoppen, extra’s, deals en meer!</string>
+				<key>InfoLabelText</key>
+				<string>We gebruiken je mailadres om je te informeren over je bestellingen en in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.</string>
+			</dict>
+			<key>SentNumberAlertOk</key>
+			<string>Ok</string>
+			<key>ValidatedSmsAlertMessage</key>
+			<string>Vul de juiste code in </string>
+			<key>SentNumberAlertTitle</key>
+			<string>Sorry, er ging iets fout</string>
+			<key>ForgotPassword</key>
+			<dict>
+				<key>EmailErrorTextNotFound</key>
+				<string>Vul een geldig e-mailadres en wachtwoord in</string>
+				<key>MiddleSentText</key>
+				<string>We sturen naar dit mailadres een mail waarmee je een nieuw wachtwoord kunt maken</string>
+				<key>BottomText</key>
+				<string>Er is een e-mail verstuurd met instructie en link om een nieuw wachtwoord aan te maken.</string>
+				<key>ContinueSentText</key>
+				<string>OPNIEUW INLOGGEN</string>
+				<key>EmailPlaceholderText</key>
+				<string>E-mail adres</string>
+				<key>EmailErrorText</key>
+				<string>Voer een geldig e-mailadres in</string>
+				<key>MiddleText</key>
+				<string>We sturen u een reset link naar deze e-mail</string>
+				<key>TopLabelText</key>
+				<string>Vul je mailadres in</string>
+				<key>ContinueText</key>
+				<string>VERZENDEN</string>
+			</dict>
+			<key>LoyaltyCard</key>
+			<dict>
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				<key>WrongFormatError</key>
+				<string>Wrong JEVK-kaart format</string>
+				<key>BottomLabelText</key>
+				<string>Haal Jouw extra voordeelkaart gratis in de winkel</string>
+				<key>TopLabelText</key>
+				<string>Heeft u een Jouw Extra voordeel kaart?</string>
+				<key>MiddleLabelText</key>
+				<string>Heb je nog geen Jouw extra voordeelkaart?</string>
+				<key>ContinueButtonText</key>
+				<string>Ga door</string>
+				<key>PlaceholderText</key>
+				<string>Vul het kaartnummer in</string>
+				<key>WrongNumberError</key>
+				<string>Verkeerd JEVK-kaart number</string>
+			</dict>
+			<key>Final</key>
+			<dict>
+				<key>TopLabelText</key>
+				<string>Bedankt voor je registratie</string>
+				<key>MiddleLabelText</key>
+				<string>We sturen je een mail met je inloggegevens</string>
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+			</dict>
+			<key>EmailAddressPassword</key>
+			<dict>
+				<key>PasswordErrorText</key>
+				<string>Wachtwoord is niet juist, probeer opnieuw.</string>
+				<key>TopLabelText</key>
+				<string>Log in met je wachtwoord</string>
+				<key>PlaceholderText</key>
+				<string>Vul een geldig wachtwoord in</string>
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				<key>ForgotButtonText</key>
+				<string>Wachtwoord vergeten?</string>
+				<key>InfoLabelText</key>
+				<string>Er is een e-mail verstuurd met instructie en link om een nieuw wachtwoord aan te maken.</string>
+			</dict>
+			<key>FourthPage</key>
+			<dict>
+				<key>LabelLink4Name</key>
+				<string>Licentieovereenkomst eindgebruiker (EULA)</string>
+				<key>LabelLink4Address</key>
+				<string></string>
+				<key>TryAgain</key>
+				<string>Probeer opnieuw</string>
+				<key>UpdatedLabelText</key>
+				<string>Ons Privacybeleid en de Privacyvoorkeuren zijn onlangs veranderd. Wil je je afmelden voor onze aanbiedingen, ga dan naar de Privacyvoorkeuren en selecteer de opties waarvoor je je wil afmelden. Doe je niets dan gaan we ervan uit dat je graag op de hoogte blijft van onze voordeelaanbiedingen!</string>
+				<key>TopLabel</key>
+				<string>Dit is de nieuwe Kruidvat app! 
+Je kunt nu met de app shoppen!</string>
+				<key>UpdatedLabelLink1Name</key>
+				<string>Privacyvoorkeuren</string>
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+				<key>LabelText</key>
+				<string>Als je doorgaat bevestig je dat je op de hoogte bent van en akkoord gaat met ons Privacybeleid en onze Algemene Voorwaarden</string>
+				<key>UpdatedLabelLink1Address</key>
+				<string></string>
+				<key>LabelLink1Name</key>
+				<string>Privacybeleid</string>
+				<key>WelcomeLabel</key>
+				<string>Hé hallo!</string>
+				<key>UpdatedContinueButtonText</key>
+				<string>VOLGENDE</string>
+				<key>LabelLink2Name</key>
+				<string>Algemene Voorwaarden</string>
+				<key>RegistrationError</key>
+				<string>Onbekende fout</string>
+				<key>UpdatedTopLabel</key>
+				<string>Er is iets veranderd!</string>
+				<key>LabelLink1Address</key>
+				<string></string>
+				<key>LabelLink2Address</key>
+				<string></string>
+			</dict>
+			<key>PhoneNumberAlertMessage</key>
+			<string>Vul het juiste nummer in</string>
+			<key>SentNumberAlertMessage</key>
+			<string>Probeer opnieuw</string>
+			<key>CollectUserDetails</key>
+			<dict>
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				<key>TopLabelText</key>
+				<string>Vertel ons wie je bent</string>
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+			</dict>
+			<key>CollectUserAddress</key>
+			<dict>
+				<key>SkipButtonText</key>
+				<string>Voltooi later</string>
+				<key>CheckButtonText</key>
+				<string>Controleer</string>
+				<key>ContinueButtonCheckText</key>
+				<string>Controleer</string>
+				<key>TopLabelText</key>
+				<string>Wat is je adres</string>
+				<key>ContinueButtonText</key>
+				<string>GA DOOR</string>
+			</dict>
+		</dict>
+		<key>Relogin</key>
+		<dict>
+			<key>Tittle</key>
+			<string>Je sessie is verlopen</string>
+			<key>OkText</key>
+			<string>Verder te gaan</string>
+			<key>Message</key>
+			<string>Log opnieuw in om verder te gaan</string>
+		</dict>
+		<key>PermissionScreen</key>
+		<dict>
+			<key>AllowAccessToContacts</key>
+			<string>Toegang tot contacten</string>
+			<key>EnjoySharingBasketsWithYourFriendsAndFamily</key>
+			<string>Je kunt je winkelmand delen met vrienden en familie!</string>
+			<key>HiThere</key>
+			<string>Hallo daar :)
+        </string>
+			<key>AllowAccessToPushNotifications</key>
+			<string>Toegang tot pushberichten</string>
+		</dict>
+	</dict>
+	<key>MandatoryUpdate</key>
+	<dict>
+		<key>Title</key>
+		<string>Update 
+beschikbaar</string>
+		<key>Description</key>
+		<string>Er is een nieuwe versie van de 
+Kruidvat app beschikbaar.
+Download de update nu voor een 
+verbeterde app ervaring.</string>
+		<key>Continue</key>
+		<string>NU DOWNLOADEN</string>
+	</dict>
+	<key>DailyDeals</key>
+	<dict>
+		<key>Days</key>
+		<string>dagen</string>
+		<key>Day</key>
+		<string>dag</string>
+		<key>ForExampleButtonText</key>
+		<string>REGISTREER KAART</string>
+		<key>ButtonLabelExtra</key>
+		<string>VIEW OFFER</string>
+		<key>ButtonLabelInactive</key>
+		<string>ACTIVEER</string>
+		<key>ForExampleText</key>
+		<string>VOORBEELD</string>
+		<key>ButtonLabelActive1</key>
+		<string>IN WINKELMAND</string>
+		<key>ButtonLabelUrl</key>
+		<string>BESTEL NU</string>
+		<key>TimerLabelTextActive</key>
+		<string>Geldig voor </string>
+		<key>ButtonLabelPromotion</key>
+		<string>BEKIJK ASSORTIMENT</string>
+		<key>TimerLabelTexInactive</key>
+		<string>Deze deal verloopt over </string>
+		<key>ButtonLabelActive3</key>
+		<string>BEKIJK ACTIE</string>
+		<key>ButtonLabelInStore</key>
+		<string>ALLEEN IN DE WINKEL TE VERKRIJGEN</string>
+		<key>ButtonLabelExpired</key>
+		<string>UITGEVOERD</string>
+		<key>ButtonLabelActive2</key>
+		<string>Geactiveerd</string>
+		<key>NoDeals</key>
+		<string>Sorry, nog geen dagdeals! Probeer het later nog eens</string>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>shelf</key>
+		<string>shelf</string>
+		<key>Or</key>
+		<string>or</string>
+	</dict>
+	<key>SuperViewController</key>
+	<dict>
+		<key>StatusLineMessageTitle</key>
+		<string>Verberg</string>
+	</dict>
+	<key>Purchase</key>
+	<dict>
+		<key>SummaryCell</key>
+		<dict>
+			<key>DigitalBlockHeaderText</key>
+			<string>Digitale producten</string>
+			<key>HomeDelivery</key>
+			<string>Thuisbezorging</string>
+			<key>TimeslotBlockHeaderText</key>
+			<string>Bezorgdatum</string>
+			<key>PickUpStore</key>
+			<string>Ophalen in winkel</string>
+			<key>DeliveryTime</key>
+			<string>Bezorgdatum</string>
+			<key>DigitalBlockLabelText</key>
+			<string>Dit product wordt verzonden naar jouw e-mailadres</string>
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+		</dict>
+		<key>AttachMembershipHeader</key>
+		<string>Jouw Extra Voordeelkaart</string>
+		<key>PurchaseHeader</key>
+		<dict>
+			<key>DetailsDictionaryNone</key>
+			<dict>
+				<key>Delivery</key>
+				<string>Kies bezorgtijd</string>
+				<key>Shop</key>
+				<string>Kies winkel</string>
+				<key>ShippingMethod</key>
+				<string>Kies bezorgwijze</string>
+				<key>Address</key>
+				<string>Kies locatie</string>
+				<key>CreditCard</key>
+				<string>Selecteer creditcard</string>
+				<key>PickUpStore</key>
+				<string>Ophalen in winkel</string>
+				<key>HomeDelivery</key>
+				<string>Thuisbezorging</string>
+			</dict>
+			<key>GiftCardValueLeft</key>
+			<string>Euro left</string>
+			<key>HeaderLabel</key>
+			<string>Overzicht</string>
+			<key>GiftCard</key>
+			<string>Cadeaukaart</string>
+			<key>DetailsDictionary</key>
+			<dict>
+				<key>Delivery</key>
+				<string>Kies bezorgtijd</string>
+				<key>Shop</key>
+				<string>Kies winkel</string>
+				<key>ShippingMethod</key>
+				<string>Kies bezorgwijze</string>
+				<key>MinimalOrderSufix</key>
+				<string>euro om je order af te ronden</string>
+				<key>MinimalOrderPrefix</key>
+				<string>Besteed minimaal</string>
+				<key>Address</key>
+				<string>Kies adres</string>
+				<key>CreditCard</key>
+				<string>Selecteer credit card</string>
+			</dict>
+			<key>LastProductAlertMessage</key>
+			<string>Je kan het laatste product niet verwijderen</string>
+			<key>NavigationTitle</key>
+			<string>Selecteer vervanging</string>
+			<key>PreviewLikeActionTitle</key>
+			<string>Vind ik leuk</string>
+			<key>LastProductAlertTitle</key>
+			<string>Let op</string>
+			<key>PreviewDeleteActionTitle</key>
+			<string>Verwijder</string>
+		</dict>
+		<key>OrderSummaryVC</key>
+		<dict>
+			<key>Labels</key>
+			<dict>
+				<key>Delivery</key>
+				<string>Bezorgen</string>
+				<key>Total</key>
+				<string>Totaal</string>
+				<key>Discount</key>
+				<string>Korting</string>
+				<key>Price</key>
+				<string>Prijs</string>
+			</dict>
+			<key>HeaderLabel</key>
+			<string>ORDEROVERZICHT</string>
+			<key>TextIncomplete</key>
+			<string>Sommige bestellingen zijn niet compleet</string>
+			<key>TextComplete</key>
+			<string>Plaats bestelling</string>
+			<key>SummaryItem</key>
+			<string>Winkelmand nummer</string>
+			<key>BottomLabelFakeView</key>
+			<string>Onvolledige bestellingen blijven in winkelmand</string>
+		</dict>
+		<key>ProblematicHeader</key>
+		<string>AANDACHT VEREIST</string>
+		<key>ConfirmButtonTitle</key>
+		<string>Verder winkelen</string>
+		<key>FinishView</key>
+		<dict>
+			<key>NoPermissionAlertMessage</key>
+			<string></string>
+			<key>NoPermissionAlertChange</key>
+			<string>Wijzig keuze</string>
+			<key>ReminderLabel</key>
+			<string>Reminder toevoegen aan kalender</string>
+			<key>BottomTextLabel</key>
+			<string>Geen ons een beoordeling!</string>
+			<key>NoPermissionAlertTitle</key>
+			<string>Geen rechten</string>
+			<key>CalendarEventDeliveryTitleText</key>
+			<string>Bezorging Kruidvat pakket</string>
+			<key>MiddleTextContactCustomerServiceLink</key>
+			<string>https://www.kruidvat.nl/service</string>
+			<key>CalendarEventTitleText</key>
+			<string>Verzending van</string>
+			<key>NoPermissionAlertDontChange</key>
+			<string>Niet aanpassen</string>
+			<key>UrlToShareTheApp</key>
+			<string>itms://itunes.apple.com/nl/app/kruidvat-mobiele-app/id531631058?l=en&amp;mt=8</string>
+			<key>TopTextFailedLabel</key>
+			<string>Sorry, de betaling is niet gelukt </string>
+			<key>MiddleTextPaymentTimeOutLabel</key>
+			<string>Je bestelling is geplaatst. We gaan ermee aan de slag. Vragen? Onze klantenservice helpt je graag.</string>
+			<key>MiddleTextPaymentFailedLabel</key>
+			<string>Helaas is het betalen niet gelukt. Probeer nog een keer of neem contact op met onze klantenservice.</string>
+			<key>MiddleTextPaymentCanceledLabel</key>
+			<string>Helaas is het betalen niet gelukt. Probeer nog een keer</string>
+			<key>TopTextLabel</key>
+			<string>Bedankt voor het winkelen met Kruidvat NL!</string>
+			<key>TopTextProseccingLabel</key>
+			<string>Je hebt besteld. We gaan ermee aan de slag</string>
+			<key>MiddleTextContactCustomerServiceText</key>
+			<string>neem contact op met onze klantenservice</string>
+			<key>CalendarEventPickupTitleText</key>
+			<string>Kruidvat pakket af te halen in winkel</string>
+			<key>MiddleTextLabel</key>
+			<string>We zijn met je bestelling bezig. We laten je weten als deze wordt verzonden.</string>
+		</dict>
+		<key>ItemsInCartHeader</key>
+		<string>PRODUCTEN IN WINKELMAND</string>
+		<key>CheckOutCell</key>
+		<dict>
+			<key>HighVAT</key>
+			<string>Btw hoog</string>
+			<key>HeaderLabel</key>
+			<string>ORDEROVERZICHT</string>
+			<key>LowVAT</key>
+			<string>Btw laag</string>
+			<key>HeaderLabelSummaryScreen</key>
+			<string>Overzicht order(s)</string>
+			<key>HaveEarnedPoints</key>
+			<string>Je hebt punten gespaard</string>
+			<key>AttachMembershipCard</key>
+			<string>Jouw Extra Voordeelkaart</string>
+			<key>DiscountLabel</key>
+			<string>Korting</string>
+			<key>Items</key>
+			<string>artikel(en)</string>
+			<key>DeliveryLabel</key>
+			<string>Verzendkosten</string>
+			<key>PriceLabel</key>
+			<string>Prijs</string>
+			<key>SummuryLabelText</key>
+			<string>OVERZICHT</string>
+			<key>TotalLabel</key>
+			<string>TOTAAL</string>
+			<key>DeliveryInfo</key>
+			<string>Gratis thuisbezorgd vanaf 50 euro</string>
+			<key>CouldEarnPoints</key>
+			<string>Aantal punten</string>
+			<key>SkipButtonTitleChecked</key>
+			<string>Sla deze order over</string>
+			<key>SkipButtonTitleUnchecked</key>
+			<string>Aantal order zijn niet compleet</string>
+			<key>DiscountButton</key>
+			<string>Gebruik een cadeaukaart</string>
+			<key>PointAbbreviation</key>
+			<string>pt</string>
+		</dict>
+		<key>PleaseWait</key>
+		<string>Wachten aub...</string>
+		<key>Summary</key>
+		<dict>
+			<key>TitleText</key>
+			<string>OVERZICHT BESTELLING</string>
+		</dict>
+		<key>BottomPanel</key>
+		<dict>
+			<key>AttachMembership</key>
+			<string>Scan Voordeelkaart</string>
+			<key>Normal</key>
+			<string>Koop nu</string>
+			<key>MinimalOrderTopText</key>
+			<string>MINIMAAL BESTELBEDRAG</string>
+			<key>Product</key>
+			<string>Product</string>
+			<key>ChangeTextAtBottomPanelTopLabel</key>
+			<string>Accepteer</string>
+			<key>ShippingMethod</key>
+			<string>Kies bezorgwijze</string>
+			<key>AddGiftCard</key>
+			<string>Scan cadeaukaart</string>
+			<key>Delivery</key>
+			<string>Kies bezorgtijd</string>
+			<key>Shop</key>
+			<string>Kies winkel</string>
+			<key>MinimalOrderBottomText</key>
+			<string>(Excl. verzendkosten)</string>
+			<key>PayAndPlaceOrder</key>
+			<string>Betaal en plaats bestelling</string>
+			<key>Address</key>
+			<string>Kies adres</string>
+			<key>NotAvailable</key>
+			<string>is momentell niet leverbaar</string>
+			<key>CreditCard</key>
+			<string>Selecteer credit card</string>
+		</dict>
+		<key>AddGiftCardHeader</key>
+		<string>Gebruik een cadeaukaart</string>
+		<key>ShippingDetailsHeader</key>
+		<string>DETAILS BESTELLING</string>
+		<key>MethodPicker</key>
+		<dict>
+			<key>ShippingMethod</key>
+			<string>Kies bezorgwijze</string>
+			<key>HomeDeliveryOnly</key>
+			<string>Sommige producten kunnen alleen thuis bezorgd worden</string>
+			<key>PickUpStore</key>
+			<string>Ophalen in winkel</string>
+			<key>HomeDelivery</key>
+			<string>Thuisbezorging</string>
+		</dict>
+		<key>DigitalTicketInfo</key>
+		<string>Dit product wordt verzonden naar jouw e-mailadres</string>
+		<key>AlternativeProducts</key>
+		<string>Alternatieve producten</string>
+		<key>NavigationBarTitle</key>
+		<string>ORDEROVERZICHT</string>
+		<key>ProductCell</key>
+		<dict>
+			<key>ProductsCount0</key>
+			<string>0 artikel(en)</string>
+			<key>ProductsCountSingle</key>
+			<string>Product</string>
+			<key>ProductsCountPlural</key>
+			<string>Producten</string>
+			<key>NotAvailableProduct</key>
+			<string>Niet beschikbaar product</string>
+			<key>DigitalTicket</key>
+			<string>Je ontvangt dit product per mail</string>
+			<key>DeliveryLabel</key>
+			<string>Alleen thuisbezorging mogelijk</string>
+			<key>TotalLabel</key>
+			<string>Totaal</string>
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+			<key>AtStock</key>
+			<string>op voorraad</string>
+			<key>FormatterForm</key>
+			<string>Voor dit artikel</string>
+			<key>SavingsLabel</key>
+			<string>Korting</string>
+		</dict>
+		<key>InfoPopup</key>
+		<dict>
+			<key>DigitalBlockHeaderText</key>
+			<string>Digitale producten</string>
+			<key>HomeDelivery</key>
+			<string>Thuisbezorging</string>
+			<key>PickUpStore</key>
+			<string>Ophalen in winkel</string>
+			<key>DeliveryTime</key>
+			<string>Bezorgdatum</string>
+			<key>DigitalBlockLabelText</key>
+			<string>Dit product wordt verzonden naar jouw e-mailadres</string>
+			<key>NotAvailable</key>
+			<string>Niet beschikbaar</string>
+		</dict>
+	</dict>
+	<key>OrderHistory</key>
+	<dict>
+		<key>ShippingDetails</key>
+		<dict>
+			<key>TimeslotTitleLabel</key>
+			<string>Verzendkosten</string>
+			<key>PickUpStore</key>
+			<string>Ophalen in winkel</string>
+			<key>HomeDelivery</key>
+			<string>Thuisbezorging</string>
+		</dict>
+		<key>ItemsPurchasedHeader</key>
+		<string>Producten gekocht</string>
+		<key>ShippingDetailsHeader</key>
+		<string>Details Bestelling</string>
+		<key>HeaderCell</key>
+		<dict>
+			<key>ServiceLink</key>
+			<string>https://www.kruidvat.nl/service</string>
+			<key>LoadItemsText</key>
+			<string>Bestel opnieuw</string>
+			<key>ContactServiceText</key>
+			<string>Klanten service</string>
+			<key>CalendarReminderText</key>
+			<string>Voeg toe aan agenda</string>
+			<key>DeliveryText</key>
+			<string>TRACK &amp; TRACE</string>
+			<key>PickupText</key>
+			<string>Afhaalbewijs</string>
+		</dict>
+		<key>SummaryCell</key>
+		<dict>
+			<key>HighVAT</key>
+			<string>Hoge BTW</string>
+			<key>HeaderLabel</key>
+			<string>Overzicht</string>
+			<key>LowVAT</key>
+			<string>Btw laag</string>
+			<key>HeaderLabelSummaryScreen</key>
+			<string>Overzicht order(s)</string>
+			<key>ProductsCountPlural</key>
+			<string>Producten</string>
+			<key>AttachMembershipCard</key>
+			<string>Jouw Extra Voordeelkaart</string>
+			<key>ProductsCount0</key>
+			<string>0 artikel(en)</string>
+			<key>ProductsCountSingle</key>
+			<string>Product</string>
+			<key>DeliveryLabel</key>
+			<string>Bezorging</string>
+			<key>PriceLabel</key>
+			<string>Prijs</string>
+			<key>TotalLabel</key>
+			<string>Totaal</string>
+			<key>CouldEarnPoints</key>
+			<string>Aantal punten</string>
+			<key>SkipButtonTitleChecked</key>
+			<string>Sla deze order over</string>
+			<key>DiscountLabel</key>
+			<string>Korting</string>
+			<key>SkipButtonTitleUnchecked</key>
+			<string>Aantal order zijn niet compleet</string>
+			<key>DiscountButton</key>
+			<string>Heeft u een kortingscode?</string>
+			<key>Points</key>
+			<string>Punten</string>
+		</dict>
+		<key>NavigationBarTitle</key>
+		<string>Orderoverzicht</string>
+	</dict>
+	<key>HomePage</key>
+	<dict>
+		<key>Telephone</key>
+		<string>TELEFOON</string>
+		<key>Whatsapp</key>
+		<string>WHATSAPP</string>
+		<key>NewMapVCBackButtonTitle</key>
+		<string>Terug</string>
+		<key>ShoppingViewTitle</key>
+		<string>Klik hier om te winkelen</string>
+		<key>ReportFeedbackView</key>
+		<dict>
+			<key>TitleLabelText</key>
+			<string>Report a problem</string>
+			<key>ConfirmContactLabelText</key>
+			<string>I confirm to contact about the problem I experienced</string>
+			<key>TextViewPlaceholder</key>
+			<string>Tell us what’s wrong</string>
+		</dict>
+		<key>Report</key>
+		<string>REPORT</string>
+		<key>LoadingTitle</key>
+		<string>BEZIG MET LADEN</string>
+		<key>Cells</key>
+		<dict>
+			<key>Folder</key>
+			<dict>
+				<key>BottomLabelText</key>
+				<string>Profiteer nu</string>
+				<key>CloseButtonText</key>
+				<string>Doorgaan</string>
+				<key>TopLabelText</key>
+				<string>KRUIDVAT
+FOLDER</string>
+				<key>MiddleLabelText</key>
+				<string>Bekijk alle acties
+van deze week!</string>
+			</dict>
+			<key>Location</key>
+			<dict>
+				<key>TopLabel</key>
+				<string>Dichstbijzijnde winkel</string>
+				<key>Register</key>
+				<string>LOG IN</string>
+				<key>NearestStoreLabel</key>
+				<string>Klik hier om de dichtbijzijnde winkel te zoeken.</string>
+				<key>FindNearestLabel</key>
+				<string>VIND DE DICHTSTBIJZIJNDE WINKEL ...</string>
+				<key>CompleteRegistration</key>
+				<string>Rond de activatie af om de dichtstbijzijnde winkel te vinden</string>
+				<key>DoYouKnow</key>
+				<string>Zoek je de dichtstbijzijnde winkel? Geef ons toestemming om je locatie te zien</string>
+				<key>FindStore</key>
+				<string>Vind winkel</string>
+				<key>OpenStoreLocator</key>
+				<string>WINKEL ZOEKEN</string>
+				<key>AllowAccess</key>
+				<string>Geef ons toegang tot uw locatie om uw ervaring te verbeteren.</string>
+			</dict>
+			<key>BestSellers</key>
+			<dict>
+				<key>CartButtonTitle</key>
+				<string>In winkelmand</string>
+				<key>BestSellersLabel</key>
+				<string>Waarschijnlijk vind je dit ook leuk…</string>
+			</dict>
+			<key>MembershipCell</key>
+			<dict>
+				<key>Points</key>
+				<string>pt</string>
+				<key>GreatToSeeYou</key>
+				<string>Wat fijn je te zien!</string>
+				<key>Register</key>
+				<string>LOG IN</string>
+				<key>Hi</key>
+				<string>Hallo</string>
+				<key>Hi!</key>
+				<string>Hallo!</string>
+				<key>OnlyClub</key>
+				<string>Spaar punten en krijg exclusieve extra’s</string>
+				<key>AttachCard</key>
+				<string>JOUW KAART</string>
+				<key>CompleteRegistration</key>
+				<string>Maak nu een account aan. Je krijgt toegang tot alle extra’s van deze app</string>
+				<key>WantToEnjoy</key>
+				<string>Wil jij ook exclusieve extra&apos;s? Haal je gratis Jouw extra voordeelkaart op in de dichtstbijzijnde winkel</string>
+			</dict>
+		</dict>
+		<key>NewShopListVCSearchBarPlaceholder</key>
+		<string>Zoek dichtstbijzijnde winkel</string>
+		<key>RichNotFound</key>
+		<string>Rich content niet gevonden</string>
+		<key>FAQ</key>
+		<string>FAQ</string>
+		<key>NewShopDescrView</key>
+		<dict>
+			<key>Mon</key>
+			<string>Ma</string>
+			<key>Saturday</key>
+			<string>Zaterdag</string>
+			<key>Sat</key>
+			<string>Zat</string>
+			<key>MakeFavoriteButtonText</key>
+			<string>Favoriet</string>
+			<key>Thursday</key>
+			<string>Donderdag</string>
+			<key>Friday</key>
+			<string>Vrijdag</string>
+			<key>Wed</key>
+			<string>Wo</string>
+			<key>Wednesday</key>
+			<string>Woensdag</string>
+			<key>Monday</key>
+			<string>Maandag</string>
+			<key>Thu</key>
+			<string>Do</string>
+			<key>Tue</key>
+			<string>Di</string>
+			<key>StorePhoneTitleLabel</key>
+			<string>Sla telefoon op</string>
+			<key>AddressTitleLabel</key>
+			<string>Adres</string>
+			<key>Tuesday</key>
+			<string>Dinsdag</string>
+			<key>Sunday</key>
+			<string>Zondag</string>
+			<key>Fri</key>
+			<string>Vrij</string>
+			<key>Sun</key>
+			<string>Zon</string>
+		</dict>
+	</dict>
+	<key>VersionService</key>
+	<dict>
+		<key>Title</key>
+		<string>Er is een nieuwe versie van de Kruidvat app beschikbaar</string>
+		<key>ButtonTitle</key>
+		<string>Nu downloaden</string>
+		<key>Message</key>
+		<string>Download de update nu voor een verbeterde app ervaring.</string>
+	</dict>
+	<key>AddressPopup</key>
+	<dict>
+		<key>ValidationAlertTitle</key>
+		<string>Sorry, validate is niet gelukt</string>
+		<key>CurrentLocationAlertTitle</key>
+		<string>Huidige locatie</string>
+		<key>NoPermissionAlertTitle</key>
+		<string>Geen rechten</string>
+		<key>HousePlaceholder</key>
+		<string>Huis</string>
+		<key>ValidationAlertMessage</key>
+		<string>Controleer het adres</string>
+		<key>CurrentLocationAlertOk</key>
+		<string>Ja</string>
+		<key>CheckButtonText</key>
+		<string>Controleer</string>
+		<key>NoPermissionAlertMessage</key>
+		<string>Je hebt de toegang tot je locatie geweigerd, wil je dat zo houden?</string>
+		<key>ZipCodePlaceholder</key>
+		<string>Postcode</string>
+		<key>ApartmentPlaceholder</key>
+		<string>Toevoeging</string>
+		<key>CurrentLocationAlertNo</key>
+		<string>Nee</string>
+		<key>OfficeButtonTitle</key>
+		<string>Werk</string>
+		<key>AddressExistsError</key>
+		<string>Dit adres is al in gebruik. Probeer Opnieuw</string>
+		<key>InfoLabelText</key>
+		<string>We gebruiken je adres om te zorgen dat je we je bestelling op de juiste locatie bezorgen. En in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.</string>
+		<key>NamePlaceholder</key>
+		<string>Naam</string>
+		<key>FloorPlaceholder</key>
+		<string>Verdieping</string>
+		<key>OtherButtonTitle</key>
+		<string>Overig</string>
+		<key>NoPermissionAlertChange</key>
+		<string>Wijzig keuze</string>
+		<key>NoPermissionAlertDontChange</key>
+		<string>Niet aanpassen</string>
+		<key>CurrentLocationAlertMessage</key>
+		<string>Wil je de huidige locatie gebruiken voor het automatisch invullen van je adresgegevens?</string>
+		<key>CityPlaceholder</key>
+		<string>Plaats</string>
+		<key>HomeButtonTitle</key>
+		<string>Thuis</string>
+		<key>SearchBarPlaceholder</key>
+		<string>Zoek</string>
+		<key>MyLocationButton</key>
+		<string>Gebruik huidige locatie</string>
+		<key>ValidationAlertOk</key>
+		<string>Probeer opnieuw</string>
+		<key>StreetPlaceholder</key>
+		<string>Straat</string>
+	</dict>
+	<key>Notifications</key>
+	<dict>
+		<key>NewProduct</key>
+		<string>Voeg nieuw product toe aan gedeelde winkelmand</string>
+		<key>IsAdd</key>
+		<string>Toegevoegd</string>
+		<key>ToSharedBasket</key>
+		<string>Aan je gedeelde winkelmand</string>
+		<key>ThisIsMedicine</key>
+		<string>Dit is een medicijn.
+Voor meer infomatie, Klik hier</string>
+		<key>PayAttention</key>
+		<string>Let op!</string>
+		<key>Items</key>
+		<string>Producten </string>
+		<key>MaintenanceMode</key>
+		<string>Sorry, we zijn bezig met onderhoud. Kom je later terug</string>
+		<key>IsRemoved</key>
+		<string>Verwijderd</string>
+		<key>AddedPrefix</key>
+		<string>Aan</string>
+		<key>CheckOutPromo</key>
+		<string>Bekijk ons actieproduct</string>
+		<key>IsSharingCartWithYou</key>
+		<string>Deelt winkelmand met jou</string>
+		<key>RemovedPrefix</key>
+		<string>Van</string>
+		<key>UpdateProductShort</key>
+		<string>Werk product bij</string>
+		<key>AddEvent</key>
+		<string>Toevoegen</string>
+		<key>RemovedProduct</key>
+		<string>Verwijder product uit je gedeelde winkelmand</string>
+		<key>WithPhoneNumber</key>
+		<string>Met telefoonnummer:</string>
+		<key>HasRenamedBasket</key>
+		<string>Heeft naam gedeelde winkelmand aangepast</string>
+		<key>Basket</key>
+		<string>Winkelmand</string>
+		<key>UpdateProduct</key>
+		<string>Werk producten bij in je gedeelde winkelmand</string>
+		<key>AddedYouTo</key>
+		<string>Toegevoegd door jou</string>
+		<key>RemoveEvent</key>
+		<string>Verwijder</string>
+	</dict>
+	<key>UserEditPopup</key>
+	<dict>
+		<key>PasswordStrength4</key>
+		<string>Sterk</string>
+		<key>PickerRemoveTitle</key>
+		<string>Verwijder afbeelding</string>
+		<key>PickerGalleryTitle</key>
+		<string>Gallerij</string>
+		<key>PasswordStrength1</key>
+		<string>      </string>
+		<key>InfixNamePlaceholder</key>
+		<string>Tussenvoegsel</string>
+		<key>BirthdayPlaceholder</key>
+		<string>Geboortedatum</string>
+		<key>EmptyErrorText</key>
+		<string>Kan niet leeg zijn</string>
+		<key>GenderGDPRText</key>
+		<string>We gebruiken je gender om je op de juiste manier aan te kunnen spreken en om te zorgen dat je aanbiedingen krijgt die bij je passen.</string>
+		<key>EmailValidationError</key>
+		<string>Controleer het mailadres</string>
+		<key>LastNamePlaceholder</key>
+		<string>Achternaam</string>
+		<key>BirthDateGDPRText</key>
+		<string>We gebruiken je geboortedatum om je leeftijd te controleren. Soms is dit wettelijk nodig. In sommige gevallen gebruiken we je geboortedatum om je aanbiedingen en nieuws passend bij je leeftijd aan te bieden.</string>
+		<key>NoPermissionAlertCancel</key>
+		<string>Niet aanpassen</string>
+		<key>AgeWarningMessageLabelText</key>
+		<string>Ben je onder de 16? Leuk dat je deze app wilt gebruiken! Je hebt wel toestemming van je ouders nodig.</string>
+		<key>ResetPassword</key>
+		<string>Wachtwoord vergeten?</string>
+		<key>PassportIdPlaceholder</key>
+		<string>Paspoortnummer</string>
+		<key>PasswordGDPRText</key>
+		<string></string>
+		<key>EmailPlaceholder</key>
+		<string>Mailadres</string>
+		<key>WeakErrorText</key>
+		<string>Je wachtwoord dient 8 of meer tekens te bevatten waarvan minimaal 1 letter en 1 cijfer</string>
+		<key>PasswordErrorText</key>
+		<string>Controleer je nummer</string>
+		<key>PasswordDescription</key>
+		<string>Hou bij het kiezen van je wachtwoord rekening met het volgende: 1. Maak een wachtwood met minstens 8 tekens. 2. Gebruik minstens 1 letter in je wachtwood. 3. Gebruik minstens 1 cijfer in je wachtwood</string>
+		<key>PhoneNumberPlaceholder</key>
+		<string>Telefoonnummer</string>
+		<key>NoPermissionAlertPhotosMessage</key>
+		<string>Je hebt geen toegang gegeven tot je foto&apos;s. Wil je dat zo houden?</string>
+		<key>MaleGender</key>
+		<string>MAN</string>
+		<key>FemaleGender</key>
+		<string>VROUW</string>
+		<key>InfoLabelText</key>
+		<string>We gebruiken je geboortedatum als het nodig is om je leeftijd te controleren. Ook kunnen we je op basis van je leeftijd en geslacht passende acties, cadeaus en evenementen aanbieden. </string>
+		<key>NoPermissionAlertCameraMessage</key>
+		<string>Mogen we je camera gebruiken? Klik hier om toestemming te geven.</string>
+		<key>FirstNamePlaceholder</key>
+		<string>Voornaam</string>
+		<key>PasswordStrength3</key>
+		<string>Niet sterk</string>
+		<key>NoPermissionAlertOk</key>
+		<string>Wijzig keuze</string>
+		<key>PhoneNumberDescription</key>
+		<string>We gebruiken je telefoonnummer als we contact met je op moeten nemen over je bestelling en in sommige gevallen om je te informeren over speciale evenementen.</string>
+		<key>NoPermissionAlertTitle</key>
+		<string>Helaas niet toegestaan</string>
+		<key>PasswordStrength2</key>
+		<string>Matig</string>
+	</dict>
+</dict>
+</plist>

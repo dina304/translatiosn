@@ -1,0 +1,1495 @@
+{
+  "home_page_test_url": "https://storage.googleapis.com/shared_data/homepage/55/uat_kruidvat_homepage.json",
+  "app": {
+    "name": "Sups verkoper",
+    "id": "293742634344105"
+  },
+  "more_info_field_toddlers_gender": {
+    "male": "JONGEN",
+    "female": "MEISJE"
+  },
+  "product_no_brand_error": "Niet meer beschikbaar",
+  "digital_product_description": "Je ontvangt dit product per mail",
+  "enter_password_hint": "Vul jouw wachtwoord in",
+  "legal_information": "Voorwaarden",
+  "dialog_response_cancel": "Annuleren",
+  "female": "VROUW",
+  "male": "MAN",
+  "please_login_to_your_account": "Jouw inloggegevens",
+  "create_your_account": "Vertel ons wie je bent",
+  "fill_in_your_address": "Wat is je adres",
+  "activity": {
+    "mandatory_update": {
+      "download_now": "NU DOWNLOADEN",
+      "update_available": "Update \nbeschikbaar"
+    },
+    "maintain_mode_text": "Sorry, we zijn bezig met onderhoud. Kom je later terug?",
+    "contract_change": {
+      "continue_button": "Oké, ik heb het begrepen!",
+      "contract": {
+        "eula_content": "$activity_contract_change_contract_terms_conditions_content",
+        "privacy_notice_content": "$activity_contract_change_contract_terms_conditions_content",
+        "terms_conditions_content": "Ons Privacybeleid en de Privacyvoorkeuren zijn onlangs veranderd. Wil je je afmelden voor onze aanbiedingen, ga dan naar de <a href=https://www.kruidvat.nl/my-account/newsletter>Privacyvoorkeuren</a> en selecteer de opties waarvoor je je wil afmelden. Doe je niets dan gaan we ervan uit dat je graag op de hoogte blijft van onze voordeelaanbiedingen!"
+      }
+    },
+    "purchase": {
+      "moderator_button_price": {
+        "=": "Koop nu %1$s",
+        "calculating": "Prijs wordt berekend"
+      },
+      "favourite_store_button_add": "Voeg je favoriete winkel toe",
+      "order": {
+        "order_details": "Orderoverzicht",
+        "home_delivery": "Thisbezorging",
+        "delivery_date": "Bezorgdatum",
+        "digital_products": {
+          "=": "Digitale producten",
+          "message": "Dit product wordt verzonden naar jouw e-mailadres"
+        },
+        "delete_dialog_title": "Verwijderen",
+        "checkout": {
+          "summary": "Overzicht",
+          "price": "Prijs",
+          "discount": "Korting",
+          "delivery": "Verzendkosten",
+          "total": "Totaal",
+          "header": {
+            "calender_reminder": "Voeg toe aan agenda",
+            "contact_service": "Klanten service",
+            "pickup_document": "Afhaal bewijs",
+            "load_items_to_cart": "Bestel opnieuw"
+          }
+        },
+        "number": "Order 1$d van %2$d",
+        "skip": "Sla bestelling over",
+        "delivery": {
+          "address": "Bezorgadres",
+          "store": "Bezorgadres winkel",
+          "time": {
+            "=": "Levertijd",
+            "home": "Bezorgdatum",
+            "pickup": "Afhaaldatum"
+          }
+        },
+        "credit_card_payment": "Betaling",
+        "set": {
+          "credit_card": "Kies creditcard",
+          "delivery": {
+            "window": "Kies bezorgtijd",
+            "address": "Kies adres"
+          }
+        },
+        "accept": {
+          "title": "Accepteren",
+          "explanation": "Doorgaan"
+        },
+        "incomplete": {
+          "title": "Sommige bestellingen zijn nog niet af",
+          "order_explanation": "Je bestelling blijft in je winkelmand",
+          "orders_explanation": "Je bestelling blijft in je winkelmand"
+        },
+        "details_not_confirmed": "Ordergegevens niet bevestigd",
+        "place": {
+          "order": {
+            "error_connection": "Opes, er is even geen internet. Controleer je internetverbinding en probeer opnieuw.",
+            "title": "Betaal en plaats bestelling"
+          },
+          "orders_title": "Bestellingen plaatsen"
+        },
+        "no_orders": "Geen bestellingen",
+        "product_price": {
+          "discount": "Korting:",
+          "total_description": "Totaal"
+        }
+      },
+      "per_item_description": "Per product",
+      "product": {
+        "list_units": "Producten",
+        "not_available": "Niet beschikbaar"
+      },
+      "task_order_details_select": {
+        "address": "Kies adres",
+        "credit_card": "Kies creditcard",
+        "delivery": {
+          "time": {
+            "=": "Kies bezorgmoment",
+            "pickup": "Selecteer afhaalmoment",
+            "home": "Kies bezorgmoment"
+          },
+          "method": "Kies bezorgwijze"
+        },
+        "store": "Kies winkel"
+      },
+      "choose_retailer_from_list": "Kies winkel",
+      "complete": {
+        "share_app": {
+          "=": "Deel app",
+          "text": "Hallo, probeer deze app van Kruidvat.\nhttps://play.google.com/store/apps/details?id=nl.kruidvat.voordeelkaart"
+        },
+        "thank_you": "Bedankt voor het winkelen met Kruidvat!",
+        "processing_your_order": "We zijn met je bestelling bezig. We laten je weten als deze wordt verzonden.",
+        "please_rate_us": "Beoordeel ons!.",
+        "add_to_calendar": "Reminder toevoegen aan kalender?",
+        "choose_calendar": "Kalender kiezen",
+        "delivery_reminder": "Herinnering levering - %1%s",
+        "calendar_not_available": "Er is geen kalender beschikbaar. Controleer ajb.",
+        "continue_shopping": "Verder winkelen",
+        "status_description": "We zijn bezig met je bestelling. Je krijgt een bericht van ons als je bestelling onderweg is.",
+        "payment": {
+          "pending": "Je hebt besteld. We gaan ermee aan de slag.",
+          "failed": "Sorry, de betaling is niet gelukt"
+        }
+      },
+      "summary": {
+        "title_text": "Overzicht",
+        "total_price_text": "Totaal\t %1$s",
+        "items_count_text": "%1$d\t artikel(en)",
+        "hint_write_comment": "Schrijf je opmerking hier",
+        "low_vat_text": "Btw laag\t %1$s",
+        "high_vat_text": "Btw hoog\t %1$s",
+        "item_price": "Prijs",
+        "discount_text": "Korting",
+        "use_gift_card": "Gebruik een cadeaukaart",
+        "attach_membership_card": "Jouw Extra Voordeelkaart",
+        "price_text": "Prijs",
+        "membership_card_text": "<u>Jouw Extra Voordeelkaart</u>",
+        "delivery_text": "Verzendkosten",
+        "loyalty_points": {
+          "text": {
+            "possible": "Hier zijn punten te sparen",
+            "earned": "Aantal punten"
+          },
+          "value": "%1$s"
+        }
+      },
+      "cogo_multi_price_summary_section": {
+        "title": "Dozen",
+        "detail": "Meer informatie"
+      },
+      "delivery": {
+        "time_picker": {
+          "=": "Levering - %1$s %2$s %3$s",
+          "home": "Bezorgmoment - %1$s %2$s-%3$s",
+          "pickup": "Afhaalmoment - %1$s %2$s %3$s"
+        },
+        "method": {
+          "home": "Thuis-bezorging",
+          "pickup_in_store": "Ophalen in winkel",
+          "title": "Kies bezorgwijze"
+        },
+        "failed": "Het is niet gelukt om bezorgmoment te bepalen. Probeer opnieuw.",
+        "description": "Gratis thuisbezorgd vanaf 50 euro"
+      },
+      "detail_screen_delivery_method_title": "Berorgen of afhalen",
+      "place_order": {
+        "error": {
+          "general": {
+            "=": "Probeer opnieuw",
+            "title": "Sorry, er ging iets fout"
+          },
+          "products": {
+            "not_available": "Deze producten zijn helaas niet op voorraad",
+            "delivery_slot": "Controleer het bezorgmoment. Selecteer een andere"
+          },
+          "credit_card": "Deze creditcard is helaas niet meer geldig.",
+          "no_relevant_cart": {
+            "message": "Probeer opnieuw",
+            "title": "Sorry, je bestelling is niet geplaatst"
+          },
+          "cvv": "Controleer de CVV-code",
+          "connection": "Oeps, er is even geen internet. Controleer je internetverbinding en probeer opnieuw.",
+          "cancel_title": "We kunnen je bestelling helaas niet verwerken"
+        },
+        "process": {
+          "message": "We verwerken je bestelling",
+          "title": "Wachten aub..."
+        }
+      },
+      "price_bar": {
+        "minimum_price_text": "Minimale bestelwaarde %s<br><small>(Excl. verzendkosten)</small>"
+      },
+      "select_delivery_method": "Kies bezorgwijze",
+      "price_calculation_failed": "Sorry, het is niet gelukt om de prijs te berekenen. Probeer het nog een keer.",
+      "problematic_product_task_title": "Product %1$s is momenteel niet leverbaar"
+    },
+    "shelf": {
+      "double_action_description": "Verwijderen",
+      "maintain_mode_text": "Sorry, we zijn bezig met onderhoud. Kom je later terug?",
+      "content_card_indicator_text_no_content": "Geen inhoud",
+      "title_categories": "ALLE ACTIES",
+      "fashion_product_add_to_cart": "Aan winkelmand toevoegen",
+      "sandwich_product_add_to_cart": "Aan winkelmand toevoegen",
+      "voice_search_not_supported_message": "Herkenning wordt niet ondersteund",
+      "tutorial_tap_to_dismiss": "Klik hier om te stoppen",
+      "price_not_available": "Niet op voorraad",
+      "product_information_home_only_text": "Dit product kan alleen thuis bezorgd worden",
+      "buy_button_description_text": "Bezorgkosten zijn niet inbegrepen",
+      "product_unavailable_message": {
+        "age_restricted": "Afhankelijk van leeftijd",
+        "price_error": "product niet beschikbaar",
+        "product_error": "Product niet in assortiment",
+        "max_available": "Max.beschikbaar %1$s",
+        "unavailable": "Niet beschikbaar"
+      },
+      "buttons_text": {
+        "share": "delen",
+        "load_cart": "laden",
+        "lists": "lijsten",
+        "close": "sluiten"
+      },
+      "medicine": {
+        "normal": "Let op!<br>Dit is een medicijn.<br>Voor meer informatie,<u>Klik hier</u>",
+        "age_restriction": "Let op! Dit is een geneesmiddel. Vanwege je leeftijd kun je dit product niet bestellen. Meer weten? <u>Klik hier</u>"
+      },
+      "category_promotions_title": "Acties"
+    },
+    "smart_shelf": {
+      "buy_button": {
+        "=": "Koop nu",
+        "maintain_text": "Bestellen momenteel niet mogelijk",
+        "login_prompt": "Log in en bestel  "
+      },
+      "menu": {
+        "search": {
+          "results_label": "Zoekresultaten",
+          "edit_text_hint": "Zoeken..."
+        },
+        "camera_actions_title": {
+          "select_image": "Selecteer afbeelding ",
+          "take_picture": "Maak foto"
+        }
+      },
+      "product_price_not_available": "Fout in prijs",
+      "active": {
+        "address": {
+          "add": {
+            "=": "Adres toevoegen",
+            "store": "Voeg winkel toe"
+          },
+          "complete_registration": "Log in"
+        },
+        "cart_title_suffix": {
+          "item": "Product",
+          "items": "Producten"
+        }
+      },
+      "search_result": {
+        "title_default": "Aanbevolen producten",
+        "cart_default_title": "Winkelmand"
+      },
+      "select_reseller": "Kies verkoper",
+      "products_information_page": {
+        "label_price_not_available": "Niet beschikbaar",
+        "title": "Productafbeeldingen"
+      },
+      "fragment_menu_content_continue_button": "Doorgaan",
+      "empty_cart": {
+        "title": "Lege winkelmand",
+        "message": "Je moet minstens één winkelmand hebben"
+      },
+      "delete_cart": {
+        "title": "Verwijder winkelmand",
+        "message": "Weet je zeker dat je deze winkelmand wil verwijderen?"
+      },
+      "hint": {
+        "cart_name": "Naam",
+        "write_comment": "Schrijf je opmerking hier"
+      },
+      "detector_barcode_product_barcode_not_found": "Dit product hebben we niet in ons assortiment of barcode is op dit moment niet bekend.",
+      "multi_cart_title": "Winkelmand",
+      "notification_product_share": {
+        "added_product": "%1$s toegevoegde %2$s artikel(en) aan winkelmand",
+        "removed_product": "%1$s verwijderde %2$s artikel(en) uit winkelmand"
+      },
+      "transaction_product_without_category": "Dit product heeft geen categorie",
+      "object_detection": {
+        "recognition_failure": "Oeps, er ging iets mis. Probeer opnieuw",
+        "barcode_not_found": "Dit product hebben we niet in ons assortiment of barcode is op dit moment niet bekend.",
+        "decorated_view_status": "Klik hier om product te scannen"
+      },
+      "message_cart_change_placeholder": {
+        "added": {
+          "multiple": "Toegevoegd aan winkelmand:",
+          "single": "Toegevoegd aan winkelmand:"
+        },
+        "removed": {
+          "multiple": "Verwijderd uit winkelmand:",
+          "single": "Verwijderd uit winkelmand:"
+        }
+      },
+      "promo_offer_message": {
+        "buy_x": {
+          "more_get_y": "Koop %1$shet?n en krijg  %2$d. met %3$d. korting",
+          "get_y": {
+            "=": "%1$sn en krijg %2$d gratis",
+            "with_z_discount_off": "%1$snNatake %2$dold meer"
+          }
+        },
+        "redeemed": "%1$s is verwisseld"
+      },
+      "share_text": "Het volgende product wil ik met jou delen:%1$s"
+    },
+    "store": {
+      "details": {
+        "closed_today": "Vandaag gesloten",
+        "store": {
+          "address": "Adres",
+          "phone": "Sla telefoonnummer op",
+          "opening_hours": "Openingstijden"
+        }
+      },
+      "picker_hint_search": "Zoeken...",
+      "location": {
+        "store_opening_hours": "Openingstijden",
+        "search_store": {
+          "name": "Vind de dichtstbijzijnde Kruidvat winkel",
+          "location": "Zoek een winkel"
+        },
+        "favourite_store": {
+          "search_select": "Zoek favoriete winkel en selecteer",
+          "mark_as": "Selecteer als favoriete winkel"
+        }
+      }
+    },
+    "blog_video_player_time_unset": "0:00",
+    "profile": {
+      "tab_daily_deals": "AANBIEDING",
+      "license_agreement": {
+        "terms_and_conditions": "Algemene Voorwaarden",
+        "privacy_policy": "Privacy beleid"
+      },
+      "double_action_minus": "Verwijderen",
+      "personal_marketing_policy": {
+        "formatted": "Als je onderstaande opties aanvinkt geef je aan dat je ons %1$s kent en dat je onze persoonlijke marketingcommunicatie wil ontvangen. Bedankt daarvoor!",
+        "text": "Privacybeleid"
+      },
+      "daily_deals": {
+        "no_deals": "Sorry, nog geen dagdeals! Probeer het later nog eens",
+        "expiration_timer": "Deze deal verloopt over %1$s",
+        "valid": {
+          "timer": "Geldig  voor %1$s",
+          "until": "Na activatie is deze deal geldig t/m %1%s"
+        },
+        "days": "Dagen",
+        "expanded_activate": "Activeer",
+        "activation_generic_error": "Er gaat iets fout, probeer opnieuw."
+      },
+      "edit": {
+        "logged_in_as": "Ingelogd als: %1$s",
+        "birth_date_format": "%1$s.%2$s.%3$s",
+        "cancel_action": "Annuleren",
+        "logout_action": "Uitloggen",
+        "hint": {
+          "birth_date": "Geboortedatum",
+          "email": "Mail",
+          "firstname": "Voornaam",
+          "lastname": "Achternaam",
+          "infix": "Tussenvoegsel"
+        },
+        "user": {
+          "hint_passport": "Paspoortnummer",
+          "information": "Profiel aanpassen",
+          "with": {
+            "email_exists": "Gebruiker met %1$s e-mail bestaat reeds",
+            "id_exists": "Gebruiker met %1$s id bestaat reeds"
+          }
+        }
+      },
+      "toolbar_done": "Klaar",
+      "logout": "Uitloggen",
+      "bottom_bar_title": {
+        "orders": "BESTELLINGEN",
+        "addresses": "ADRES",
+        "credit_cards": "Creditcards",
+        "club_membership": "JOUW KAART",
+        "preferences": "Voorkeuren",
+        "stores": "WINKELS"
+      },
+      "settings": "Instellingen",
+      "user": {
+        "address_delete": {
+          "tittle": "Adres verwijderen",
+          "confirmation": "Wil je dit adres verwijderen?"
+        },
+        "credit_card_delete": {
+          "tittle": "Creditcard verwijderen",
+          "confirmation": "Weet je zeker dat je deze creditcard wilt verwijderen?"
+        },
+        "club_card_delete": {
+          "title": "Jouw extra voordeelkaart verwijderen",
+          "confirmation": "Wil je deze Jouw extra voordeelkaart verwijderen?"
+        }
+      },
+      "menu": {
+        "camera_actions_title_remove_image": "Verwijder afbeelding",
+        "user_profile_disconnect": "Uitloggen"
+      },
+      "hint_name": "Gebruikersnaam",
+      "select_platform": "Selecteer platform",
+      "club_membership": {
+        "add": "Nieuwe kaart toevoegen",
+        "input_form": {
+          "bottom_points": "Punten",
+          "top_points": "Je hebt",
+          "error_title": "Sorry, er ging iets fout",
+          "tell_us_more": {
+            "=": "<u>Vertel ons meer<br>over jezelf</u>",
+            "policy_format": "Door ons de gegevens van je kind te geven ga je akkoord met ons %1$s en onze marketingcommunicatie",
+            "policy_text": "Privacybeleid"
+          },
+          "personal_marketing": "<u>Persoonlijke<br>voorkeuren</u>",
+          "detector_unknown_error": "Sorry, er ging iets fout. Probeer opnieuw",
+          "replace_card": "<u>Vervangkaart</u>",
+          "unknown_error": "Sorry, er ging iets fout. Probeer opnieuw",
+          "insert_card_number": "Vul je kaartnummer in",
+          "get_card": "Haal een gratis Jouw Extra Voordeelkaart bij jouw Kruidvat winkel",
+          "logged_in_as": "ingelogd als: <u>%1$s</u>",
+          "invalid_card_number": "Sorry, er gaat iets mis. Dit kaartnummer is niet correct, of deze kaart is al geregistreerd met een ander e-mailadres",
+          "policy": {
+            "format": "Bedankt voor het koppelen van je kaart. Nu je een klantenkaart aan een online account hebt gekoppeld, raden we je aan om ons %1$s door te nemen. Mocht je jouw marketingvoorkeuren willen aanpassen, ga dan naar het dashboard Privacyvoorkeuren in ‘Mijn account’.",
+            "=": "Privacybeleid"
+          },
+          "form_policy": "Privacybeleid",
+          "get_card_title": "Heb je de Jouw Extra Voordeelkaart nog niet?"
+        }
+      },
+      "address_add": "Voeg nieuw adres toe",
+      "credit_card_add": "Nieuwe creditcard toevoegen",
+      "application_version_format": "Versie %1$s (%2$d) %3$s %4$s",
+      "section_orders_none": "Geen bestellingen",
+      "focused": {
+        "address_description": "Selecteer je adres door op de kaart te drukken",
+        "favourite_store_description": "Selecteer je adres door op de kaart te drukken"
+      },
+      "change_language": "Wijzig taal",
+      "favorite_store_picker_not_picked": "Kies winkel",
+      "popup": {
+        "app_version": "Versie app",
+        "window_start_beacon": "Start Beacon activiteit"
+      },
+      "input_form": {
+        "kruidvat_more_info": {
+          "interests": {
+            "baby_n_toddler": "Baby & Kind",
+            "mens_care": "Mannenverzorging",
+            "health": "Gezondheid",
+            "beauty": "Beauty",
+            "description": "Geeft uw interessegebieden aan om de aanbiedingen persoonlijker te maken.",
+            "title": "Geef uw interessegebieden aan"
+          },
+          "mama_benefits": {
+            "send": "Verzenden",
+            "invalid_date": "Controleer de datum: DD/MM/JJJJ",
+            "title": "Gratis Jouw Blije Baby Voordeel tas",
+            "description": "Ben je in verwachting? Vraag nu de GRATIS Jouw Blije Baby Voordeel tas aan.",
+            "no_date": "Kies datum"
+          },
+          "toddlers": {
+            "benefits": {
+              "gender": {
+                "male": "Jongen",
+                "female": "Meisje"
+              },
+              "name_hint": "Naam",
+              "add": "+ Voeg een kind toe"
+            },
+            "n_babies": {
+              "empty": {
+                "date": "Vul datum in",
+                "name": "Vul je naam in"
+              },
+              "description": "Heb je kinderen? Laat het ons weten. Je ontvangt dan aanbiedingen en tips passend bij de leeftijd.",
+              "not_filled": "Vul dit veld in",
+              "title": "Advies en voordelen voor kinderen",
+              "invalid_date": "Controleer de datum: DD/MM/JJJJ"
+            }
+          }
+        },
+        "personal_marketing": {
+          "messages_post_title": "Wil je informatie van Kruidvat per post ontvangen?",
+          "personal_title": "Wil je op jou afgestemde acties en/of aanbiedingen ontvangen?",
+          "partners_title": "Wil je aanbiedingen van onze partners ontvangen?",
+          "email_title": "Wil je e-mail van Kruidvat ontvangen?",
+          "sms_title": "Wil je sms'jes of notificaties ontvangen?",
+          "3rd_party_title": "Wil je gepersonaliseerde berichten van derden ontvangen?",
+          "social_title": "Wil je berichten van Kruidvat op social media ontvangen?",
+          "error_title": "Sorry, er ging iets fout",
+          "title": "Privacy voorkeuren",
+          "policy": "Door deze app te gebruiken gaat u akkoord met de privacy-en algemene voorwaarden",
+          "birthday_title": "Mogen we je verrassen met een verjaardagsaanbieding?",
+          "newsletter_title": "Wil je onze email nieuwsbrief ontvangen?",
+          "news_letter_description": "Je gaat akkoord met ons %1$s",
+          "update_error_title": "Fout",
+          "generic_error": "Sorry, er ging iets fout. Probeer het ajb. nog een keer.",
+          "extra_offer": {
+            "title": "Wil je relevante extra persoonlijke aanbiedingen via e-mail ontvangen?",
+            "none": "Niet versturen",
+            "interval": {
+              "weekly": "Ik wil deze email graag 1 x per week ontvangen.",
+              "daily": "Ik wil deze email elke dag ontvangen."
+            }
+          },
+          "push_title": "Wil je push berichten van ons ontvangen?"
+        },
+        "something_went_wrong": "Er gaat iets fout, probeer opnieuw.",
+        "opt_out": {
+          "notifications": "Ik wil geen notificaties",
+          "phone_calls": "Ik wil geen telefonische aanbiedingen ontvangen",
+          "sms": "Schakel SMS-berichten uit"
+        },
+        "more_info": {
+          "toddlerns_and_babies_update_successful": "Succesvol aangepast",
+          "title": "Vertel ons meer",
+          "price_title": "Prijs",
+          "product_variants": "Productvarianten",
+          "incomplete_fields_error": {
+            "message": "Vul de ontbrekende informatie in",
+            "title": "Sorry, er ontbreekt wat informatie"
+          },
+          "mama_benefits_update_successful": "Succesvol aangepast",
+          "error_title": "Sorry, er ging iets fout",
+          "toddlers_benefits_send": "Verzenden",
+          "interests_update_success": "Je interesses zijn aangepast"
+        }
+      }
+    },
+    "home_page": {
+      "section": {
+        "friends_and_family_invite": {
+          "title": "Nodig je vrienden en familie uit",
+          "promp": "Blij met deze app? Deel ‘m met je vrienden en familie",
+          "button": "Deel app"
+        },
+        "club_membership": {
+          "title": "Maak nu een account aan. Je krijgt toegang tot alle extra’s van deze app.",
+          "attach_card": "JOUW KAART",
+          "register": "LOG IN",
+          "add_title": "Exclusieve extra's zijn er speciaal voor onze kaarthouders",
+          "points_title": "Hallo %1$s! Wat fijn je te zien!",
+          "add_prompt": "Spaar punten en krijg <br>exclusieve extra’s"
+        }
+      },
+      "nearest_store": {
+        "title": "Dichstbijzijnde winkel",
+        "grant_location_permission": "Toestemming verlenen",
+        "description": "Zoek je de dichtstbijzijnde winkel? Geef toestemming om je locatie te zien. "
+      },
+      "best": {
+        "seller_add_to_cart_button": "In winkelmand",
+        "sellers_product_discount_economy": "Voordeel"
+      },
+      "you_may_also_like": "Anderen kochten ook",
+      "support_email": {
+        "subject": "Geef mij ondersteuning",
+        "text": "Beschrijf je probleem",
+        "chooser_title": "Stuur mail"
+      },
+      "shufersal_promo_item_x_discount": "%1$d kortingsprijs",
+      "club_membership_attach_card": "JOUW KAART",
+      "contact_whatsapp": "ONBESCHIKBAAR"
+    },
+    "input_form": {
+      "cancel": "Annuleer",
+      "positive_button": {
+        "=": "Ok",
+        "continue": "Ga door"
+      }
+    },
+    "share_cart": {
+      "cancel": "Annuleer",
+      "positive_button": "Ok",
+      "hint_search": "Zoeken...",
+      "query_search_hint": "Zoeken..."
+    },
+    "stores": {
+      "view_share_contact_search_hint": "Zoeken...",
+      "clearable_edit_text_hint_search": "ZOEK...",
+      "list": {
+        "hint_search": "Zoeken...",
+        "title_our_shops": "Onze winkels"
+      }
+    },
+    "login": {
+      "button": "Log in",
+      "continue_button": "GA DOOR",
+      "superup_start_text": "Het is heel makkelijk",
+      "enter": {
+        "mobile_number": "Vul mobiel nummer in",
+        "code": "Vul code in"
+      },
+      "number": {
+        "invalid": "Telefoonnummer in niet juist of volledig. Probeer opnieuw",
+        "not_recognized": "Voer zelf je telefoonnummer in"
+      },
+      "requires_number_permission": "Geef toestemming om je telefoonnummer automatisch in te vullen",
+      "tap_to_auto_detect": "<u>Tik hier</u> om je nummer automatisch op te zoeken",
+      "sim_not_detected": "SIM-kaart kan niet worden gedetecteerd",
+      "invalid": {
+        "code": "Controleer de code",
+        "number": "Controleer het telefoonnummer"
+      },
+      "licenses_agreement": {
+        "=": "Als je doorgaat bevestig je dat je op de hoogte bent van en akkoord gaat met ons %3$s en onze %1$s",
+        "eula": "Algemene Voorwaarden",
+        "privacy_policy": "Privacybeleid",
+        "terms_conditions": "Licentieovereenkomst eindgebruiker (EULA)"
+      },
+      "code_confirmation": "Voer de 4-cijferige code in die we per sms hebben verstuurd",
+      "country_code_picker_select_country_hint": "Selecteer land",
+      "not_correct_number": "Controleer het nummer en probeer opnieuw"
+    },
+    "splash": {
+      "error": {
+        "logout": "Uitloggen",
+        "message": "Sorry, er ging iets fout"
+      },
+      "back_button": "Terug",
+      "try_again_button": "Probeer opnieuw",
+      "no_platform_access": "Neem contact op met Royal App admin om je toegang te verlenen tot relevante retailers",
+      "platform_config_failure_message": "Oeps, er ging iets mis. Probeer opnieuw",
+      "failure_message": "Sorry, er ging iets fout"
+    },
+    "address_hint_search": "Zoek",
+    "user_profile_tittle": "JOUW PROFIEL",
+    "settings_title": "Instellingen",
+    "cogo_splash_screen_error": "Sorry, er ging iets fout",
+    "loading_try_again_button": "Probeer opnieuw",
+    "platforms_no_access": "Neem contact op met Royal App admin om je toegang te verlenen tot relevante retailers",
+    "price_kruidvat_prefix_from": "van",
+    "nfc": {
+      "instructions": "Verplaats de kaart niet, probeer het opnieuw",
+      "scan": {
+        "progress_bar_title": "Scannen....",
+        "failed_progress_bar_title": "Verwijder of verplaats de kaart niet tijdens het lezen",
+        "fail": {
+          "do_not_move_card": "Verplaats de kaart niet, probeer het opnieuw!",
+          "unknown_emv": "Bekende EMV-kaart"
+        },
+        "nfc_locked": "NFC is vergrendeld op deze kaart."
+      }
+    },
+    "credit_card_nfc_turn_on": {
+      "title": "NFC is uitgeschakeld.",
+      "message": "We hebben NFC nodig om te scannen. Nu aanzetten?",
+      "dialog": {
+        "positive_response": "Inschakelen",
+        "negative_response": "Annuleer"
+      }
+    },
+    "beacon": {
+      "camera_permission_not_granted": "Om te scannen hebben we je camera nodig. Klik om toestemming te geven.",
+      "distance_meters": "%1$.4f meter",
+      "tap_to": {
+        "scan": "Tik op scannen",
+        "rescan_button": "Tik nogmaals op om te scannen"
+      },
+      "scanned_beacons": "Gescande beacons",
+      "none_found": "Beacon niet gevonden, probeer opnieuw",
+      "add": {
+        "beacon": {
+          "id": "Beacon ID",
+          "distance": "Afstand tot Beacon"
+        },
+        "promo_text": "Acties",
+        "save_title": "Beacon opslaan"
+      },
+      "product_barcode_hint": "Barcode Product "
+    },
+    "on_boarding": {
+      "cogo_title": {
+        "go_shopping": "Nu winkelen",
+        "smart_shelf": "Kijk hier om je persoonlijke deals te ontdekken"
+      },
+      "go_shopping": "Nu winkelen",
+      "title_go_shopping": "Begin maar"
+    },
+    "tutorial_showcase": {
+      "categories": {
+        "primary": "Productcategorieën",
+        "secondary": "Klik hier om producten per categorie te selecteren"
+      },
+      "camera": {
+        "primary": "Scan barcode",
+        "secondary": "Klik hier om te zoeken met barcode"
+      },
+      "content": {
+        "primary": "Speciale inhoud",
+        "secondary": "Klik hier om producten met speciale inhoud te zien"
+      },
+      "multishelf": {
+        "primary": "Multi plan/categorie",
+        "secondary": "Klik hier om meer producten uit deze categorie te zien",
+        "title": "Klik hier om meer producten uit deze categorie te zien"
+      },
+      "user_profile": {
+        "primary": "Jouw profiel",
+        "secondary": "Klik hier om afleveradres, betaalgegevens enz. in te stellen"
+      },
+      "voice_search": {
+        "primary": "Spraak zoek",
+        "secondary": "Klik op microfoon en zeg de naam van het product",
+        "title": "Klik op microfoon en zeg een naam van het product"
+      },
+      "add_product_title": "Sleep product naar winkelmand",
+      "swipe_left_title": "Scroll in categorie"
+    },
+    "platform_notification_database_update_prompt": {
+      "title": "Nieuwe versie is beschikbaar",
+      "text": "Klik hier om nieuwe versie te gebruiken."
+    },
+    "start_page": {
+      "title": {
+        "homepage": "Home",
+        "shop": "Winkelen",
+        "store_locator": "Zoek winkel",
+        "loyality": "Jouw extra voordeelkaart",
+        "folder": "Map",
+        "content": "Inhoud",
+        "customer_service": "Klantenservice",
+        "my_profile": "Jouw profiel"
+      },
+      "label": {
+        "write_us": "Mail ons",
+        "call_us": "Bel ons",
+        "chat_with_us": "Chat met ons"
+      }
+    },
+    "article": {
+      "continue_shopping": "Verder winkelen",
+      "promo_text": "How to Get Naturally Plumper Lips"
+    },
+    "homepage": {
+      "open_store_loator": "WINKEL ZOEKEN",
+      "label": {
+        "write_us": "Schrijf ons",
+        "call_us": "Bel ons",
+        "chat_with_us": "Chat met ons"
+      },
+      "blur_card_content": {
+        "title": "Titel",
+        "description": "Voorbeeld"
+      },
+      "shelf_new_items_title": "Nieuw in ons aanbod!",
+      "instagram_shop_now": "Winkel nu",
+      "promo_item_add_to_cart": "Aan winkelmand toevoegen",
+      "store_location_fetching_text": "Vind de dichtstbijzijnde winkel....",
+      "nearest_store_location_tap_to_grant_permission": "Tik op om toestemming te verlenen",
+      "footer_shelf_is_loading": "Bezig met laden",
+      "go_shopping": "Klik hier om te winkelen",
+      "daily_deals_section": {
+        "title": "Jouw Aanbieding",
+        "not_registered": "Registreer je om jouw dagdeals te ontvangen"
+      }
+    },
+    "main_map_shops_title": "Onze winkels",
+    "onboarding_screens_skip": "<u>Overslaan</u>",
+    "promotion_continue_shopping": "Verder winkelen",
+    "warning_loading_cannot_start_shelf": "Even geduld, we halen nog meer mooie acties op",
+    "superup": {
+      "new_version_available_title": "Update beschikbaar",
+      "go_to_store": "nu downloaden"
+    }
+  },
+  "purchase": {
+    "activity": {
+      "order_screen_title_order_details": "Orderoverzicht",
+      "checkout_summary": "Orderoverzicht",
+      "scan": {
+        "gift_card": "Scan cadeaukaart",
+        "membership_card": "Scan Voordeelkaart"
+      },
+      "use_gift_card": {
+        "title": "Gebruik een cadeaukaart",
+        "hint": "Vul cadeaukaart nummer"
+      },
+      "attach_membership": {
+        "card_title": "Jouw Extra Voordeelkaart",
+        "hint": "Vul het 13-cijferig kaartnummer in"
+      }
+    },
+    "section_title": {
+      "items": "PRODUCTEN IN WINKELMAND",
+      "items_unavailable": "AANDACHT VEREIST",
+      "shipping_details": "DETAILS BESTELLING"
+    },
+    "intent": {
+      "address": "Bezorgadres",
+      "start": "Starttijd",
+      "end": "Bezorgtijd"
+    },
+    "digital_product_subtitle": "Dit product wordt verzonden naar jouw e-mailadres"
+  },
+  "add_reminder_to_calendar": "Op je kalender zetten?",
+  "how_was_your_shopping_experience": "Vertel ons hoe je het shoppen bij ons vond",
+  "your_session_is_expired_n_in_order_to_continue_please_relogin": "Je sessie is verlopen.Log opnieuw in om verder te gaan.",
+  "kruidvat": {
+    "profile": {
+      "set_account_password": "Vul jouw wachtwoord in",
+      "reset": {
+        "link": "Er is een e-mail verstuurd met instructie en link\nom een nieuw wachtwoord aan te maken.",
+        "password": "Wachtwoord vergeten?"
+      }
+    },
+    "password_strength": {
+      "poor": "Niet sterk",
+      "weak": "Matig",
+      "strong": "Sterk"
+    },
+    "products_information_page": {
+      "medical_warning_text": "Dit is een geneesmiddel! Geneesmiddelen worden niet verkocht aan personen onder 16 jaar. Ook geldt er een maximum bestelhoeveelheid van 3 stuks per product.",
+      "titles": {
+        "igcShortDescription": "Omschrijving",
+        "Amount": "aantal",
+        "name": "H1 Merk en omschrijving:",
+        "code": "CE nr:",
+        "baseProduct": "Base product",
+        "onlineDate": "Online date",
+        "offlineDate": "Offline date",
+        "colorCode": "Color description",
+        "colorGroup": "Color group",
+        "promotionLabel": "Promotion label",
+        "maxOrderQuantity": "Max bestelaantal",
+        "kvAvarageOverallRating": "kvAvarageOverallRating",
+        "kvTotalReviewCount": "kvTotalReviewCount",
+        "kvRecommendedCount": "kvRecommendedCount",
+        "kvNutritionalClaim": "Voedingswaardeclaim:",
+        "kvHealthClaim": "Gezondheidsclaim:",
+        "kvServingSize": "Referentieportiegrootte:",
+        "kvNutrientTypeCode": "Code nutrientype:",
+        "KvDailyValueIntakeReference": "Referentie-inname:",
+        "kvNumberOfServingsPerPackage": "Aantal porties per verpakking:",
+        "kvHouseholdServingSize": "Huishoudelijke maateenheid:",
+        "kvRegulatedProductName": "Wettelijke benaming:",
+        "kvAllergenTypeCode": "Type allergeen:",
+        "kvCompulsoryAdditivesLabelInformation": "Verplichte algemene vermelding:",
+        "kvTargetConsumerAge": "Leeftijdsbeperkingen (vanaf/tot):",
+        "kvDosageRestrictionLimits": "Doseringrestrictie:",
+        "kvDrugSideEffectsAndWarnings": "Gebruiksbeperkingen:",
+        "kvDrugComposition": "Samenstelling:",
+        "kvDrugTypeFile": "Type Bestand:",
+        "kvDrugFileLocation": "Locatie Bestand:",
+        "kvDrugApplication": "Toedieningsvorm:",
+        "kvDrugGuidelines": "Richtlijnen:",
+        "kvPreparationInstructions": "Bereidingsinstructies:",
+        "kvUnspecifiedPreperationTypePreperationInstructions": "Bereidingsinstructies 2:",
+        "kvConsumerUsageStorageInstruction": "Gebruiks- en bewaarinstructies voor consumenten:",
+        "kvOpenedTradeItemLifespan": "Houdbaarheid na opening:",
+        "kvPackageMarksDietAllergen": "Dieet-/allergiekenmerk op etiket/verpakking:",
+        "kvPackageMarksEnvironment": "Milieukenmerk op etiket/verpakking:",
+        "kvPackageMarksEthical": "Ethisch kenmerk op etiket/verpakking:",
+        "kvPackageMarksFreeFrom": "Vrij van-kenmerk op etiket/verpakking:",
+        "kvPercentageOfAlcoholByVolume": "Alcoholpercentage:",
+        "kvContactName": "Contactnaam:",
+        "kvCommunicationAddress": "Communicatieadres:",
+        "kvContactType": "Contact type:",
+        "kvCommunicationChannelNumber": "Communicatiekanaalgegevens:",
+        "kvCommunicationChannelCode": "Type communicatiekanaal:",
+        "igcInformativePrice1": "Adviesprijs:",
+        "kvCalculatedPPUDisplayPrice": "Berekende Prijs per eenheid:",
+        "kvPPUDisplayUnit": "PPE type:",
+        "igcContentSize": "Inhoud:",
+        "description": "Product informatie",
+        "ean": "EAN",
+        "igcContentUnit": "Eenheid inhoud:",
+        "kvShowPPU": "Toon prijs per eenheid:",
+        "kvScoops": "Aantal wasbeurten:",
+        "igcBrandCode": "Merkcode:",
+        "igcBrandName": "Merknaam:",
+        "igcContentSizeUnit": "Inhoud Omschrijving:",
+        "igcERPShortDescription": "ERP korte beschrijving:",
+        "igcErpName": "ERP naam:",
+        "igcFormulation": "Actieve bestandsdelen:",
+        "igcInformativeText1": "Raadpleeg huisarts bij:",
+        "igcInformativeText2": "Allergieinformatie:",
+        "igcInformativeText3": "3e Informatieve Tekst:",
+        "igcIngredients": "Ingredienten:",
+        "igcNewProduct": "Nieuw product:",
+        "irgPrdVatCode": "BTW code:",
+        "igcRecyclingInfo": "Recycling Info:",
+        "igcUses": "Te gebruiken bij:",
+        "igcVariantType": "Variant type:",
+        "igcWarnings": "Let op!:",
+        "igcWeight": "Gewicht:",
+        "kvDepth": "Diepte:",
+        "kvDocumentationUrl": "URL bijsluiter:",
+        "kvHeight": "Hoogte:",
+        "KvIsNewDate": "Nieuw online:",
+        "kvOtcProductIndicator": "Niet te gebruiken bij:",
+        "kvPharmacy": "Verplicht advies (OTC):",
+        "kvPromoAssortment": "Assortiment/Promo:",
+        "kvSummaryDescription": "Samenvatting productinformatie:",
+        "kvVariantSize": "Maat:",
+        "kvWeightCENr": "Weight CE NR.:",
+        "kvWidth": "Breedte:",
+        "kvWls": "WLS:",
+        "kvWlsURL": "WLS URL:",
+        "kvIngredientStatement": "Ingredientendeclaratie:",
+        "loyaltyProductAvailability": "Loyalty Product Availability:",
+        "loyaltyProductOfflineDate": "Niet meer geldig op:",
+        "loyaltyProductPoints": "Loyalty Product Points:",
+        "showPdpContentHubArticles": "[showPdpContentHubArticles]:",
+        "image": "Product image",
+        "product_information": "Product informatie",
+        "medical_information": "Medische informatie",
+        "label_information": "Label informatie",
+        "general_information": "Gemiddelde informatie",
+        "legal_name": "Legal naam",
+        "portions_per_package": "Portions Per Package",
+        "composition": {
+          "=": "Samenstelling",
+          "per": "Samenstelling per"
+        },
+        "allergies": "Allergieën",
+        "ingredients": "Ingredientendeclaratie",
+        "instructions": "Gebruiksaanwijzing",
+        "important": "Belangrijk",
+        "alcohol_percentage": "Alcoholpercentage",
+        "additional": "Overig",
+        "contact_information": "Contactinformatie",
+        "section": {
+          "label_information": "Etiket informatie",
+          "information": "Product informatie",
+          "medical_information": "Medische informatie"
+        }
+      }
+    },
+    "activity": {
+      "login_authentication_page_description": "",
+      "shelf_error_connection": "$activity_purchase_place_order_error_connection"
+    },
+    "home_page": {
+      "best_seller_add_to_cart_button": "In winkelmand",
+      "store_locator": {
+        "locating_title": "Locatie Opzoeken",
+        "complete_registration": {
+          "=": "Rond de activatie af om de dichtstbijzijnde winkel te vinden",
+          "button": "LOG IN"
+        },
+        "find_store": {
+          "=": "Vind dichtstbijzijnde winkel",
+          "prompt": "Zoek je de dichtstbijzijnde winkel? Geef toestemming om je locatie te zien. ",
+          "button": "Vind winkel"
+        }
+      }
+    },
+    "nl": {
+      "host": "www.kruidvat.nl",
+      "path_prefix": "/p/",
+      "schema": "http"
+    },
+    "be": {
+      "host": "www.kruidvat.be",
+      "path_prefix": "/p/",
+      "schema": "http"
+    },
+    "privacy_policy_next": "VOLGENDE",
+    "home_delivery_only_description": "Sommige producten kunnen alleen thuis bezorgd worden",
+    "onboarding_title": {
+      "home": "Welkom in de vernieuwde Kruidvat App",
+      "categories": "Vind je producten per categorie",
+      "text_search": "Zo gevonden met de zoekfunctie",
+      "shelves": "Alle aanbiedingen in één overzicht",
+      "cart": "Selecteer producten in je winkelmandje",
+      "dayly_deals": "Check je puntensaldo en Jouw aanbieding",
+      "checkout": "Snel en simpel je bestelling in huis"
+    },
+    "attribute": {
+      "documentation_url_display": "Download de bijsluiter",
+      "static_title_label_information": "Hoewel wij zorg en aandacht besteden aan de etiketinformatie op internet kan het zijn dat deze afwijkt van de etiketinformatie op het product. Ten aanzien hiervan aanvaarden wij geen aansprakelijkheid. Lees daarom altijd de etiketinformatie op het product dat je thuis ontvangt."
+    },
+    "depth_group_text_gravity": {
+      "0": "center",
+      "1": "left"
+    },
+    "login": {
+      "skip_button_text": "Voltooi later",
+      "wrong_password": "Wachtwoord is niet juist, Probeer opnieuw",
+      "wrong_password_or_email": "Check het mailadres en/of wachtwoord",
+      "email_description": "Vul je mailadres in",
+      "page_email_hint": "Vul e-mailadres in",
+      "profile_description": "We gebruiken je geboortedatum als het nodig is om je leeftijd te controleren. Ook kunnen we je op basis van je leeftijd en geslacht passende acties, cadeaus en evenementen aanbieden.",
+      "address_description": "We hebben je postcode en adres nodig om je post te kunnen sturen. Ook kunnen we je informeren over acties bij de dichtstbijzijnde winkel.",
+      "page_registration_need_an_account": "Nog geen account? Maak nu aan!",
+      "page_registration_already_exist_email": "Er bestaat al een account met dit mailadres",
+      "page_login_need_account": "Nog geen account? Maak nu aan!",
+      "page_login_description": "Log in om toegang te krijgen tot je Kruidvat account.",
+      "page_forgot_password_back_to_login": "Opnieuw inloggen",
+      "page_forgot_password": "Wachtwoord vergeten?"
+    }
+  },
+  "age_under_16": "Ben je onder de 16? Leuk dat je deze app wilt gebruiken! Je hebt wel toestemming van je ouders nodig.",
+  "message_age_restriction": "Wil je meer informatie?",
+  "password": {
+    "short": "Je wachtwoord dient 8 of meer tekens te bevatten waarvan minimaal 1 letter en 1 cijfer.",
+    "at_least_one": {
+      "letter": "Gebruik minstens 1 letter in je wachtwoord",
+      "number": "Gebruik minstens 1 cijfer in je wachtwoord"
+    }
+  },
+  "static_map_image_url": "https://maps.googleapis.com/maps/api/staticmap?center=%s&language=%s&zoom=%d&size=%dx%d&scale=%d&maptype=roadmap&markers=icon:%s|%s&key=%s",
+  "animated_gif_url": "MKGn299XpJ6mn9c6/cache/40/%s",
+  "server_client_id": "718157862845-md9757pi4e68t7jh401voflvn7b89pj1.apps.googleusercontent.com",
+  "android_client_id": "718157862845-pqqqhram4hgkur5e5m107tpmjar66e3a.apps.googleusercontent.com",
+  "zendesk_chat_key": "4MYGefTWPLrhnN5HRCGwPpsGqzD4dXw8",
+  "article_translation": "article_translation",
+  "title_activity_settings": "Instellingen",
+  "pref": {
+    "header_general": "Algemeen",
+    "cart_detector": {
+      "default_separator_key_word": "en",
+      "enable": {
+        "title": "Kaartdetector inschakelen",
+        "summary": "In het geval dat het zoeken naar de gebruikersstem en het gedefinieerde woord verschijnen, wordt het stemresultaat begrensd volgens het sleutelwoord van de detector en wordt het eerste product aan het karretje toegevoegd."
+      },
+      "keywords": {
+        "title": "Zoektermdetector winkelmand",
+        "summary": "The key words, according to this key word the cart detector will split the cart into products, you can add more then 1 key word and separate them by |"
+      },
+      "delay": {
+        "title": "Vertraging van de kaartdetector",
+        "summary": "De vertraging in milliseconden tussen elke deelzoekopdracht"
+      }
+    },
+    "general": {
+      "title": "Licentieovereenkomst",
+      "lowest_price": "Laagste prijs",
+      "local_product": "Lokaal product",
+      "environment_friendly": "Milieuvriendelijk",
+      "animals_friendly": "Diervriendelijk",
+      "low_energy": "Energiezuinig",
+      "kosher": "Kosher",
+      "round_up": {
+        "prices": "Prijzen afronden",
+        "price_bar_font_color": "Prijzen afronden"
+      },
+      "open_page": {
+        "home_first": {
+          "title": "Homepage tonen bij opstarten app",
+          "summary": ""
+        },
+        "start_first": {
+          "title": "Eerst startpagina openen",
+          "summary": "Als het platform een startpagina heeft, zal de startpagina voorrang krijgen als startpunt"
+        }
+      },
+      "always_show_on_boarding": {
+        "title": "Toon bij het opstarten altijd het startscherm",
+        "summary": "Wanneer aangevinkt wordt bij het opstarten het startscherm weergegeven"
+      },
+      "categories_look_and_feel": {
+        "title": "Categorieën look & feel",
+        "summary": "Wanneer aangevinkt worden standaard de categorieën in het schap getoond"
+      },
+      "haptic_feedback": {
+        "title": "Trillen",
+        "summary": "Telefoon zal trillen bij het bladeren door producten",
+        "type": {
+          "title": "Trillingseffect",
+          "summary": "Soort trillingseffect"
+        },
+        "delay": {
+          "title": "Vertraging van de haptische feedback",
+          "summary": "Minimale vertraging in milliseconden"
+        }
+      }
+    },
+    "allergies": {
+      "title": "Allergieën voorkeuren",
+      "dairy": "Zuivel",
+      "gluten": "Gluten",
+      "soy": "Soja",
+      "eggs": "Eieren",
+      "peanuts": "Pinda's ",
+      "nuts": "Noten",
+      "tropic_fruits": "Tropische vruchten",
+      "seafood": "Zeevruchten"
+    },
+    "health": {
+      "vegan_diet": "Veganistisch dieet",
+      "title": "Voorkeuren voor gezondheid",
+      "vegetarian_diet": "Vegetarisch dieet",
+      "gluten_free_diet": "Glutenvrij dieet",
+      "organic_food": "Biologisch",
+      "low": {
+        "cal": "Laag in caloriën",
+        "fat": "Laag in vet",
+        "glucose": "Laag in glucose",
+        "carb": "Laag in caloriën",
+        "sodium": "Laag in natrium",
+        "protein": "Laag in eiwit"
+      },
+      "no_food_colorings": "Geen toegvoegde kleurstoffen"
+    },
+    "category": {
+      "cart_detector": "Winkelmand check",
+      "detecting_beacons": "Detecteren van beacons",
+      "contents": "Inhoud",
+      "analytics": "Analyse ",
+      "images": "Afbeeldingen"
+    },
+    "beacon_detector": {
+      "enable": {
+        "title": "Detecterende bakens inschakelen",
+        "summary": "Om beacons te detecteren die in de buurt van het apparaat aanwezig zijn"
+      },
+      "activity": {
+        "summary": "Om gedetecteerde beacons toe te voegen aan de lijst van ondersteunde beacons",
+        "title": "Beacons detecteren inschakelen"
+      }
+    },
+    "content": {
+      "open_automatically": {
+        "title": "Open inhoud automatisch",
+        "summary": "Inhoud automatisch openen wanneer het product op de voorgrond staat"
+      },
+      "close_automatically": {
+        "delay": {
+          "title": "Vertraging automatisch sluiten inhoud",
+          "summary": {
+            "2": "De vertraging milliseconden tussen inhoud open en inhoud sluiten",
+            "=": "De vertraging in milliseconden tussen inhouddetectie en het openen van inhoudshulpmiddelen"
+          }
+        },
+        "title": "Inhoud automatisch sluiten",
+        "summary": "Als de inhoud automatisch geopend is zal deze automatisch gesloten worden"
+      },
+      "play_video": {
+        "automatically": {
+          "title": "Video automatisch afspelen",
+          "summary": "Video wordt automatisch afgespeeld"
+        },
+        "delay": {
+          "title": "Videospelen vertraging",
+          "summary": "Vertraging tussen openen en videoweergave"
+        }
+      }
+    },
+    "analytics_enable": {
+      "title": "Activeer het versturen van applicatiegegevens",
+      "summary": "Voor het versturen van gegevens over deze app, zodat we deze kunnen verbeteren"
+    }
+  },
+  "superup": {
+    "host": "www.superup.me",
+    "path_prefix": {
+      "product": "/share/product/",
+      "content": "/share/content/"
+    },
+    "schema": "http"
+  },
+  "superdrug": {
+    "host": "www.superdrug.com",
+    "product_path_prefix": "/p/",
+    "blog_path_prefix": "/blog/",
+    "schema": "http"
+  },
+  "watsons": {
+    "host": "www.watsons.com.sg",
+    "path_prefix": "/p/",
+    "schema": "http"
+  },
+  "google_maps_key": "AIzaSyCrYB6eHcjO8sf5ijf1aaP3Q7RGW0bgxNw",
+  "product": {
+    "list_trash_text": "Verwijderen",
+    "list_home_delivery_only": "Alleen thuisbezorging mogelijk",
+    "transition_name": "product%s",
+    "unit": {
+      "item": "Product",
+      "items": "Producten",
+      "gram": "gram",
+      "kilo": "kilo",
+      "libra": "lbs, FALSE",
+      "litter": "ltr, FALSE"
+    },
+    "no": {
+      "brand_error": "Product is helaas niet op voorraad",
+      "barcode_error": "Sorry, er ging iets fout"
+    }
+  },
+  "path": {
+    "play": "M16,24L38,24L27.3,30.8L16,38ZM16,10L27.3,17.2L38,24L16,24Z",
+    "pause": "M12,10L20,10L20,38L12,38ZM28,10L36,10L36,38L28,38Z"
+  },
+  "error": {
+    "304": {
+      "=": "Sorry, er ging iets fout",
+      "msg": "Deze gebruiker is al geregistreerd"
+    },
+    "400": {
+      "=": "Sorry, er ging iets fout",
+      "msg": "Contorleer het mailadres"
+    },
+    "401": {
+      "=": "Sorry, er ging iets fout",
+      "msg": "Controleer de inloggegevens"
+    },
+    "404": {
+      "=": "Sorry, er ging iets fout",
+      "msg": "Controleer de inloggegevens"
+    },
+    "unknown": "Onbekende fout, probeer opnieuw."
+  },
+  "products_information_page": {
+    "label": {
+      "attributes": "Eigenschappen",
+      "online_prices": "Prijzen online",
+      "offline_prices": "Prijzen in winkels",
+      "attribute_per_100_grams": "gr.",
+      "description": "Beschrijving"
+    },
+    "rating_general": "Gemiddelde score: %1$.1f (van %2$d totaal)",
+    "promo_double_deals": {
+      "disabled": "Of",
+      "enabled": "En"
+    }
+  },
+  "share": {
+    "data_chooser_title": "Gedeeld contact ",
+    "product": "Deel dit product",
+    "content": "Deel deze gegevens"
+  },
+  "input_form": {
+    "credit_card": {
+      "invalid_credit_card_number_message": "Contoleer het nummer van je creditcard",
+      "hint": {
+        "card_number": "Creditcardnummer",
+        "cvv": "Contorleer de CVV",
+        "first_name": "Voornaam",
+        "last_name": "Achternaam",
+        "passport_id": "Paspoortnummer",
+        "valid_date": "Geldig tot"
+      },
+      "dialog": {
+        "message_duplicate_card": "Het lijkt erop dat deze creditcard al wordt gebruikt. Weet je zeker dat je deze wilt toevoegen?",
+        "title_duplicate_card": "Duplicaat van creditcard"
+      },
+      "read_phone_permission": {
+        "tittle": "Veiligheidsfout",
+        "message": "We hebben je toestemming nodig om deze gegevens veilig te bewaren. Weet je zeker dat je geen toestemming wilt geven?"
+      },
+      "address_already_exists": "Dit adres is al in gebruik. Probeer opnieuw",
+      "cvv_validation_too_short": "Controleer de CVV"
+    },
+    "club_membership": {
+      "choose_retailer": "Klik om winkel te kiezen",
+      "successful_verification": "Succesvol geverifieerd. Klik als je opnieuw wilt inloggen",
+      "not_verified": "Je hebt deze nog niet geverifieerd, klik als je nu wilt controleren",
+      "have_all_cards": "Heb je al kaarten van alle winkels?",
+      "forgot_password": "Wachtwoord vergeten?"
+    },
+    "address": {
+      "current_location": {
+        "title": "Huidige locatie",
+        "message": "Wil je je huidige locatie gebruiken als adres?"
+      },
+      "empty_address_information_title": "Sorry, er ging iets fout",
+      "hint": {
+        "apartment": "Toevoeging",
+        "city": "Plaats",
+        "floor": "Vloer",
+        "house": "Huisnummer",
+        "name": "Naam",
+        "street": "Straat",
+        "zip_code": "Postcode"
+      },
+      "address_already_exists": "Dit adres is al in gebruik. Probeer opnieuw",
+      "connection_failed": "Oeps, de verbinding is verbroken",
+      "home": "Thuis",
+      "office": "Kantoor",
+      "other": "Overig"
+    },
+    "general_error": "Fout",
+    "error_please_try_again": "Probeer opnieuw",
+    "empty_validator_message": "Kan niet leeg zijn",
+    "something_wrong": "Oeps, er ging iets mis. Probeer opnieuw."
+  },
+  "fragment": {
+    "captcha_code_hint": {
+      "input_code": "Invoercode",
+      "confirm": "Bevestig"
+    },
+    "content_button_text": {
+      "categories": "menu",
+      "scan": "scan",
+      "cart": "voeg toe",
+      "flash": "flits",
+      "microphone": "spraak",
+      "home": "home",
+      "close": "sluiten",
+      "search": "zoek",
+      "media": "media"
+    },
+    "beacon_detector_camera_permission_not_granted": "Mogen we je camera gebruiken? Klik hier om toestemming te geven.",
+    "object_detector_camera_permission_not_granted": "Mogen we je camera gebruiken? Klik hier om toestemming te geven.",
+    "menu_object_detection_recognition_error": "Sorry, we kunnen het product niet vinden. Probeer opnieuw"
+  },
+  "clearable_auto_complete_text_view_hint": "Voer plaats in....",
+  "dialog": {
+    "positive_response_button": "Ja",
+    "negative_response_button": "Nee",
+    "response": {
+      "ok": "OK",
+      "cancel": "Annuleer"
+    }
+  },
+  "shelf_activity_no_results_message": "Geen resultaten voor %1$s",
+  "user_registration_no_platform_access": "Neem contact op met Royal App admin om je toegang te verlenen tot relevante retailers' db",
+  "repoUrl": "https://github.com/pro100svitlo/Credit-Card-NFC-Reader#questions-and-help",
+  "youtube_place_holder_url": "https://img.youtube.com/vi/%s/hqdefault.jpg",
+  "notification_cart": {
+    "update": {
+      "title": "Winkelmand update",
+      "name": "Winkelmand update: %1$s",
+      "product_change": "%1$s wijzig aantal producten in de winkelmand in  %2$s"
+    },
+    "share": {
+      "title": "Winkelmand gedeeld",
+      "accept_title": "Winkelmand geaccepteerd",
+      "name": {
+        "change": {
+          "=": "De naam van de gedeelde winkelmand is gewijzigd in %1$s?",
+          "title": "Naam winkelmand is gewijzigd",
+          "empty": "Naam gedeelde winkelmand is niet gevuld"
+        },
+        "phone": "Gebruiker %1$s, met telefoonnummer: %2$s deelt een winkelmand met u"
+      },
+      "users_change_title": "Winkelmand gebruiker aangepast",
+      "phone": "Gebruiker met telefoonnummer: %1$s deelt een winkelmand met u",
+      "response": {
+        "positive": "Accepteren",
+        "negative": "Afwijzen"
+      }
+    },
+    "unshare": {
+      "title": "Winkelmand wordt niet meer gedeeld",
+      "name_phone": "Gebruiker %1$s, met telefoonnummer: %2$s  deelt winkelmand niet meer met u",
+      "phone": "Gebruiker met telefoonnummer: %1$s  deelt winkelmand niet meer met u."
+    },
+    "accept": {
+      "name_phone": "Gebruiker % 1$s, met telefoonnummer: %2$s accepteerd uw gedeelde winkelmand",
+      "phone": "Gebruiker met telefoonnummer: %1$s heeft uw gedeelde winkelmand geaccepteerd"
+    },
+    "user_change": {
+      "name_phone": "Gebruiker %1$s, met telefoonnummer: %2$s heeft aantal gebruikers voor de winkelmand gewijzigd",
+      "phone": "Gebruiker met telefoonnummer: %1$s heeft aantal gebruikers voor de winkelmand gewijzigd"
+    }
+  },
+  "platform_name": {
+    "boots": "Boots",
+    "shufersal": "Shufersal",
+    "kruidvat": "Kruidvat",
+    "cogo": "Collect&amp;Go",
+    "superdrug": "Superdrug",
+    "albertsons": "Albertsons"
+  },
+  "service": {
+    "=": "Klantenservice",
+    "download": {
+      "download_failed": "Downloaden is helaas niet gelukt",
+      "no_realm_db": "Geen Realm-database in het ZIP-bestand"
+    }
+  },
+  "empty": "false",
+  "do": {
+    "you_have_your_extra_advantage_card": "Heb je een Jouw extra voordeelkaart?",
+    "no_have_your_card_yet": "Heb je nog geen Jouw extra voordeelkaart?"
+  },
+  "edit_user_details": "Wijzig profiel",
+  "tell_us_who_are_you": "Vertel ons meer over jezelf",
+  "customer_service": "Klantenservice",
+  "deep_link": {
+    "schema": "SuperUp",
+    "open_prefix": "Open"
+  },
+  "order_is_pending": "Je bestelling is geplaatst. We gaan ermee aan de slag. Vragen? Onze klantenservice helpt je graag.",
+  "license_agreement": {
+    "=": "Algemene Voorwaarden",
+    "is_changed": "Er is iets veranderd!"
+  },
+  "terms_amp_conditions": "Algemene Voorwaarden",
+  "expired_session": {
+    "title": "Sorry, deze sessie is verlopen",
+    "message": "Probeer opnieuw in te loggen"
+  },
+  "enter": {
+    "the_verification_code_we_sent_you": "Vul de verificatiecode in die we per SMS hebben verzonden",
+    "your_mobile_number_to_login": "Hoi!<br>Wat leuk dat je onze app hebt gedownload.<br>Om de app te installeren, vragen we je telefoonnummer. We sturen dan eenmalig een inlogcode naar dit nummer."
+  },
+  "an_email": {
+    "that_contains_a_link_to_reset_your_password_have_been_sent_to_you": "Er is een e-mail verstuurd met instructie en link om een nieuw wachtwoord aan te maken.",
+    "with_kruidvat_login_detail_will_be_sent_to_you": "We sturen een mail met je inloggegevens."
+  },
+  "house_number_is_not_valid": "Controleer het huisnummer",
+  "not_valid": {
+    "card_message": "Uit veiligheidsoverwegingen kunnen we deze creditcard niet gebruiken.",
+    "email": "Er bestaat al een account met dit mailadres"
+  },
+  "version": "Versie",
+  "cvv_error_message": "Controleer de CVV-code",
+  "activate_tutorial": "Instructievideo’s",
+  "a_reset_link_is_sent_to_your_email": "",
+  "where_are_you": "Wat is je locatie?",
+  "login_activity": {
+    "skip_button": "Sla over",
+    "change_number": "<u>Pas nummer aan</u>"
+  },
+  "use_my_location": "Gebruik huidige locatie",
+  "no": {
+    "internet_message": "Oeps, er is even geen internet. Controleer je internetverbinding en probeer opnieuw.",
+    "credit_cards_message": "Geen creditcards"
+  },
+  "ingenico_error_was_occurred_please_click_button_to_try_again": "Sorry, we hebben een probleem met de betaling. Probeer nog een keer.",
+  "zip_code_not_valid": "Controleer de postcode",
+  "check": "Controleer",
+  "log_out": "Uitloggen",
+  "get_your_card_for_free_from_kruidvat_store_near_your_area": "Haal Jouw extra voordeelkaart gratis op in de winkel",
+  "next": "Volgende",
+  "address": {
+    "not_found_title": "Controleer je adres, huisnummer en/of postcode",
+    "is_not_valid": "Controleer je adresinformatie"
+  },
+  "loyalty_card_number_hint": "Vul de 13 cijfers van je kaart in",
+  "if_you_dont_have_one_enter_your_e_mail": "Als je deze niet hebt, kun je ook een mailadres invullen",
+  "thank_you_for_registering": "Bedankt voor je registreren",
+  "privacy_policy": "Privacybeleid",
+  "forgot_password": "<u>Wachtwoord aanvragen</u>",
+  "daily_deal_card_text": {
+    "activate": "Activeer",
+    "activated": "Nu winkelen",
+    "bought": "Uitgevoerd"
+  },
+  "use_current_location": "Gebruik huidige Locatie",
+  "club_membership_input_form_register_card": "Registreer Jouw Extra Voordeelkaart",
+  "tooltip_message": {
+    "personal_marketing": {
+      "news_letter": "Nooit meer een aanbieding of actie missen? Blijf per e-mail op de hoogte van alle aanbiedingen van Kruidvat.",
+      "extra_offers": "Ontvang dagelijks of wekelijks jouw persoonlijke EXTRA aanbieding per email. Met deze verrassende, voor jouw relevante, aanbiedingen krijg je nog meer voordeel dan je al van Kruidvat gewend bent.",
+      "recommendations": "Aanbiedingen op basis van je gebruik van onze website en/of app en aankopen online of in de winkel. Zie paragraaf 6 van ons <a href=https://www.kruidvat.nl/privacystatement>Privacybeleid</a>"
+    },
+    "login_phone_number": "We gebruiken je telefoonnumber als we contact met je op moeten nemen over je bestelling en in sommige gevallen om je te informeren over speciale evenementen.",
+    "login_description": "We gebruiken je mailadres om je te informeren over je bestellingen en in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd.",
+    "profile": {
+      "birthday": "We gebruiken je geboortedatum om je leeftijd te controleren. Soms is dit wettelijk nodig. In sommige gevallen gebruiken we je geboortedatum om je aanbiedingen en nieuws passend bij je leeftijd aan te bieden.",
+      "password": "Hou bij het kiezen van je wachtwoord rekening met het volgende : 1. Maak een wachtwood met minstens 8 tekens. 2.Gebruik minstens 1 letter in je wachtwood. 3. Gebruik minstens 1 cijfer in je wachtwood.",
+      "avatar": "We gebruiken je profielfoto om de app persoonlijker te maken en wanneer je je winkelwagen deelt, de ontvanger jou herkent",
+      "gender": "We gebruiken je gender om je op de juiste manier aan te kunnen spreken en om te zorgen dat je aanbiedingen krijgt die bij je passen. "
+    },
+    "address_zip": "We gebruiken je adres om te zorgen dat je we je bestelling op de juiste locatie bezorgen. En in sommige gevallen voor aanbiedingen en nieuws op jou afgestemd."
+  },
+  "default_country_code_name": "NL",
+  "search_token_or": "or",
+  "rate_app_dialog": {
+    "positive_button_text": "Misschien later",
+    "negative_button_text": "Nooit",
+    "submit_feedback": "Feedback verzenden",
+    "hint": "Vertel ons waar we ons kunnen verbeteren",
+    "submit_text": "voorleggen",
+    "cancel_text": "Annuleer"
+  },
+  "url_privacy": {
+    "policy": "https://www.kruidvat.nl/privacybeleid",
+    "terms_conditions": "https://www.kruidvat.nl/algemenevoorwaarden",
+    "eulas": "https://www.kruidvat.nl/algemenevoorwaarden"
+  },
+  "url_eulas": "https://www.kruidvat.nl/algemenevoorwaarden"
+}
